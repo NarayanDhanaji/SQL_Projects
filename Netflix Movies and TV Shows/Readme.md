@@ -23,7 +23,7 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 The data for this project is sourced from the Kaggle dataset:
 
 
-- Netflix Movies and TV Shows:[Dataset Link](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+- Netflix Movies and TV Shows:[Dataset Link](https://github.com/NarayanDhanaji/SQL_Projects/blob/main/Netflix%20Movies%20and%20TV%20Shows/Netflix.xlsx)
 
 # Schema
         CREATE DATABASE netflix;
