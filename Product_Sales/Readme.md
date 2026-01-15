@@ -51,7 +51,7 @@ and promotion effectiveness, impacting decision-making.
  
  SQL Anaysis    : [Sql_queries](https://github.com/NarayanDhanaji/SQL_Projects/blob/main/Product_Sales/Product_sales_queries.sql)
  
- Excel Analysis : [Excel_dashboard]() 
+ Excel Analysis : [Excel_dashboard](https://github.com/NarayanDhanaji/SQL_Projects/blob/main/Product_Sales/Dashboard.png) 
  
  Project Report : [Product Sales Performance Analysis Report]() 
 
