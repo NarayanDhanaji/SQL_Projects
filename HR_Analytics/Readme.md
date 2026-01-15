@@ -1,5 +1,5 @@
 ## HR Analytics – Employee Attrition Analysis using SQL & Power BI 
-![HR Analytics](https://github.com/Mahadevkempe/SQL_Projects/blob/main/HR%20Analysis/HR-analytics.jpg)
+![HR Analytics](https://github.com/NarayanDhanaji/SQL_Projects/blob/main/HR_Analytics/HR-analytics.jpg)
 
 ## Project Overview
 -This project analyzes employee data to understand attrition patterns, 
