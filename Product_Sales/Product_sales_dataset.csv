@@ -1,0 +1,1501 @@
+﻿OrderID,OrderDate,Region,Product,Quantity,UnitPrice,TotalPrice,Discount,Promotion,Returned,CustomerType,Salesperson,PaymentMethod,StoreLocation,ShippingCost,DeliveryDate,Months,Years
+REG100000,2023-02-23,East,Laptop,14,163.6,2290.4,0,Freeship,0,Wholesale,Eva,Online,Store B,43.34,2023-02-27,February,2023
+REG100001,2024-12-19,South,Phone,1,544.01,544.01,0,Save10,0,Retail,Alice,Gift Card,Store A,5.3,2024-12-28,December,2024
+REG100002,2023-05-10,North,Desk,14,346.18,4361.868,0.1,Winter15,0,Wholesale,Alice,Online,Store B,20.46,2023-05-19,May,2023
+REG100003,2025-02-26,Central,Chair,18,384.82,5887.746,0.15,Freeship,0,Wholesale,Frank,Gift Card,Store A,27.95,2025-03-02,February,2025
+REG100004,2023-06-24,East,Desk,18,237.76,4279.68,0,Save10,0,Retail,Carlos,Online,Store C,5.73,2023-06-27,June,2023
+REG100005,2024-02-20,Central,Monitor,2,385.09,654.653,0.15,No Promostion,0,Wholesale,Diana,Credit Card,Store D,11.92,2024-03-01,February,2024
+REG100006,2023-01-11,South,Chair,7,17.5,110.25,0.1,Winter15,0,Retail,Alice,Debit Card,Store C,5.02,2023-01-14,January,2023
+REG100007,2023-01-09,Central,Chair,3,330.22,842.061,0.15,No Promostion,0,Wholesale,Carlos,Cash,Store C,48.01,2023-01-11,January,2023
+REG100008,2024-10-16,South,Chair,3,432.04,1231.314,0.05,Freeship,1,Wholesale,Bob,Debit Card,Store D,42.11,2024-10-18,October,2024
+REG100009,2025-03-05,West,Desk,5,323.28,1454.76,0.1,Save10,0,Retail,Frank,Gift Card,Store D,41.1,2025-03-13,March,2025
+REG100010,2024-04-10,North,Desk,15,523.29,6671.9475,0.15,No Promostion,0,Wholesale,Eva,Debit Card,Store B,12.14,2024-04-17,April,2024
+REG100011,2024-07-12,East,Phone,19,207.35,3545.685,0.1,No Promostion,1,Retail,Eva,Gift Card,Store D,44.89,2024-07-18,July,2024
+REG100012,2023-07-21,Central,Phone,1,120.53,114.5035,0.05,Winter15,0,Retail,Diana,Cash,Store B,20.35,2023-07-31,July,2023
+REG100013,2025-01-18,West,Tablet,1,157.83,134.1555,0.15,No Promostion,0,Wholesale,Carlos,Debit Card,Store A,42.82,2025-01-22,January,2025
+REG100014,2024-12-08,North,Desk,15,220.3,2808.825,0.15,No Promostion,0,Retail,Diana,Debit Card,Store B,39.66,2024-12-15,December,2024
+REG100015,2025-05-11,West,Chair,17,162.96,2631.804,0.05,Freeship,0,Wholesale,Eva,Gift Card,Store A,8.11,2025-05-17,May,2025
+REG100016,2023-02-26,West,Laptop,19,236.11,4486.09,0,Winter15,0,Wholesale,Bob,Online,Store D,34.11,2023-03-04,February,2023
+REG100017,2024-05-28,Central,Desk,11,573.14,5989.313,0.05,Save10,0,Retail,Diana,Cash,Store D,34.71,2024-06-01,May,2024
+REG100018,2023-11-30,East,Phone,20,519.04,8823.68,0.15,Freeship,0,Retail,Carlos,Gift Card,Store B,19.43,2023-12-08,November,2023
+REG100019,2023-06-22,West,Desk,14,30.83,431.62,0,Winter15,1,Retail,Carlos,Online,Store B,7.1,2023-07-02,June,2023
+REG100020,2025-06-05,West,Phone,10,319.05,3190.5,0,No Promostion,0,Wholesale,Diana,Online,Store D,28.43,2025-06-08,June,2025
+REG100021,2023-03-03,Central,Chair,14,312.79,4160.107,0.05,No Promostion,1,Retail,Bob,Online,Store A,46.83,2023-03-08,March,2023
+REG100022,2024-02-18,North,Laptop,14,395.45,5536.3,0,Freeship,1,Retail,Carlos,Cash,Store C,36.45,2024-02-22,February,2024
+REG100023,2023-08-06,Central,Laptop,12,472.72,4821.744,0.15,No Promostion,0,Retail,Diana,Credit Card,Store D,27.97,2023-08-14,August,2023
+REG100024,2024-05-23,North,Desk,5,288.01,1440.05,0,Freeship,0,Wholesale,Eva,Credit Card,Store A,46.69,2024-05-30,May,2024
+REG100025,2023-10-23,East,Phone,13,562.29,7309.77,0,Save10,0,Retail,Diana,Gift Card,Store D,38.13,2023-10-28,October,2023
+REG100026,2025-06-16,West,Phone,1,101.73,101.73,0,Winter15,0,Retail,Frank,Debit Card,Store D,11.59,2025-06-25,June,2025
+REG100027,2023-03-03,North,Phone,4,279.49,1117.96,0,Freeship,0,Retail,Diana,Credit Card,Store B,24.78,2023-03-08,March,2023
+REG100028,2024-11-18,South,Laptop,1,178.55,151.7675,0.15,Save10,1,Retail,Carlos,Debit Card,Store A,7.61,2024-11-21,November,2024
+REG100029,2023-05-09,Central,Tablet,1,472.07,424.863,0.1,Freeship,0,Wholesale,Carlos,Online,Store A,33.17,2023-05-17,May,2023
+REG100030,2024-12-07,North,Tablet,12,306.29,3675.48,0,Save10,0,Retail,Frank,Debit Card,Store D,37.38,2024-12-14,December,2024
+REG100031,2024-02-13,North,Phone,7,434.77,2586.8815,0.15,Save10,0,Retail,Frank,Online,Store C,12.35,2024-02-15,February,2024
+REG100032,2025-03-09,South,Desk,6,64.98,389.88,0,Winter15,0,Retail,Carlos,Debit Card,Store C,21.25,2025-03-15,March,2025
+REG100033,2023-04-05,Central,Desk,17,476.49,8100.33,0,No Promostion,0,Retail,Alice,Gift Card,Store D,17.91,2023-04-11,April,2023
+REG100034,2025-05-08,North,Monitor,4,559.72,1903.048,0.15,Save10,0,Retail,Diana,Online,Store D,41.91,2025-05-12,May,2025
+REG100035,2023-09-03,North,Tablet,14,82.14,1149.96,0,No Promostion,0,Retail,Alice,Credit Card,Store C,12.57,2023-09-11,September,2023
+REG100036,2025-03-21,Central,Chair,9,343.21,2934.4455,0.05,Freeship,0,Retail,Carlos,Debit Card,Store A,40.29,2025-03-28,March,2025
+REG100037,2025-06-20,South,Chair,7,301.01,1791.0095,0.15,Save10,1,Retail,Diana,Cash,Store B,34.97,2025-06-30,June,2025
+REG100038,2024-02-15,Central,Printer,14,428.13,5394.438,0.1,No Promostion,1,Retail,Bob,Cash,Store C,24.77,2024-02-25,February,2024
+REG100039,2023-06-09,Central,Laptop,2,503.28,855.576,0.15,No Promostion,0,Retail,Alice,Gift Card,Store D,34.79,2023-06-17,June,2023
+REG100040,2023-08-10,South,Printer,5,470.32,2116.44,0.1,Save10,0,Retail,Eva,Debit Card,Store A,17.77,2023-08-14,August,2023
+REG100041,2024-06-16,Central,Printer,20,65.17,1238.23,0.05,Freeship,0,Wholesale,Eva,Gift Card,Store C,21.72,2024-06-25,June,2024
+REG100042,2023-07-23,South,Laptop,12,36.17,434.04,0,Winter15,0,Retail,Eva,Online,Store A,34.85,2023-07-26,July,2023
+REG100043,2023-05-20,Central,Printer,4,459.31,1561.654,0.15,Winter15,1,Wholesale,Carlos,Gift Card,Store D,27.39,2023-05-27,May,2023
+REG100044,2023-06-30,South,Laptop,2,416.06,790.514,0.05,Save10,0,Retail,Eva,Debit Card,Store D,11.62,2023-07-04,June,2023
+REG100045,2024-06-04,South,Tablet,16,302.58,4841.28,0,Winter15,1,Retail,Alice,Online,Store D,20.76,2024-06-14,June,2024
+REG100046,2025-02-03,West,Chair,11,33.13,309.7655,0.15,Freeship,0,Retail,Frank,Online,Store A,24.95,2025-02-05,February,2025
+REG100047,2024-01-09,East,Tablet,8,582.52,3961.136,0.15,Winter15,0,Retail,Frank,Gift Card,Store D,6.47,2024-01-13,January,2024
+REG100048,2024-03-14,North,Desk,5,165.15,743.175,0.1,No Promostion,0,Retail,Eva,Gift Card,Store A,20.57,2024-03-16,March,2024
+REG100049,2024-09-06,West,Monitor,14,242.82,2889.558,0.15,Winter15,1,Wholesale,Alice,Cash,Store D,20.71,2024-09-13,September,2024
+REG100050,2023-03-17,East,Monitor,13,65.99,772.083,0.1,Winter15,0,Wholesale,Frank,Cash,Store A,12.87,2023-03-20,March,2023
+REG100051,2025-01-17,West,Chair,2,251.69,503.38,0,Freeship,0,Wholesale,Alice,Debit Card,Store C,42.49,2025-01-24,January,2025
+REG100052,2024-09-12,South,Laptop,1,269.41,242.469,0.1,Winter15,1,Wholesale,Eva,Cash,Store B,19.22,2024-09-18,September,2024
+REG100053,2024-01-05,South,Monitor,2,371.3,705.47,0.05,Save10,0,Wholesale,Bob,Credit Card,Store B,36.51,2024-01-15,January,2024
+REG100054,2024-04-19,West,Tablet,11,288.24,2695.044,0.15,No Promostion,0,Wholesale,Diana,Online,Store A,37.39,2024-04-25,April,2024
+REG100055,2025-06-11,Central,Tablet,11,232.75,2432.2375,0.05,Save10,0,Wholesale,Eva,Credit Card,Store D,36.33,2025-06-21,June,2025
+REG100056,2025-03-06,East,Phone,17,146.28,2113.746,0.15,Save10,0,Retail,Carlos,Cash,Store B,7.84,2025-03-15,March,2025
+REG100057,2023-05-24,East,Chair,5,100.38,451.71,0.1,Winter15,1,Retail,Eva,Gift Card,Store C,18.35,2023-05-26,May,2023
+REG100058,2023-01-27,South,Phone,11,375.48,3923.766,0.05,Winter15,0,Retail,Bob,Debit Card,Store B,15.95,2023-02-03,January,2023
+REG100059,2024-03-21,South,Laptop,18,316.89,5418.819,0.05,Freeship,0,Wholesale,Bob,Cash,Store B,15.69,2024-03-27,March,2024
+REG100060,2025-01-25,West,Laptop,20,295.06,5016.02,0.15,Save10,1,Retail,Frank,Online,Store D,13.66,2025-01-31,January,2025
+REG100061,2023-06-12,Central,Phone,8,301.68,2413.44,0,Save10,0,Retail,Eva,Cash,Store D,36.54,2023-06-21,June,2023
+REG100062,2025-03-22,Central,Chair,3,475.39,1283.553,0.1,No Promostion,0,Retail,Alice,Gift Card,Store B,15.62,2025-03-26,March,2025
+REG100063,2024-02-24,Central,Desk,16,47.25,642.6,0.15,Freeship,0,Retail,Bob,Debit Card,Store D,29.5,2024-02-27,February,2024
+REG100064,2023-12-09,South,Chair,15,511.17,7667.55,0,Freeship,0,Wholesale,Frank,Online,Store B,21.77,2023-12-12,December,2023
+REG100065,2023-10-01,Central,Monitor,3,66.58,179.766,0.1,Freeship,0,Retail,Frank,Debit Card,Store B,22.43,2023-10-05,October,2023
+REG100066,2023-07-31,West,Tablet,5,490.52,2329.97,0.05,No Promostion,0,Wholesale,Frank,Online,Store D,12.24,2023-08-07,July,2023
+REG100067,2024-12-24,South,Chair,8,405.96,3085.296,0.05,Winter15,0,Wholesale,Carlos,Credit Card,Store A,41.27,2024-12-31,December,2024
+REG100068,2024-11-15,North,Phone,1,159.41,143.469,0.1,Freeship,0,Retail,Bob,Credit Card,Store B,35.14,2024-11-19,November,2024
+REG100069,2025-03-13,West,Monitor,16,38.49,523.464,0.15,Save10,0,Retail,Carlos,Debit Card,Store C,8.38,2025-03-22,March,2025
+REG100070,2024-03-03,East,Tablet,15,328.36,4186.59,0.15,Winter15,0,Retail,Alice,Gift Card,Store D,15.76,2024-03-12,March,2024
+REG100071,2023-02-11,Central,Tablet,20,548.01,9864.18,0.1,Winter15,1,Wholesale,Eva,Credit Card,Store A,5.89,2023-02-14,February,2023
+REG100072,2023-10-26,South,Desk,13,484.45,5982.9575,0.05,Winter15,1,Wholesale,Carlos,Gift Card,Store B,6.57,2023-11-05,October,2023
+REG100073,2023-10-21,South,Monitor,13,195.84,2418.624,0.05,No Promostion,0,Wholesale,Alice,Credit Card,Store A,33.52,2023-10-28,October,2023
+REG100074,2024-01-14,Central,Tablet,19,29.94,483.531,0.15,Freeship,0,Retail,Diana,Debit Card,Store D,33.59,2024-01-20,January,2024
+REG100075,2023-07-27,Central,Desk,10,553.91,4985.19,0.1,No Promostion,0,Wholesale,Eva,Online,Store D,31.3,2023-07-31,July,2023
+REG100076,2024-10-23,South,Phone,14,445.52,5613.552,0.1,Save10,0,Retail,Bob,Online,Store B,14.41,2024-10-25,October,2024
+REG100077,2023-09-26,South,Chair,5,551.58,2344.215,0.15,Winter15,1,Retail,Alice,Online,Store B,7.87,2023-10-01,September,2023
+REG100078,2023-12-16,East,Phone,13,241.4,3138.2,0,Save10,0,Retail,Carlos,Gift Card,Store D,49.05,2023-12-20,December,2023
+REG100079,2024-01-02,Central,Printer,19,351.93,6686.67,0,No Promostion,0,Wholesale,Alice,Credit Card,Store A,39.98,2024-01-05,January,2024
+REG100080,2024-02-16,North,Phone,4,83.75,318.25,0.05,Save10,1,Retail,Alice,Debit Card,Store A,38.82,2024-02-25,February,2024
+REG100081,2024-05-03,East,Monitor,5,416.95,1772.0375,0.15,No Promostion,1,Wholesale,Frank,Online,Store A,24.03,2024-05-12,May,2024
+REG100082,2023-05-27,West,Monitor,18,142.43,2435.553,0.05,Save10,1,Retail,Bob,Credit Card,Store C,12.38,2023-06-02,May,2023
+REG100083,2023-01-05,East,Desk,12,582.52,6990.24,0,Freeship,0,Wholesale,Bob,Credit Card,Store A,41.16,2023-01-11,January,2023
+REG100084,2025-05-21,East,Chair,20,129.56,2202.52,0.15,Winter15,0,Retail,Diana,Online,Store A,40.21,2025-05-23,May,2025
+REG100085,2023-07-21,Central,Tablet,17,431.82,7340.94,0,Freeship,1,Retail,Eva,Gift Card,Store B,37.75,2023-07-25,July,2023
+REG100086,2025-05-25,East,Laptop,15,15.85,237.75,0,Winter15,0,Retail,Bob,Debit Card,Store C,23.49,2025-06-03,May,2025
+REG100087,2024-11-16,South,Tablet,20,548.34,9870.12,0.1,Winter15,0,Retail,Bob,Gift Card,Store B,33.47,2024-11-22,November,2024
+REG100088,2023-11-19,North,Laptop,16,525.83,7992.616,0.05,No Promostion,0,Wholesale,Frank,Online,Store C,36.47,2023-11-25,November,2023
+REG100089,2025-01-12,Central,Laptop,15,411.38,5862.165,0.05,Save10,0,Wholesale,Bob,Online,Store A,48.51,2025-01-21,January,2025
+REG100090,2023-03-29,North,Monitor,19,559.95,9575.145,0.1,Winter15,0,Wholesale,Carlos,Credit Card,Store A,18.3,2023-04-03,March,2023
+REG100091,2025-03-01,North,Desk,8,179.9,1367.24,0.05,Save10,0,Retail,Carlos,Online,Store C,14.8,2025-03-05,March,2025
+REG100092,2023-10-18,North,Chair,12,494.15,5040.33,0.15,Save10,1,Wholesale,Diana,Online,Store B,18.05,2023-10-20,October,2023
+REG100093,2025-04-13,East,Desk,10,462.99,4629.9,0,Winter15,0,Wholesale,Bob,Credit Card,Store C,5.01,2025-04-15,April,2025
+REG100094,2025-05-13,Central,Laptop,7,460.24,3060.596,0.05,Save10,1,Retail,Alice,Cash,Store A,11.54,2025-05-23,May,2025
+REG100095,2024-04-21,West,Printer,17,309.52,4998.748,0.05,Freeship,0,Wholesale,Eva,Online,Store B,6.11,2024-04-27,April,2024
+REG100096,2025-01-31,Central,Monitor,1,323.83,307.6385,0.05,Winter15,0,Wholesale,Eva,Credit Card,Store B,27.48,2025-02-08,January,2025
+REG100097,2025-03-14,Central,Chair,10,503.07,5030.7,0,Freeship,0,Retail,Bob,Credit Card,Store C,44.61,2025-03-19,March,2025
+REG100098,2024-05-26,West,Laptop,20,491.68,8358.56,0.15,Save10,1,Wholesale,Alice,Online,Store D,43.46,2024-05-29,May,2024
+REG100099,2023-07-22,North,Phone,17,468.45,7565.4675,0.05,Freeship,0,Retail,Carlos,Credit Card,Store A,17.88,2023-07-26,July,2023
+REG100100,2024-03-21,North,Laptop,11,401.76,3756.456,0.15,Save10,0,Retail,Frank,Gift Card,Store D,48.03,2024-03-30,March,2024
+REG100101,2023-04-05,West,Printer,3,221,663,0,Freeship,0,Wholesale,Frank,Cash,Store B,32.31,2023-04-08,April,2023
+REG100102,2024-08-26,East,Monitor,6,188.45,1074.165,0.05,No Promostion,0,Wholesale,Alice,Gift Card,Store C,6.77,2024-09-01,August,2024
+REG100103,2024-07-07,North,Desk,3,566.2,1698.6,0,Freeship,1,Retail,Bob,Gift Card,Store D,28.97,2024-07-17,July,2024
+REG100104,2023-09-29,East,Monitor,14,167.09,2222.297,0.05,Save10,1,Retail,Alice,Gift Card,Store D,47.05,2023-10-08,September,2023
+REG100105,2023-10-04,West,Monitor,16,36.16,520.704,0.1,Freeship,0,Wholesale,Carlos,Debit Card,Store C,26.64,2023-10-11,October,2023
+REG100106,2025-06-09,Central,Printer,2,73.94,140.486,0.05,Save10,0,Wholesale,Carlos,Debit Card,Store B,28.05,2025-06-16,June,2025
+REG100107,2025-06-12,East,Printer,16,459.49,6616.656,0.1,Save10,0,Wholesale,Eva,Online,Store A,26.99,2025-06-14,June,2025
+REG100108,2024-06-29,East,Chair,3,168.05,504.15,0,No Promostion,1,Retail,Carlos,Cash,Store A,21.08,2024-07-06,June,2024
+REG100109,2024-03-23,North,Printer,14,37.54,446.726,0.15,No Promostion,1,Retail,Alice,Credit Card,Store B,49.6,2024-04-02,March,2024
+REG100110,2024-07-14,South,Tablet,4,151.16,604.64,0,Save10,1,Wholesale,Alice,Gift Card,Store B,41.4,2024-07-21,July,2024
+REG100111,2024-03-15,South,Tablet,17,78.58,1202.274,0.1,Winter15,0,Wholesale,Bob,Gift Card,Store A,8.02,2024-03-25,March,2024
+REG100112,2025-04-19,Central,Chair,15,37.33,531.9525,0.05,No Promostion,1,Retail,Carlos,Cash,Store B,43.69,2025-04-24,April,2025
+REG100113,2024-02-15,West,Tablet,18,537.02,8216.406,0.15,Save10,0,Wholesale,Carlos,Debit Card,Store A,23.94,2024-02-20,February,2024
+REG100114,2024-01-25,East,Desk,5,215.6,1078,0,Winter15,0,Wholesale,Frank,Online,Store C,28.36,2024-02-04,January,2024
+REG100115,2025-04-15,Central,Laptop,18,209.5,3771,0,Freeship,0,Wholesale,Carlos,Credit Card,Store D,38.23,2025-04-23,April,2025
+REG100116,2025-04-15,Central,Chair,8,348.98,2512.656,0.1,Freeship,0,Retail,Frank,Online,Store A,19.17,2025-04-20,April,2025
+REG100117,2024-08-11,West,Printer,2,289.14,549.366,0.05,Save10,0,Retail,Diana,Online,Store C,5.13,2024-08-13,August,2024
+REG100118,2023-12-01,South,Desk,5,396.93,1984.65,0,Freeship,0,Wholesale,Diana,Credit Card,Store B,48.63,2023-12-08,December,2023
+REG100119,2023-08-06,Central,Laptop,10,508.57,4831.415,0.05,Save10,0,Retail,Bob,Online,Store D,9.35,2023-08-11,August,2023
+REG100120,2024-01-24,Central,Laptop,11,259.61,2570.139,0.1,Freeship,0,Wholesale,Carlos,Cash,Store C,13.73,2024-01-31,January,2024
+REG100121,2024-03-07,Central,Chair,9,313.29,2819.61,0,Freeship,0,Retail,Carlos,Online,Store D,14.04,2024-03-13,March,2024
+REG100122,2024-01-22,South,Tablet,5,106.57,479.565,0.1,Save10,1,Wholesale,Carlos,Debit Card,Store C,25.24,2024-01-28,January,2024
+REG100123,2023-02-23,East,Printer,1,109,92.65,0.15,Winter15,1,Retail,Frank,Cash,Store B,8.03,2023-02-27,February,2023
+REG100124,2023-06-14,North,Tablet,8,323.8,2590.4,0,Save10,1,Retail,Diana,Cash,Store B,35.23,2023-06-22,June,2023
+REG100125,2025-05-13,North,Laptop,16,384.32,5841.664,0.05,Freeship,0,Retail,Frank,Cash,Store A,21.5,2025-05-15,May,2025
+REG100126,2024-07-30,Central,Printer,16,163.86,2228.496,0.15,Freeship,0,Retail,Diana,Gift Card,Store C,37.95,2024-08-06,July,2024
+REG100127,2024-07-18,East,Tablet,5,23.41,117.05,0,Winter15,0,Wholesale,Frank,Credit Card,Store B,26.44,2024-07-27,July,2024
+REG100128,2024-08-26,East,Printer,20,488.9,8311.3,0.15,Freeship,0,Wholesale,Eva,Gift Card,Store C,21.77,2024-09-01,August,2024
+REG100129,2025-06-08,West,Tablet,7,452.56,3009.524,0.05,Freeship,0,Wholesale,Frank,Gift Card,Store A,46.97,2025-06-15,June,2025
+REG100130,2025-05-16,North,Desk,11,465.24,5117.64,0,No Promostion,1,Wholesale,Carlos,Debit Card,Store A,17.59,2025-05-23,May,2025
+REG100131,2024-07-18,East,Phone,14,442.65,6197.1,0,Save10,0,Retail,Eva,Gift Card,Store B,28.76,2024-07-24,July,2024
+REG100132,2023-09-17,West,Laptop,12,469.44,5633.28,0,Freeship,0,Wholesale,Bob,Online,Store B,33.3,2023-09-26,September,2023
+REG100133,2023-03-13,East,Monitor,14,248.77,3308.641,0.05,Freeship,1,Wholesale,Bob,Debit Card,Store C,21.76,2023-03-19,March,2023
+REG100134,2023-03-29,South,Chair,4,565.29,2148.102,0.05,No Promostion,0,Wholesale,Alice,Cash,Store D,27.04,2023-04-03,March,2023
+REG100135,2023-07-14,Central,Desk,12,244.8,2790.72,0.05,Freeship,0,Wholesale,Frank,Online,Store B,44.75,2023-07-23,July,2023
+REG100136,2024-03-22,West,Laptop,13,290.93,3592.9855,0.05,Freeship,0,Retail,Diana,Credit Card,Store C,26.09,2024-03-31,March,2024
+REG100137,2024-05-14,Central,Laptop,11,229.49,2271.951,0.1,No Promostion,0,Retail,Bob,Cash,Store C,35.39,2024-05-17,May,2024
+REG100138,2023-05-30,Central,Monitor,2,427.36,811.984,0.05,Save10,0,Wholesale,Diana,Online,Store A,19.42,2023-06-02,May,2023
+REG100139,2023-03-19,North,Phone,2,443.51,842.669,0.05,No Promostion,0,Wholesale,Alice,Cash,Store C,13.65,2023-03-22,March,2023
+REG100140,2023-08-09,Central,Desk,13,280.63,3100.9615,0.15,Save10,0,Wholesale,Alice,Credit Card,Store B,10.14,2023-08-14,August,2023
+REG100141,2024-10-13,North,Chair,13,416.66,4604.093,0.15,Winter15,0,Wholesale,Bob,Credit Card,Store B,21.74,2024-10-20,October,2024
+REG100142,2025-02-17,East,Chair,11,589.48,6484.28,0,Winter15,0,Retail,Alice,Online,Store B,49.93,2025-02-25,February,2025
+REG100143,2025-06-11,North,Phone,18,152.84,2338.452,0.15,Freeship,1,Retail,Diana,Debit Card,Store C,20.3,2025-06-20,June,2025
+REG100144,2024-04-29,Central,Tablet,4,163.66,654.64,0,Winter15,1,Retail,Bob,Gift Card,Store B,31.8,2024-05-01,April,2024
+REG100145,2023-03-18,West,Laptop,19,484.25,7820.6375,0.15,Freeship,1,Wholesale,Bob,Debit Card,Store C,29.51,2023-03-20,March,2023
+REG100146,2024-12-21,North,Chair,9,380.4,3081.24,0.1,No Promostion,0,Retail,Carlos,Credit Card,Store B,31,2024-12-27,December,2024
+REG100147,2023-04-23,West,Chair,17,332.38,5085.414,0.1,Save10,1,Retail,Frank,Credit Card,Store A,33.81,2023-05-02,April,2023
+REG100148,2025-05-11,Central,Chair,15,210.94,3005.895,0.05,Save10,0,Wholesale,Frank,Online,Store C,10.91,2025-05-21,May,2025
+REG100149,2024-03-03,South,Phone,9,382.8,3445.2,0,No Promostion,0,Wholesale,Eva,Cash,Store D,47.94,2024-03-05,March,2024
+REG100150,2025-01-20,North,Monitor,3,386.29,985.0395,0.15,Freeship,0,Retail,Carlos,Credit Card,Store C,32.45,2025-01-30,January,2025
+REG100151,2025-03-22,North,Tablet,5,225.99,1129.95,0,Save10,1,Retail,Eva,Online,Store C,10.88,2025-03-30,March,2025
+REG100152,2025-03-28,South,Printer,20,312.56,5313.52,0.15,Winter15,0,Retail,Frank,Gift Card,Store D,47.39,2025-03-30,March,2025
+REG100153,2025-02-17,North,Phone,13,433.77,5357.0595,0.05,Freeship,0,Wholesale,Frank,Cash,Store C,17.61,2025-02-21,February,2025
+REG100154,2024-11-08,South,Tablet,20,159.33,3186.6,0,Freeship,0,Wholesale,Eva,Online,Store A,26.32,2024-11-11,November,2024
+REG100155,2024-03-17,South,Phone,18,32.23,551.133,0.05,Freeship,0,Retail,Bob,Credit Card,Store B,6.04,2024-03-21,March,2024
+REG100156,2023-08-29,South,Monitor,3,527.77,1424.979,0.1,Freeship,0,Retail,Bob,Cash,Store C,48.66,2023-09-01,August,2023
+REG100157,2023-06-22,South,Chair,14,291.09,4075.26,0,No Promostion,0,Retail,Carlos,Cash,Store A,39.98,2023-06-30,June,2023
+REG100158,2024-02-24,South,Phone,8,350.12,2800.96,0,Freeship,1,Retail,Alice,Gift Card,Store C,31.65,2024-03-01,February,2024
+REG100159,2024-04-10,North,Phone,10,195.26,1854.97,0.05,Winter15,0,Retail,Alice,Credit Card,Store D,46.91,2024-04-15,April,2024
+REG100160,2023-05-14,South,Monitor,13,291.1,3784.3,0,Freeship,0,Wholesale,Alice,Online,Store A,7.66,2023-05-19,May,2023
+REG100161,2023-03-11,South,Monitor,6,93.92,478.992,0.15,Freeship,0,Wholesale,Eva,Credit Card,Store B,11,2023-03-18,March,2023
+REG100162,2024-08-24,Central,Printer,5,15.92,79.6,0,No Promostion,1,Retail,Eva,Credit Card,Store D,8.66,2024-08-26,August,2024
+REG100163,2024-02-23,South,Monitor,16,120.22,1634.992,0.15,Save10,0,Retail,Bob,Cash,Store D,8.42,2024-03-01,February,2024
+REG100164,2024-01-30,North,Monitor,11,118.8,1241.46,0.05,Save10,0,Retail,Eva,Online,Store A,39.32,2024-02-06,January,2024
+REG100165,2024-01-23,East,Tablet,10,92.45,832.05,0.1,Winter15,1,Wholesale,Frank,Cash,Store C,42.61,2024-01-29,January,2024
+REG100166,2023-01-05,North,Laptop,19,463.51,8806.69,0,Freeship,0,Retail,Bob,Cash,Store B,49.38,2023-01-08,January,2023
+REG100167,2023-12-21,North,Desk,7,284.7,1893.255,0.05,No Promostion,0,Wholesale,Bob,Gift Card,Store D,5.36,2023-12-30,December,2023
+REG100168,2023-05-25,West,Laptop,20,343.25,6521.75,0.05,Freeship,0,Wholesale,Alice,Debit Card,Store C,28.77,2023-06-02,May,2023
+REG100169,2025-06-30,Central,Chair,6,95.24,485.724,0.15,Freeship,0,Wholesale,Diana,Gift Card,Store D,18.72,2025-07-08,June,2025
+REG100170,2025-02-12,West,Desk,13,104.8,1294.28,0.05,Winter15,0,Retail,Diana,Credit Card,Store B,7.79,2025-02-19,February,2025
+REG100171,2024-01-03,West,Tablet,12,164.31,1774.548,0.1,No Promostion,1,Wholesale,Eva,Cash,Store B,38.9,2024-01-07,January,2024
+REG100172,2023-02-03,South,Tablet,10,325.18,2926.62,0.1,Winter15,0,Wholesale,Alice,Cash,Store C,47.39,2023-02-13,February,2023
+REG100173,2024-03-01,East,Monitor,17,542.82,9227.94,0,Winter15,1,Wholesale,Alice,Debit Card,Store A,7.13,2024-03-08,March,2024
+REG100174,2023-05-24,North,Tablet,14,207.48,2759.484,0.05,No Promostion,0,Wholesale,Eva,Online,Store C,5.7,2023-06-02,May,2023
+REG100175,2025-06-22,North,Printer,17,527.88,8525.262,0.05,Winter15,0,Retail,Bob,Cash,Store D,21.32,2025-06-28,June,2025
+REG100176,2023-04-10,North,Chair,11,71.21,744.1445,0.05,No Promostion,1,Retail,Diana,Online,Store B,44.2,2023-04-14,April,2023
+REG100177,2025-03-04,Central,Printer,8,486.07,3888.56,0,Freeship,0,Retail,Carlos,Debit Card,Store B,10.68,2025-03-10,March,2025
+REG100178,2024-07-11,East,Laptop,6,555.03,2997.162,0.1,No Promostion,1,Retail,Frank,Credit Card,Store C,23.69,2024-07-20,July,2024
+REG100179,2024-08-17,East,Desk,13,421.08,5474.04,0,No Promostion,0,Wholesale,Bob,Cash,Store B,24.51,2024-08-20,August,2024
+REG100180,2025-06-30,North,Laptop,16,76.17,1096.848,0.1,Winter15,0,Wholesale,Alice,Cash,Store D,41.88,2025-07-09,June,2025
+REG100181,2024-11-06,South,Printer,3,503.55,1359.585,0.1,Winter15,0,Wholesale,Bob,Credit Card,Store C,37.49,2024-11-13,November,2024
+REG100182,2025-04-01,East,Tablet,5,31.56,157.8,0,Save10,1,Retail,Diana,Online,Store D,29.56,2025-04-04,April,2025
+REG100183,2024-07-01,West,Laptop,16,72.92,1108.384,0.05,Freeship,0,Wholesale,Frank,Cash,Store C,5.7,2024-07-06,July,2024
+REG100184,2023-12-09,West,Printer,18,421.93,7215.003,0.05,Winter15,0,Retail,Bob,Gift Card,Store D,23.42,2023-12-18,December,2023
+REG100185,2023-06-27,North,Desk,15,478.41,6458.535,0.1,Freeship,0,Retail,Carlos,Debit Card,Store B,35.63,2023-06-30,June,2023
+REG100186,2023-07-14,South,Chair,9,501.74,4515.66,0,Save10,1,Retail,Bob,Online,Store D,39.74,2023-07-17,July,2023
+REG100187,2023-02-08,South,Tablet,7,247.53,1472.8035,0.15,Freeship,0,Wholesale,Alice,Gift Card,Store C,13.63,2023-02-16,February,2023
+REG100188,2024-06-28,West,Tablet,6,176.51,900.201,0.15,Freeship,1,Wholesale,Carlos,Debit Card,Store C,31.02,2024-07-07,June,2024
+REG100189,2024-04-15,West,Laptop,2,143.43,286.86,0,No Promostion,0,Wholesale,Bob,Credit Card,Store D,36.94,2024-04-22,April,2024
+REG100190,2023-11-27,East,Monitor,12,538.5,6138.9,0.05,Save10,0,Wholesale,Alice,Cash,Store C,18.54,2023-12-06,November,2023
+REG100191,2025-03-27,East,Printer,5,87.17,435.85,0,No Promostion,0,Wholesale,Carlos,Debit Card,Store D,13.01,2025-03-29,March,2025
+REG100192,2023-08-06,South,Monitor,7,498.32,3139.416,0.1,Winter15,1,Wholesale,Alice,Credit Card,Store B,27.65,2023-08-10,August,2023
+REG100193,2024-12-13,South,Printer,15,57.14,728.535,0.15,Freeship,0,Wholesale,Carlos,Debit Card,Store B,7.02,2024-12-22,December,2024
+REG100194,2025-01-17,Central,Tablet,18,124.18,1899.954,0.15,Save10,0,Wholesale,Carlos,Debit Card,Store B,45.77,2025-01-26,January,2025
+REG100195,2023-11-26,West,Desk,12,107.45,1160.46,0.1,Freeship,0,Retail,Bob,Online,Store C,18.17,2023-12-02,November,2023
+REG100196,2023-02-14,East,Chair,8,411.26,2961.072,0.1,Winter15,0,Retail,Frank,Gift Card,Store A,28.57,2023-02-18,February,2023
+REG100197,2025-02-02,Central,Printer,7,248.1,1736.7,0,Winter15,0,Retail,Diana,Cash,Store C,31.8,2025-02-06,February,2025
+REG100198,2023-04-11,West,Printer,3,486.52,1313.604,0.1,No Promostion,0,Wholesale,Carlos,Gift Card,Store B,16.5,2023-04-20,April,2023
+REG100199,2024-07-08,North,Monitor,18,415.04,6723.648,0.1,Winter15,0,Wholesale,Eva,Cash,Store C,33.58,2024-07-13,July,2024
+REG100200,2023-02-08,Central,Printer,19,165.38,2670.887,0.15,No Promostion,0,Wholesale,Alice,Online,Store B,25.2,2023-02-14,February,2023
+REG100201,2024-04-09,West,Desk,2,117.47,234.94,0,Freeship,0,Wholesale,Eva,Credit Card,Store C,6.58,2024-04-16,April,2024
+REG100202,2023-08-14,Central,Printer,9,461.79,3532.6935,0.15,No Promostion,0,Wholesale,Frank,Gift Card,Store C,47.81,2023-08-18,August,2023
+REG100203,2024-09-02,West,Tablet,19,208.72,3767.396,0.05,Freeship,0,Retail,Frank,Credit Card,Store D,38.41,2024-09-06,September,2024
+REG100204,2025-06-29,Central,Monitor,16,278.13,3782.568,0.15,Save10,0,Wholesale,Alice,Cash,Store A,24.29,2025-07-04,June,2025
+REG100205,2025-04-02,West,Laptop,2,580.19,1102.361,0.05,Winter15,0,Wholesale,Diana,Debit Card,Store B,7.33,2025-04-08,April,2025
+REG100206,2023-04-27,Central,Tablet,8,536.43,4291.44,0,No Promostion,1,Retail,Carlos,Cash,Store B,14.58,2023-05-07,April,2023
+REG100207,2024-08-07,East,Phone,1,94.33,94.33,0,No Promostion,0,Wholesale,Carlos,Online,Store A,49.17,2024-08-17,August,2024
+REG100208,2023-04-15,West,Laptop,16,489.94,7055.136,0.1,Save10,0,Retail,Frank,Cash,Store C,9.69,2023-04-25,April,2023
+REG100209,2023-08-12,South,Desk,4,551.71,2096.498,0.05,No Promostion,1,Retail,Eva,Gift Card,Store A,26.32,2023-08-15,August,2023
+REG100210,2023-06-19,West,Printer,17,595.57,8605.9865,0.15,Winter15,0,Retail,Bob,Credit Card,Store D,9.73,2023-06-28,June,2023
+REG100211,2023-12-29,East,Printer,1,180.12,162.108,0.1,No Promostion,0,Wholesale,Eva,Debit Card,Store A,27.07,2024-01-07,December,2023
+REG100212,2023-03-26,East,Desk,12,301.5,3075.3,0.15,Freeship,1,Retail,Bob,Credit Card,Store D,43.67,2023-03-30,March,2023
+REG100213,2023-09-01,South,Phone,20,273.55,4650.35,0.15,No Promostion,0,Retail,Frank,Debit Card,Store D,14.76,2023-09-07,September,2023
+REG100214,2024-08-05,West,Tablet,6,187.06,1010.124,0.1,Freeship,0,Wholesale,Frank,Debit Card,Store B,11.03,2024-08-13,August,2024
+REG100215,2025-01-23,North,Chair,16,562.52,9000.32,0,No Promostion,0,Retail,Frank,Gift Card,Store D,18.23,2025-01-27,January,2025
+REG100216,2023-05-16,East,Tablet,4,85.16,306.576,0.1,No Promostion,0,Wholesale,Carlos,Credit Card,Store D,38.51,2023-05-23,May,2023
+REG100217,2023-02-14,North,Tablet,12,451.51,4605.402,0.15,Winter15,0,Wholesale,Carlos,Online,Store B,9.54,2023-02-22,February,2023
+REG100218,2024-06-03,Central,Tablet,1,259.87,220.8895,0.15,Freeship,0,Retail,Eva,Gift Card,Store D,19.2,2024-06-12,June,2024
+REG100219,2023-11-08,Central,Tablet,20,268.25,5096.75,0.05,Freeship,0,Retail,Diana,Cash,Store D,20.96,2023-11-15,November,2023
+REG100220,2023-01-24,West,Phone,10,266.13,2661.3,0,Winter15,0,Wholesale,Diana,Gift Card,Store B,21.01,2023-01-26,January,2023
+REG100221,2025-03-20,West,Laptop,18,493.06,8431.326,0.05,Winter15,1,Wholesale,Diana,Cash,Store D,46.87,2025-03-28,March,2025
+REG100222,2024-02-22,West,Monitor,4,36.82,139.916,0.05,Winter15,1,Wholesale,Frank,Credit Card,Store C,24.86,2024-03-01,February,2024
+REG100223,2025-04-02,North,Printer,12,413.45,4217.19,0.15,Freeship,0,Retail,Bob,Cash,Store D,23.25,2025-04-10,April,2025
+REG100224,2025-06-12,North,Chair,19,446.25,7630.875,0.1,No Promostion,0,Retail,Eva,Gift Card,Store B,14.88,2025-06-18,June,2025
+REG100225,2023-05-13,East,Laptop,7,82.77,492.4815,0.15,Save10,1,Wholesale,Frank,Debit Card,Store D,15.66,2023-05-17,May,2023
+REG100226,2023-03-25,South,Desk,17,339.88,5777.96,0,No Promostion,0,Retail,Alice,Cash,Store A,44.86,2023-03-28,March,2023
+REG100227,2024-11-22,South,Printer,19,364.32,5883.768,0.15,No Promostion,1,Retail,Frank,Debit Card,Store B,39.76,2024-11-25,November,2024
+REG100228,2023-07-07,East,Tablet,3,71.91,215.73,0,Winter15,1,Wholesale,Alice,Gift Card,Store B,46.25,2023-07-17,July,2023
+REG100229,2024-10-05,East,Tablet,20,576.3,10949.7,0.05,No Promostion,0,Wholesale,Eva,Credit Card,Store D,25.22,2024-10-09,October,2024
+REG100230,2024-03-31,West,Laptop,7,120.6,844.2,0,Winter15,0,Wholesale,Diana,Online,Store B,43.8,2024-04-08,March,2024
+REG100231,2025-04-01,West,Printer,8,96.19,731.044,0.05,Save10,0,Wholesale,Carlos,Debit Card,Store A,34.07,2025-04-04,April,2025
+REG100232,2023-08-23,West,Printer,14,471.17,6266.561,0.05,Freeship,0,Wholesale,Carlos,Gift Card,Store A,26.38,2023-08-26,August,2023
+REG100233,2024-08-14,South,Phone,20,14.33,257.94,0.1,No Promostion,0,Wholesale,Carlos,Debit Card,Store D,6.22,2024-08-21,August,2024
+REG100234,2025-02-14,Central,Tablet,18,499.61,7644.033,0.15,No Promostion,0,Retail,Alice,Debit Card,Store B,9.64,2025-02-19,February,2025
+REG100235,2023-11-11,West,Monitor,14,16.33,205.758,0.1,Winter15,0,Wholesale,Diana,Debit Card,Store B,22.72,2023-11-16,November,2023
+REG100236,2024-04-01,Central,Desk,17,480.62,6944.959,0.15,Freeship,0,Wholesale,Carlos,Online,Store C,37.09,2024-04-09,April,2024
+REG100237,2024-06-13,South,Chair,5,555.84,2640.24,0.05,No Promostion,0,Retail,Diana,Credit Card,Store C,29.4,2024-06-20,June,2024
+REG100238,2023-11-28,North,Chair,18,174.03,2819.286,0.1,Save10,0,Wholesale,Frank,Online,Store B,32.19,2023-12-03,November,2023
+REG100239,2024-11-11,Central,Desk,11,286.05,2831.895,0.1,No Promostion,1,Retail,Bob,Debit Card,Store A,8.59,2024-11-16,November,2024
+REG100240,2024-11-04,North,Desk,16,40.73,651.68,0,No Promostion,0,Retail,Alice,Credit Card,Store D,24.72,2024-11-08,November,2024
+REG100241,2023-01-01,Central,Chair,11,468.22,5150.42,0,Winter15,0,Retail,Carlos,Debit Card,Store D,19.92,2023-01-11,January,2023
+REG100242,2025-01-18,North,Tablet,1,411.54,370.386,0.1,Winter15,0,Retail,Eva,Gift Card,Store C,7.46,2025-01-20,January,2025
+REG100243,2023-05-02,Central,Printer,13,134.2,1657.37,0.05,Winter15,0,Wholesale,Eva,Credit Card,Store A,9.6,2023-05-10,May,2023
+REG100244,2025-05-27,West,Printer,10,351.23,2985.455,0.15,No Promostion,0,Retail,Frank,Online,Store B,42.74,2025-06-02,May,2025
+REG100245,2024-12-27,South,Monitor,14,551.14,6944.364,0.1,Freeship,1,Wholesale,Diana,Online,Store C,12.35,2025-01-05,December,2024
+REG100246,2025-03-18,West,Chair,2,131.13,236.034,0.1,No Promostion,0,Retail,Eva,Debit Card,Store B,14.74,2025-03-24,March,2025
+REG100247,2024-03-24,East,Laptop,6,595.11,3570.66,0,Save10,1,Wholesale,Diana,Cash,Store C,28.92,2024-03-31,March,2024
+REG100248,2024-12-26,East,Laptop,6,516.66,2944.962,0.05,No Promostion,1,Wholesale,Bob,Online,Store C,5.15,2025-01-03,December,2024
+REG100249,2023-01-11,North,Desk,6,202.57,1154.649,0.05,Freeship,0,Retail,Eva,Gift Card,Store D,24.39,2023-01-14,January,2023
+REG100250,2025-06-01,South,Laptop,13,306.16,3383.068,0.15,Save10,0,Wholesale,Frank,Cash,Store A,25.16,2025-06-10,June,2025
+REG100251,2024-09-26,East,Desk,11,472.74,4420.119,0.15,No Promostion,1,Retail,Carlos,Credit Card,Store D,16.8,2024-10-01,September,2024
+REG100252,2024-08-10,East,Phone,20,337.37,6072.66,0.1,No Promostion,0,Retail,Diana,Gift Card,Store C,43.17,2024-08-17,August,2024
+REG100253,2025-03-02,South,Phone,12,34.24,369.792,0.1,No Promostion,0,Retail,Frank,Cash,Store C,17.64,2025-03-10,March,2025
+REG100254,2023-02-21,East,Tablet,4,477.05,1908.2,0,Winter15,0,Wholesale,Carlos,Credit Card,Store B,45.54,2023-03-02,February,2023
+REG100255,2024-11-20,East,Laptop,6,562.93,3377.58,0,Winter15,0,Retail,Alice,Credit Card,Store C,43.73,2024-11-27,November,2024
+REG100256,2023-08-26,East,Chair,20,18.29,365.8,0,Freeship,1,Retail,Diana,Debit Card,Store B,35.37,2023-08-29,August,2023
+REG100257,2024-01-01,South,Monitor,7,208.86,1462.02,0,Freeship,0,Retail,Frank,Cash,Store B,20.64,2024-01-08,January,2024
+REG100258,2024-11-24,South,Printer,12,330.36,3766.104,0.05,Winter15,0,Retail,Diana,Cash,Store D,48.33,2024-11-30,November,2024
+REG100259,2024-08-25,South,Tablet,7,50.26,299.047,0.15,No Promostion,0,Retail,Diana,Cash,Store C,17.12,2024-09-01,August,2024
+REG100260,2023-06-10,South,Laptop,2,374.59,636.803,0.15,Save10,0,Wholesale,Carlos,Online,Store C,34.64,2023-06-18,June,2023
+REG100261,2024-12-18,North,Printer,7,467.6,2945.88,0.1,No Promostion,0,Retail,Carlos,Debit Card,Store A,15.64,2024-12-26,December,2024
+REG100262,2023-08-28,East,Chair,3,376.24,1072.284,0.05,Freeship,1,Retail,Frank,Debit Card,Store A,6.15,2023-09-01,August,2023
+REG100263,2023-01-22,West,Phone,13,140.49,1826.37,0,Save10,0,Retail,Eva,Debit Card,Store A,17.69,2023-01-31,January,2023
+REG100264,2023-02-07,North,Monitor,3,506.33,1291.1415,0.15,Freeship,0,Retail,Frank,Debit Card,Store B,25.71,2023-02-14,February,2023
+REG100265,2023-11-22,South,Monitor,8,138.73,1054.348,0.05,Winter15,1,Wholesale,Frank,Online,Store A,48.51,2023-11-29,November,2023
+REG100266,2023-01-25,West,Desk,6,134.53,686.103,0.15,Freeship,1,Retail,Carlos,Debit Card,Store C,33.5,2023-01-29,January,2023
+REG100267,2025-03-05,South,Tablet,18,375.96,6428.916,0.05,Save10,0,Wholesale,Diana,Debit Card,Store D,26.78,2025-03-09,March,2025
+REG100268,2023-02-02,North,Printer,10,538.47,4846.23,0.1,Winter15,1,Retail,Bob,Gift Card,Store D,17.25,2023-02-12,February,2023
+REG100269,2023-05-24,North,Tablet,15,505.44,6823.44,0.1,Save10,0,Wholesale,Alice,Online,Store A,37.5,2023-06-01,May,2023
+REG100270,2024-05-30,South,Printer,4,312.09,1061.106,0.15,Save10,1,Wholesale,Diana,Debit Card,Store C,17.99,2024-06-06,May,2024
+REG100271,2024-01-23,West,Desk,15,579.58,7389.645,0.15,No Promostion,0,Retail,Eva,Credit Card,Store C,31.22,2024-01-31,January,2024
+REG100272,2023-02-06,North,Chair,10,217.43,1848.155,0.15,Freeship,0,Retail,Bob,Credit Card,Store A,33.14,2023-02-15,February,2023
+REG100273,2024-07-15,West,Phone,15,476.15,6785.1375,0.05,Save10,0,Wholesale,Carlos,Online,Store B,24.48,2024-07-19,July,2024
+REG100274,2025-03-06,East,Chair,5,89.03,400.635,0.1,Winter15,0,Wholesale,Frank,Debit Card,Store C,22.42,2025-03-16,March,2025
+REG100275,2023-07-29,Central,Phone,17,6.88,105.264,0.1,No Promostion,0,Retail,Frank,Gift Card,Store A,42.37,2023-08-08,July,2023
+REG100276,2023-07-26,North,Printer,6,355.26,1918.404,0.1,Winter15,0,Retail,Bob,Online,Store D,30.49,2023-07-29,July,2023
+REG100277,2024-04-10,West,Tablet,8,294.76,2122.272,0.1,Save10,0,Retail,Diana,Online,Store C,36.04,2024-04-13,April,2024
+REG100278,2025-01-24,North,Desk,16,60.69,971.04,0,Winter15,0,Wholesale,Carlos,Credit Card,Store A,7.03,2025-01-27,January,2025
+REG100279,2025-04-27,West,Laptop,2,559.63,1007.334,0.1,Winter15,1,Wholesale,Diana,Credit Card,Store B,42.34,2025-05-03,April,2025
+REG100280,2025-02-20,East,Phone,4,232.66,837.576,0.1,Winter15,0,Wholesale,Frank,Online,Store B,11.88,2025-02-23,February,2025
+REG100281,2023-09-14,North,Printer,10,230.87,1962.395,0.15,Save10,0,Retail,Bob,Debit Card,Store A,28.33,2023-09-19,September,2023
+REG100282,2024-04-17,West,Tablet,7,353.9,2105.705,0.15,Save10,1,Wholesale,Alice,Debit Card,Store C,15.74,2024-04-27,April,2024
+REG100283,2024-11-14,Central,Tablet,12,561.07,6732.84,0,No Promostion,0,Retail,Alice,Gift Card,Store A,35.02,2024-11-18,November,2024
+REG100284,2024-07-25,North,Chair,15,247.21,3337.335,0.1,No Promostion,0,Wholesale,Bob,Gift Card,Store D,45.42,2024-07-27,July,2024
+REG100285,2024-08-05,East,Phone,19,271.22,4637.862,0.1,Winter15,0,Wholesale,Alice,Credit Card,Store A,35.33,2024-08-15,August,2024
+REG100286,2025-01-23,West,Laptop,6,532.54,3195.24,0,No Promostion,1,Wholesale,Diana,Debit Card,Store A,25.09,2025-02-02,January,2025
+REG100287,2025-04-27,West,Printer,16,329.54,4481.744,0.15,Freeship,1,Wholesale,Bob,Debit Card,Store A,39.39,2025-05-03,April,2025
+REG100288,2024-09-20,South,Phone,6,170.1,1020.6,0,Freeship,0,Retail,Eva,Gift Card,Store A,38.61,2024-09-23,September,2024
+REG100289,2023-09-08,West,Laptop,19,212.83,3437.2045,0.15,Winter15,0,Wholesale,Carlos,Online,Store D,42.88,2023-09-15,September,2023
+REG100290,2025-04-20,South,Laptop,5,578.92,2894.6,0,No Promostion,1,Wholesale,Bob,Credit Card,Store A,44.09,2025-04-28,April,2025
+REG100291,2024-06-20,North,Phone,3,456.92,1233.684,0.1,Freeship,0,Retail,Frank,Gift Card,Store C,17.57,2024-06-27,June,2024
+REG100292,2023-01-11,East,Tablet,12,521.53,6258.36,0,Save10,1,Retail,Eva,Credit Card,Store D,49.59,2023-01-20,January,2023
+REG100293,2023-07-04,North,Desk,17,468.19,7561.2685,0.05,No Promostion,0,Retail,Diana,Cash,Store D,13.84,2023-07-07,July,2023
+REG100294,2025-03-08,Central,Monitor,9,8.81,67.3965,0.15,Save10,0,Retail,Alice,Online,Store D,42.7,2025-03-18,March,2025
+REG100295,2025-02-10,South,Chair,6,521.1,2657.61,0.15,No Promostion,0,Wholesale,Frank,Cash,Store A,31.14,2025-02-12,February,2025
+REG100296,2025-03-17,West,Monitor,10,289.91,2609.19,0.1,Save10,0,Retail,Diana,Cash,Store C,32.96,2025-03-21,March,2025
+REG100297,2023-11-09,East,Printer,3,142.27,405.4695,0.05,Save10,0,Retail,Bob,Online,Store D,32.8,2023-11-15,November,2023
+REG100298,2023-11-30,Central,Printer,15,354.09,5045.7825,0.05,No Promostion,1,Retail,Carlos,Online,Store B,25.3,2023-12-08,November,2023
+REG100299,2024-08-15,South,Tablet,20,358.57,7171.4,0,Freeship,1,Wholesale,Alice,Debit Card,Store B,21.11,2024-08-20,August,2024
+REG100300,2023-03-21,West,Tablet,16,33.18,504.336,0.05,Save10,0,Retail,Eva,Online,Store C,22.94,2023-03-26,March,2023
+REG100301,2023-10-26,West,Monitor,2,124.4,248.8,0,No Promostion,0,Retail,Eva,Online,Store B,37.05,2023-10-31,October,2023
+REG100302,2023-11-03,West,Phone,12,17.76,191.808,0.1,Freeship,0,Retail,Carlos,Online,Store D,12.18,2023-11-11,November,2023
+REG100303,2025-01-30,North,Chair,16,345.53,4699.208,0.15,Save10,0,Retail,Frank,Gift Card,Store C,13.43,2025-02-05,January,2025
+REG100304,2024-01-25,West,Laptop,13,453.48,5600.478,0.05,Save10,0,Wholesale,Alice,Gift Card,Store A,46.28,2024-02-03,January,2024
+REG100305,2025-03-29,South,Laptop,10,277.74,2360.79,0.15,Save10,1,Retail,Carlos,Gift Card,Store B,35.02,2025-04-02,March,2025
+REG100306,2024-11-02,Central,Chair,16,89.76,1436.16,0,Winter15,1,Wholesale,Alice,Debit Card,Store A,44.69,2024-11-09,November,2024
+REG100307,2024-06-30,Central,Chair,11,535.37,5889.07,0,No Promostion,0,Wholesale,Frank,Cash,Store D,35.96,2024-07-09,June,2024
+REG100308,2023-01-11,South,Tablet,9,15.58,126.198,0.1,Freeship,1,Retail,Frank,Gift Card,Store D,27.81,2023-01-19,January,2023
+REG100309,2025-06-05,North,Desk,13,466.54,6065.02,0,Freeship,0,Wholesale,Eva,Cash,Store C,18.63,2025-06-14,June,2025
+REG100310,2024-03-21,North,Monitor,16,593,8539.2,0.1,Save10,0,Retail,Eva,Gift Card,Store D,18.77,2024-03-24,March,2024
+REG100311,2023-08-31,South,Desk,6,567.36,3233.952,0.05,Winter15,0,Wholesale,Alice,Gift Card,Store C,45.98,2023-09-08,August,2023
+REG100312,2024-10-07,South,Phone,17,523.04,8447.096,0.05,Freeship,0,Retail,Eva,Debit Card,Store A,37.38,2024-10-17,October,2024
+REG100313,2023-04-12,North,Laptop,17,376.4,6398.8,0,Freeship,0,Wholesale,Alice,Debit Card,Store C,33.38,2023-04-15,April,2023
+REG100314,2023-11-06,South,Printer,5,95.19,404.5575,0.15,Winter15,0,Retail,Frank,Credit Card,Store A,48.55,2023-11-16,November,2023
+REG100315,2023-04-28,West,Desk,2,210.71,358.207,0.15,Save10,0,Wholesale,Diana,Credit Card,Store D,7.78,2023-05-08,April,2023
+REG100316,2023-12-18,West,Printer,7,393.39,2478.357,0.1,Save10,0,Retail,Alice,Cash,Store B,34.35,2023-12-21,December,2023
+REG100317,2024-10-10,South,Phone,13,114.03,1482.39,0,No Promostion,0,Retail,Bob,Cash,Store A,43.81,2024-10-16,October,2024
+REG100318,2023-02-05,North,Tablet,18,336.48,6056.64,0,Winter15,0,Retail,Frank,Online,Store B,18.59,2023-02-07,February,2023
+REG100319,2024-08-04,Central,Monitor,9,24.44,186.966,0.15,Save10,1,Wholesale,Eva,Gift Card,Store C,22.06,2024-08-14,August,2024
+REG100320,2024-10-23,Central,Tablet,12,352.2,4015.08,0.05,Winter15,0,Retail,Eva,Credit Card,Store A,18.39,2024-11-01,October,2024
+REG100321,2024-02-13,West,Monitor,7,353.99,2354.0335,0.05,Freeship,0,Wholesale,Carlos,Gift Card,Store C,5.93,2024-02-20,February,2024
+REG100322,2024-06-03,South,Tablet,15,10.22,153.3,0,Freeship,0,Retail,Alice,Gift Card,Store C,36.27,2024-06-07,June,2024
+REG100323,2023-04-14,South,Printer,17,464.16,6707.112,0.15,Freeship,1,Retail,Carlos,Debit Card,Store A,46.83,2023-04-18,April,2023
+REG100324,2024-10-19,Central,Laptop,16,436.31,6631.912,0.05,No Promostion,0,Retail,Diana,Online,Store C,47.61,2024-10-23,October,2024
+REG100325,2023-12-18,South,Laptop,9,219.93,1880.4015,0.05,Freeship,0,Wholesale,Bob,Gift Card,Store B,44.78,2023-12-22,December,2023
+REG100326,2023-08-31,North,Laptop,5,311.22,1322.685,0.15,Freeship,0,Wholesale,Diana,Cash,Store A,36.98,2023-09-06,August,2023
+REG100327,2023-09-19,South,Laptop,4,547.56,1861.704,0.15,No Promostion,0,Retail,Frank,Gift Card,Store D,25.88,2023-09-26,September,2023
+REG100328,2023-02-27,Central,Laptop,9,52.69,403.0785,0.15,Save10,0,Retail,Diana,Online,Store D,14.59,2023-03-04,February,2023
+REG100329,2024-01-28,South,Tablet,9,434.74,3521.394,0.1,Save10,0,Wholesale,Bob,Online,Store D,20.11,2024-01-31,January,2024
+REG100330,2025-05-06,South,Monitor,9,124.17,1117.53,0,Winter15,0,Wholesale,Eva,Debit Card,Store C,13.31,2025-05-10,May,2025
+REG100331,2024-09-13,East,Monitor,2,375.48,713.412,0.05,Freeship,0,Retail,Diana,Credit Card,Store D,26.39,2024-09-15,September,2024
+REG100332,2023-05-25,East,Printer,13,211.06,2469.402,0.1,No Promostion,1,Retail,Bob,Gift Card,Store B,19.58,2023-05-29,May,2023
+REG100333,2024-09-26,South,Tablet,7,88.87,622.09,0,Save10,0,Retail,Alice,Online,Store C,8.36,2024-10-01,September,2024
+REG100334,2023-02-13,South,Phone,5,254.24,1207.64,0.05,No Promostion,0,Wholesale,Bob,Online,Store B,9.97,2023-02-18,February,2023
+REG100335,2024-06-20,Central,Chair,5,432.35,1945.575,0.1,No Promostion,1,Wholesale,Bob,Gift Card,Store C,41.48,2024-06-27,June,2024
+REG100336,2024-03-22,West,Laptop,19,590,10649.5,0.05,Freeship,0,Retail,Alice,Online,Store D,5.91,2024-03-25,March,2024
+REG100337,2024-02-08,West,Monitor,11,151.25,1497.375,0.1,No Promostion,1,Wholesale,Frank,Credit Card,Store B,22.65,2024-02-11,February,2024
+REG100338,2024-06-01,East,Desk,3,204.79,552.933,0.1,Freeship,1,Retail,Frank,Online,Store B,7.72,2024-06-04,June,2024
+REG100339,2024-05-26,North,Laptop,16,586.52,9384.32,0,Winter15,1,Wholesale,Diana,Credit Card,Store C,17.06,2024-06-01,May,2024
+REG100340,2024-06-25,East,Printer,16,104.83,1677.28,0,Freeship,0,Wholesale,Carlos,Gift Card,Store A,33.99,2024-06-30,June,2024
+REG100341,2024-01-29,Central,Printer,16,598.48,8618.112,0.1,No Promostion,0,Retail,Frank,Cash,Store A,47.86,2024-02-07,January,2024
+REG100342,2024-12-07,South,Chair,8,367.89,2795.964,0.05,Freeship,0,Retail,Alice,Cash,Store B,18.1,2024-12-09,December,2024
+REG100343,2023-11-21,West,Chair,10,333.35,2833.475,0.15,Freeship,0,Retail,Alice,Debit Card,Store A,39.35,2023-11-26,November,2023
+REG100344,2024-12-16,North,Chair,8,378.88,2727.936,0.1,Winter15,1,Wholesale,Frank,Debit Card,Store A,5.22,2024-12-24,December,2024
+REG100345,2023-08-05,Central,Monitor,12,169.2,1928.88,0.05,Save10,0,Retail,Diana,Gift Card,Store C,28.65,2023-08-15,August,2023
+REG100346,2023-08-30,Central,Chair,7,103.03,649.089,0.1,Freeship,1,Retail,Bob,Online,Store D,5.29,2023-09-06,August,2023
+REG100347,2025-03-25,East,Printer,3,378.74,965.787,0.15,Save10,0,Wholesale,Frank,Online,Store D,8.22,2025-03-27,March,2025
+REG100348,2024-12-13,North,Phone,15,27.21,408.15,0,Winter15,0,Wholesale,Alice,Online,Store C,43.69,2024-12-22,December,2024
+REG100349,2023-09-07,Central,Phone,14,52.09,729.26,0,No Promostion,1,Retail,Bob,Gift Card,Store A,48.02,2023-09-14,September,2023
+REG100350,2023-12-12,North,Monitor,7,570.01,3990.07,0,Winter15,0,Wholesale,Carlos,Credit Card,Store C,42.33,2023-12-21,December,2023
+REG100351,2024-04-25,East,Monitor,19,526.23,9998.37,0,Winter15,0,Retail,Bob,Credit Card,Store B,32.77,2024-05-05,April,2024
+REG100352,2025-05-04,North,Laptop,8,294.51,2002.668,0.15,No Promostion,0,Wholesale,Diana,Gift Card,Store A,10.46,2025-05-07,May,2025
+REG100353,2023-09-16,South,Monitor,18,448.27,7665.417,0.05,Save10,0,Wholesale,Diana,Credit Card,Store C,47.56,2023-09-20,September,2023
+REG100354,2024-10-23,West,Desk,17,583.88,8933.364,0.1,Winter15,0,Retail,Alice,Credit Card,Store D,37.53,2024-10-26,October,2024
+REG100355,2023-05-03,North,Desk,2,97.5,175.5,0.1,No Promostion,1,Retail,Alice,Cash,Store D,46.37,2023-05-06,May,2023
+REG100356,2025-03-18,North,Printer,16,420.79,5722.744,0.15,Freeship,1,Wholesale,Carlos,Cash,Store B,22.13,2025-03-25,March,2025
+REG100357,2023-08-25,West,Chair,13,513.18,6671.34,0,Freeship,0,Retail,Eva,Credit Card,Store B,10.57,2023-08-27,August,2023
+REG100358,2023-07-13,North,Monitor,19,475.64,8133.444,0.1,Winter15,1,Retail,Frank,Cash,Store C,11.17,2023-07-17,July,2023
+REG100359,2025-02-25,North,Tablet,13,238.34,2788.578,0.1,Save10,1,Retail,Carlos,Credit Card,Store C,7.9,2025-03-06,February,2025
+REG100360,2025-04-14,Central,Laptop,14,285.03,3591.378,0.1,Save10,0,Wholesale,Eva,Credit Card,Store B,41.5,2025-04-17,April,2025
+REG100361,2025-06-15,Central,Desk,5,5.52,26.22,0.05,Freeship,0,Retail,Alice,Credit Card,Store C,10.58,2025-06-18,June,2025
+REG100362,2024-10-22,North,Monitor,18,396.25,6419.25,0.1,Freeship,0,Retail,Frank,Credit Card,Store D,20.39,2024-10-27,October,2024
+REG100363,2023-06-20,South,Laptop,9,282.8,2417.94,0.05,No Promostion,0,Wholesale,Eva,Online,Store D,49.79,2023-06-25,June,2023
+REG100364,2025-03-05,South,Phone,6,525.43,2994.951,0.05,No Promostion,0,Wholesale,Alice,Credit Card,Store C,39.28,2025-03-11,March,2025
+REG100365,2023-10-28,West,Tablet,15,127.67,1723.545,0.1,No Promostion,0,Retail,Alice,Debit Card,Store D,48.77,2023-10-30,October,2023
+REG100366,2025-03-19,Central,Laptop,17,511.8,8265.57,0.05,Winter15,1,Retail,Carlos,Credit Card,Store B,13.33,2025-03-26,March,2025
+REG100367,2023-08-06,West,Tablet,4,555.86,2112.268,0.05,Freeship,0,Retail,Bob,Cash,Store C,28.92,2023-08-08,August,2023
+REG100368,2024-09-11,Central,Monitor,15,202.72,2888.76,0.05,Winter15,1,Retail,Eva,Debit Card,Store D,41.61,2024-09-19,September,2024
+REG100369,2025-01-08,Central,Chair,4,353.7,1414.8,0,Freeship,0,Wholesale,Frank,Credit Card,Store A,41.98,2025-01-12,January,2025
+REG100370,2024-08-12,Central,Chair,3,149.25,447.75,0,No Promostion,1,Wholesale,Carlos,Debit Card,Store D,13.17,2024-08-14,August,2024
+REG100371,2023-03-30,North,Monitor,19,156.44,2675.124,0.1,Winter15,0,Wholesale,Alice,Online,Store C,19.44,2023-04-04,March,2023
+REG100372,2023-02-01,Central,Phone,7,241.76,1692.32,0,Save10,0,Wholesale,Carlos,Online,Store D,48.13,2023-02-09,February,2023
+REG100373,2025-04-18,North,Laptop,20,170.49,3409.8,0,Freeship,0,Wholesale,Diana,Online,Store A,19.74,2025-04-27,April,2025
+REG100374,2025-03-29,Central,Monitor,11,149.67,1481.733,0.1,No Promostion,0,Retail,Eva,Credit Card,Store C,34.13,2025-04-02,March,2025
+REG100375,2024-04-25,East,Tablet,1,173.56,156.204,0.1,Freeship,0,Retail,Eva,Debit Card,Store D,39.1,2024-04-28,April,2024
+REG100376,2024-09-22,South,Monitor,7,349.55,2324.5075,0.05,Freeship,0,Retail,Carlos,Credit Card,Store A,23.7,2024-09-27,September,2024
+REG100377,2023-08-05,Central,Tablet,9,245.14,2206.26,0,Save10,1,Wholesale,Alice,Online,Store B,44.6,2023-08-14,August,2023
+REG100378,2024-06-07,South,Desk,1,423.08,401.926,0.05,Winter15,0,Wholesale,Bob,Gift Card,Store B,31.75,2024-06-11,June,2024
+REG100379,2025-05-24,East,Phone,19,337.82,5455.793,0.15,Freeship,0,Wholesale,Alice,Online,Store B,45.74,2025-05-30,May,2025
+REG100380,2024-07-18,South,Chair,10,252.63,2147.355,0.15,Freeship,0,Retail,Eva,Cash,Store B,8.92,2024-07-25,July,2024
+REG100381,2024-07-14,West,Tablet,3,87.02,234.954,0.1,Winter15,0,Wholesale,Frank,Cash,Store B,11.13,2024-07-16,July,2024
+REG100382,2023-04-14,Central,Tablet,11,6.72,70.224,0.05,Save10,0,Wholesale,Bob,Cash,Store D,34.27,2023-04-19,April,2023
+REG100383,2023-06-01,South,Printer,2,279.38,502.884,0.1,Freeship,0,Retail,Carlos,Online,Store D,22.95,2023-06-06,June,2023
+REG100384,2025-04-17,Central,Phone,9,207.8,1683.18,0.1,Winter15,0,Retail,Alice,Online,Store D,16.99,2025-04-20,April,2025
+REG100385,2025-03-31,East,Printer,15,511.88,7294.29,0.05,Save10,0,Wholesale,Bob,Cash,Store C,10.22,2025-04-09,March,2025
+REG100386,2024-07-15,East,Printer,10,325.97,3259.7,0,Freeship,1,Retail,Bob,Cash,Store D,49.95,2024-07-22,July,2024
+REG100387,2024-08-30,South,Laptop,17,469.32,7978.44,0,Winter15,1,Retail,Carlos,Gift Card,Store B,5.86,2024-09-01,August,2024
+REG100388,2025-01-07,Central,Phone,13,186.69,2426.97,0,Freeship,0,Wholesale,Bob,Cash,Store D,19.92,2025-01-10,January,2025
+REG100389,2025-02-05,South,Phone,16,34.66,526.832,0.05,No Promostion,0,Retail,Alice,Debit Card,Store C,49.9,2025-02-11,February,2025
+REG100390,2024-04-01,North,Printer,18,155.04,2372.112,0.15,Winter15,0,Wholesale,Frank,Cash,Store B,39.99,2024-04-04,April,2024
+REG100391,2025-03-01,West,Monitor,4,69.6,264.48,0.05,Save10,0,Wholesale,Eva,Gift Card,Store D,17.68,2025-03-09,March,2025
+REG100392,2023-07-03,Central,Monitor,13,55.09,608.7445,0.15,Freeship,1,Wholesale,Diana,Cash,Store A,47.78,2023-07-06,July,2023
+REG100393,2023-04-25,Central,Laptop,13,206.11,2277.5155,0.15,Save10,1,Retail,Bob,Gift Card,Store B,22.59,2023-05-01,April,2023
+REG100394,2025-04-09,West,Tablet,14,484.38,6442.254,0.05,Save10,0,Retail,Frank,Debit Card,Store D,29.24,2025-04-19,April,2025
+REG100395,2023-11-05,North,Monitor,6,449.57,2697.42,0,Winter15,0,Wholesale,Frank,Gift Card,Store D,23.09,2023-11-12,November,2023
+REG100396,2023-01-13,East,Laptop,9,223.01,2007.09,0,No Promostion,1,Retail,Diana,Cash,Store C,11.9,2023-01-19,January,2023
+REG100397,2025-02-06,West,Chair,14,291.91,3473.729,0.15,No Promostion,0,Retail,Frank,Credit Card,Store A,27.51,2025-02-10,February,2025
+REG100398,2023-05-20,South,Monitor,13,90.86,1181.18,0,Save10,0,Wholesale,Carlos,Gift Card,Store A,16.74,2023-05-25,May,2023
+REG100399,2025-06-18,East,Desk,4,109.05,436.2,0,Winter15,0,Wholesale,Diana,Gift Card,Store D,21.02,2025-06-24,June,2025
+REG100400,2023-02-23,West,Tablet,12,245.6,2947.2,0,Freeship,1,Retail,Bob,Cash,Store D,43.92,2023-02-27,February,2023
+REG100401,2024-11-09,East,Printer,15,380.03,5700.45,0,No Promostion,0,Retail,Bob,Online,Store A,25.72,2024-11-12,November,2024
+REG100402,2024-07-25,South,Tablet,3,417.58,1190.103,0.05,Save10,0,Retail,Frank,Gift Card,Store D,43.42,2024-07-31,July,2024
+REG100403,2023-08-19,West,Laptop,15,432.17,5510.1675,0.15,Winter15,0,Wholesale,Frank,Debit Card,Store D,44.88,2023-08-23,August,2023
+REG100404,2023-11-13,South,Monitor,13,531.77,6221.709,0.1,Save10,0,Retail,Bob,Online,Store C,37.91,2023-11-15,November,2023
+REG100405,2024-09-10,West,Tablet,13,442.99,5470.9265,0.05,Save10,0,Wholesale,Alice,Gift Card,Store A,37.12,2024-09-18,September,2024
+REG100406,2024-08-30,Central,Chair,13,567.5,7377.5,0,No Promostion,0,Retail,Eva,Credit Card,Store A,28.41,2024-09-02,August,2024
+REG100407,2024-11-10,East,Tablet,15,469.52,7042.8,0,Freeship,0,Wholesale,Alice,Credit Card,Store C,35.6,2024-11-17,November,2024
+REG100408,2023-04-13,East,Printer,1,396.09,336.6765,0.15,Winter15,0,Wholesale,Frank,Credit Card,Store D,39.38,2023-04-19,April,2023
+REG100409,2023-11-20,East,Laptop,12,195.73,2231.322,0.05,Save10,0,Wholesale,Alice,Cash,Store C,37.09,2023-11-27,November,2023
+REG100410,2025-04-14,North,Printer,5,412.24,1752.02,0.15,Freeship,0,Wholesale,Carlos,Cash,Store B,29.31,2025-04-19,April,2025
+REG100411,2023-03-04,Central,Monitor,11,558.5,5221.975,0.15,Winter15,0,Retail,Carlos,Cash,Store B,48.15,2023-03-09,March,2023
+REG100412,2024-11-16,North,Laptop,4,175.34,596.156,0.15,Freeship,0,Retail,Eva,Cash,Store C,40.86,2024-11-19,November,2024
+REG100413,2024-05-25,South,Laptop,19,478.73,9095.87,0,Winter15,1,Retail,Frank,Debit Card,Store A,46.46,2024-06-02,May,2024
+REG100414,2023-04-12,East,Desk,5,365.38,1552.865,0.15,Save10,1,Wholesale,Alice,Debit Card,Store D,5.66,2023-04-15,April,2023
+REG100415,2023-03-07,South,Desk,10,397.33,3377.305,0.15,No Promostion,0,Retail,Alice,Credit Card,Store B,10.2,2023-03-13,March,2023
+REG100416,2024-01-05,Central,Chair,17,241.01,3687.453,0.1,Winter15,0,Retail,Bob,Debit Card,Store A,24.69,2024-01-11,January,2024
+REG100417,2024-10-31,West,Desk,17,82.2,1397.4,0,Winter15,0,Wholesale,Alice,Cash,Store C,32.5,2024-11-10,October,2024
+REG100418,2024-05-08,West,Monitor,16,170.77,2459.088,0.1,Save10,1,Retail,Frank,Online,Store C,45.93,2024-05-14,May,2024
+REG100419,2024-03-05,Central,Monitor,1,8.2,6.97,0.15,No Promostion,0,Wholesale,Frank,Debit Card,Store C,30.35,2024-03-15,March,2024
+REG100420,2023-07-18,North,Laptop,12,425.78,4598.424,0.1,No Promostion,1,Retail,Bob,Online,Store A,25.48,2023-07-22,July,2023
+REG100421,2023-08-05,South,Printer,20,121.14,2180.52,0.1,Freeship,0,Retail,Bob,Credit Card,Store C,21.47,2023-08-14,August,2023
+REG100422,2023-09-18,West,Tablet,19,448.13,8514.47,0,Freeship,0,Wholesale,Alice,Debit Card,Store D,28.29,2023-09-20,September,2023
+REG100423,2023-03-27,South,Laptop,8,7.81,56.232,0.1,Save10,0,Wholesale,Frank,Online,Store D,25.03,2023-03-29,March,2023
+REG100424,2023-03-08,East,Chair,19,191.44,3091.756,0.15,Winter15,1,Wholesale,Carlos,Cash,Store C,35.54,2023-03-17,March,2023
+REG100425,2024-05-02,West,Desk,5,245.2,1042.1,0.15,No Promostion,0,Retail,Eva,Online,Store B,46.37,2024-05-06,May,2024
+REG100426,2023-09-16,North,Desk,17,163.37,2360.6965,0.15,Save10,0,Wholesale,Eva,Gift Card,Store B,5.36,2023-09-26,September,2023
+REG100427,2023-06-13,South,Tablet,14,583.96,8175.44,0,Winter15,0,Retail,Diana,Debit Card,Store C,23.03,2023-06-22,June,2023
+REG100428,2023-11-05,North,Desk,16,181.08,2607.552,0.1,Winter15,0,Retail,Carlos,Online,Store C,39.84,2023-11-08,November,2023
+REG100429,2024-11-23,South,Tablet,8,414.94,3319.52,0,Save10,0,Wholesale,Alice,Debit Card,Store A,46.58,2024-11-26,November,2024
+REG100430,2024-02-09,Central,Phone,16,442.22,7075.52,0,Freeship,0,Retail,Alice,Cash,Store B,27.36,2024-02-18,February,2024
+REG100431,2023-11-16,Central,Printer,14,595.39,7501.914,0.1,Save10,0,Wholesale,Bob,Credit Card,Store A,9.51,2023-11-22,November,2023
+REG100432,2025-01-24,Central,Monitor,6,175.3,894.03,0.15,Save10,1,Wholesale,Alice,Cash,Store A,17.92,2025-01-29,January,2025
+REG100433,2025-05-06,Central,Tablet,7,319.59,1901.5605,0.15,Winter15,1,Wholesale,Carlos,Gift Card,Store C,8.47,2025-05-09,May,2025
+REG100434,2025-05-17,East,Printer,15,506.81,6461.8275,0.15,Freeship,1,Retail,Bob,Cash,Store A,41.03,2025-05-27,May,2025
+REG100435,2023-11-29,Central,Laptop,17,538.08,8689.992,0.05,Freeship,0,Retail,Eva,Debit Card,Store A,19.61,2023-12-01,November,2023
+REG100436,2023-02-24,South,Chair,16,187.84,3005.44,0,Save10,0,Retail,Alice,Credit Card,Store A,18.65,2023-02-26,February,2023
+REG100437,2023-11-04,South,Laptop,18,426.3,6522.39,0.15,No Promostion,1,Wholesale,Carlos,Credit Card,Store A,29.81,2023-11-10,November,2023
+REG100438,2024-06-15,East,Desk,1,498.35,448.515,0.1,Freeship,0,Retail,Alice,Online,Store B,34.7,2024-06-22,June,2024
+REG100439,2024-10-02,North,Tablet,19,385.72,6962.246,0.05,Save10,1,Retail,Carlos,Cash,Store A,12.46,2024-10-06,October,2024
+REG100440,2023-06-03,West,Tablet,3,54.37,146.799,0.1,Winter15,0,Wholesale,Frank,Credit Card,Store B,48.71,2023-06-13,June,2023
+REG100441,2023-09-10,East,Phone,6,471.74,2405.874,0.15,No Promostion,0,Retail,Carlos,Online,Store C,36.79,2023-09-18,September,2023
+REG100442,2025-05-20,Central,Printer,19,322.31,5205.3065,0.15,Freeship,0,Retail,Bob,Cash,Store B,33.95,2025-05-22,May,2025
+REG100443,2023-09-24,North,Tablet,13,115.86,1355.562,0.1,No Promostion,1,Wholesale,Diana,Cash,Store A,28.52,2023-10-03,September,2023
+REG100444,2025-03-29,East,Tablet,18,398.26,6451.812,0.1,No Promostion,0,Retail,Bob,Debit Card,Store B,16.8,2025-04-04,March,2025
+REG100445,2023-06-17,East,Chair,4,584.8,2105.28,0.1,Freeship,0,Retail,Eva,Online,Store B,16.44,2023-06-25,June,2023
+REG100446,2024-01-28,West,Printer,20,424.7,7219.9,0.15,Freeship,0,Wholesale,Bob,Online,Store B,42.03,2024-02-05,January,2024
+REG100447,2023-03-14,Central,Chair,16,179.22,2580.768,0.1,Winter15,0,Retail,Alice,Online,Store D,45.99,2023-03-17,March,2023
+REG100448,2025-01-09,East,Laptop,12,148.66,1783.92,0,No Promostion,1,Wholesale,Diana,Online,Store A,27.16,2025-01-17,January,2025
+REG100449,2025-03-30,Central,Phone,16,460.43,6261.848,0.15,Winter15,0,Wholesale,Bob,Online,Store B,20.38,2025-04-06,March,2025
+REG100450,2023-10-23,East,Tablet,5,334.37,1588.2575,0.05,No Promostion,0,Retail,Carlos,Credit Card,Store B,32.13,2023-10-28,October,2023
+REG100451,2025-06-08,West,Monitor,3,599.72,1529.286,0.15,Winter15,1,Retail,Alice,Online,Store D,14.93,2025-06-14,June,2025
+REG100452,2024-02-26,West,Monitor,11,389.84,4288.24,0,Save10,1,Wholesale,Alice,Gift Card,Store D,10.24,2024-02-29,February,2024
+REG100453,2024-10-30,East,Chair,11,445.75,4412.925,0.1,Save10,0,Wholesale,Frank,Online,Store A,18.07,2024-11-07,October,2024
+REG100454,2024-08-19,South,Laptop,18,96.84,1481.652,0.15,Save10,1,Wholesale,Frank,Cash,Store A,8.1,2024-08-23,August,2024
+REG100455,2023-07-30,Central,Chair,1,528.31,475.479,0.1,Freeship,0,Wholesale,Alice,Online,Store C,24.55,2023-08-09,July,2023
+REG100456,2024-08-13,North,Monitor,16,64.03,1024.48,0,Winter15,1,Wholesale,Carlos,Gift Card,Store A,16.71,2024-08-23,August,2024
+REG100457,2023-11-04,North,Printer,13,179.37,2215.2195,0.05,Freeship,0,Retail,Eva,Online,Store A,35.28,2023-11-12,November,2023
+REG100458,2025-06-05,East,Printer,19,491.15,9331.85,0,No Promostion,0,Retail,Frank,Online,Store C,48.68,2025-06-15,June,2025
+REG100459,2023-06-23,North,Printer,5,360.34,1801.7,0,No Promostion,0,Wholesale,Carlos,Gift Card,Store C,33.76,2023-06-28,June,2023
+REG100460,2024-09-21,South,Laptop,20,296.8,5342.4,0.1,No Promostion,0,Retail,Frank,Gift Card,Store A,19.57,2024-09-28,September,2024
+REG100461,2024-01-01,South,Desk,3,599.42,1618.434,0.1,Save10,0,Wholesale,Bob,Online,Store A,48.02,2024-01-03,January,2024
+REG100462,2025-01-02,West,Laptop,1,374.33,374.33,0,Freeship,0,Wholesale,Carlos,Credit Card,Store B,33.31,2025-01-12,January,2025
+REG100463,2024-03-14,North,Desk,13,588.8,6506.24,0.15,Save10,0,Wholesale,Frank,Cash,Store D,45.03,2024-03-21,March,2024
+REG100464,2024-05-04,West,Monitor,13,198.44,2579.72,0,Save10,1,Wholesale,Carlos,Cash,Store D,31.51,2024-05-09,May,2024
+REG100465,2025-02-27,South,Printer,12,384.2,4610.4,0,Freeship,0,Retail,Eva,Cash,Store A,38.99,2025-03-02,February,2025
+REG100466,2024-11-13,Central,Phone,4,475.49,1616.666,0.15,Winter15,0,Wholesale,Frank,Cash,Store B,11.6,2024-11-17,November,2024
+REG100467,2023-10-31,West,Printer,6,202.97,1096.038,0.1,Winter15,0,Retail,Eva,Gift Card,Store C,43.55,2023-11-10,October,2023
+REG100468,2023-12-19,Central,Tablet,18,135.23,2434.14,0,Winter15,1,Wholesale,Diana,Online,Store C,46.1,2023-12-24,December,2023
+REG100469,2023-11-27,South,Tablet,20,356.4,6771.6,0.05,Freeship,1,Wholesale,Diana,Cash,Store C,26.7,2023-12-03,November,2023
+REG100470,2023-08-15,East,Laptop,3,294.72,839.952,0.05,Save10,0,Wholesale,Alice,Cash,Store C,45.33,2023-08-18,August,2023
+REG100471,2023-01-16,West,Phone,20,553.85,11077,0,Winter15,0,Retail,Frank,Cash,Store A,33.21,2023-01-24,January,2023
+REG100472,2025-02-28,Central,Tablet,13,81.17,949.689,0.1,Save10,1,Retail,Frank,Cash,Store D,48.21,2025-03-08,February,2025
+REG100473,2023-11-28,West,Phone,2,532.51,1065.02,0,Winter15,1,Wholesale,Carlos,Credit Card,Store B,49.67,2023-12-01,November,2023
+REG100474,2023-12-04,West,Printer,1,268.19,241.371,0.1,Winter15,0,Wholesale,Carlos,Gift Card,Store B,9.48,2023-12-13,December,2023
+REG100475,2024-06-21,South,Printer,17,432.65,6251.7925,0.15,Freeship,0,Retail,Frank,Cash,Store A,18.85,2024-06-29,June,2024
+REG100476,2025-03-17,East,Desk,14,123.04,1550.304,0.1,Winter15,1,Wholesale,Diana,Cash,Store A,43.28,2025-03-26,March,2025
+REG100477,2023-08-17,Central,Desk,16,454.54,6545.376,0.1,Freeship,0,Retail,Bob,Online,Store B,20.55,2023-08-19,August,2023
+REG100478,2023-08-30,Central,Monitor,11,414.58,4332.361,0.05,Winter15,0,Wholesale,Diana,Cash,Store D,25.33,2023-09-05,August,2023
+REG100479,2025-06-16,East,Phone,9,352.91,2858.571,0.1,Freeship,0,Wholesale,Bob,Cash,Store B,30.57,2025-06-18,June,2025
+REG100480,2023-06-29,North,Chair,10,126.46,1138.14,0.1,Winter15,0,Retail,Eva,Online,Store A,26.96,2023-07-09,June,2023
+REG100481,2023-08-13,North,Monitor,7,125.02,875.14,0,Freeship,0,Wholesale,Carlos,Credit Card,Store D,12.45,2023-08-20,August,2023
+REG100482,2024-04-29,West,Tablet,20,367.24,6977.56,0.05,Freeship,0,Wholesale,Carlos,Gift Card,Store A,45.67,2024-05-07,April,2024
+REG100483,2023-07-15,West,Monitor,8,432.12,3456.96,0,Winter15,0,Retail,Diana,Credit Card,Store B,42.1,2023-07-25,July,2023
+REG100484,2025-01-17,North,Tablet,3,13.33,35.991,0.1,Save10,0,Retail,Eva,Cash,Store D,17.62,2025-01-23,January,2025
+REG100485,2025-02-21,East,Printer,13,105.93,1377.09,0,Freeship,0,Retail,Bob,Debit Card,Store C,38.96,2025-03-03,February,2025
+REG100486,2023-07-19,West,Monitor,20,526.55,10531,0,Freeship,1,Wholesale,Alice,Debit Card,Store A,25.64,2023-07-26,July,2023
+REG100487,2024-09-29,West,Phone,11,339.78,3550.701,0.05,Winter15,1,Retail,Diana,Debit Card,Store A,11.56,2024-10-06,September,2024
+REG100488,2024-10-17,East,Laptop,10,91.75,779.875,0.15,Winter15,0,Wholesale,Frank,Cash,Store D,37.27,2024-10-21,October,2024
+REG100489,2025-06-11,East,Phone,15,13.66,184.41,0.1,Freeship,0,Retail,Alice,Debit Card,Store B,38.04,2025-06-17,June,2025
+REG100490,2024-01-19,West,Desk,6,148.23,800.442,0.1,Freeship,0,Retail,Eva,Credit Card,Store B,19.58,2024-01-29,January,2024
+REG100491,2023-12-03,East,Chair,11,495.03,4628.5305,0.15,Winter15,0,Wholesale,Frank,Cash,Store D,27.37,2023-12-05,December,2023
+REG100492,2024-06-19,Central,Chair,6,247.2,1409.04,0.05,Freeship,0,Wholesale,Diana,Credit Card,Store A,18.75,2024-06-27,June,2024
+REG100493,2024-10-16,West,Tablet,19,207.45,3744.4725,0.05,Save10,0,Retail,Bob,Debit Card,Store C,11.5,2024-10-21,October,2024
+REG100494,2025-01-23,East,Laptop,2,370.78,630.326,0.15,Freeship,0,Wholesale,Diana,Online,Store D,20.45,2025-01-27,January,2025
+REG100495,2023-10-02,Central,Laptop,9,146.72,1188.432,0.1,No Promostion,0,Wholesale,Diana,Credit Card,Store A,10.45,2023-10-10,October,2023
+REG100496,2023-11-05,East,Desk,12,159.85,1726.38,0.1,Winter15,0,Retail,Alice,Cash,Store D,32.61,2023-11-07,November,2023
+REG100497,2023-06-18,South,Printer,13,181.68,2243.748,0.05,Save10,0,Wholesale,Diana,Gift Card,Store C,14.69,2023-06-23,June,2023
+REG100498,2024-07-15,Central,Phone,16,34.16,464.576,0.15,Save10,0,Retail,Bob,Cash,Store A,36.33,2024-07-21,July,2024
+REG100499,2024-06-14,Central,Laptop,2,287.43,517.374,0.1,Winter15,0,Wholesale,Diana,Cash,Store C,25.34,2024-06-23,June,2024
+REG100500,2024-04-05,East,Monitor,15,405.95,5175.8625,0.15,No Promostion,0,Wholesale,Eva,Gift Card,Store D,32.04,2024-04-10,April,2024
+REG100501,2023-02-27,North,Laptop,1,430.61,430.61,0,Winter15,0,Retail,Alice,Gift Card,Store B,14.53,2023-03-07,February,2023
+REG100502,2023-07-31,West,Laptop,5,508.05,2540.25,0,Winter15,1,Retail,Frank,Credit Card,Store D,35.63,2023-08-09,July,2023
+REG100503,2023-03-03,West,Laptop,13,522.97,5778.8185,0.15,Freeship,0,Retail,Carlos,Debit Card,Store C,33.9,2023-03-10,March,2023
+REG100504,2023-04-26,South,Laptop,17,260.25,3981.825,0.1,Save10,0,Wholesale,Frank,Credit Card,Store D,23.26,2023-04-28,April,2023
+REG100505,2024-10-19,East,Phone,6,549.21,2965.734,0.1,Winter15,1,Retail,Eva,Credit Card,Store B,12.29,2024-10-27,October,2024
+REG100506,2024-06-30,Central,Printer,17,472.33,6825.1685,0.15,Winter15,0,Retail,Carlos,Debit Card,Store C,22.63,2024-07-04,June,2024
+REG100507,2024-10-11,West,Laptop,9,596.83,5371.47,0,Winter15,0,Retail,Eva,Cash,Store A,6.43,2024-10-19,October,2024
+REG100508,2025-06-14,Central,Monitor,15,154.04,2079.54,0.1,Freeship,1,Retail,Alice,Cash,Store D,24.53,2025-06-23,June,2025
+REG100509,2024-12-22,East,Laptop,18,500.44,8107.128,0.1,No Promostion,0,Wholesale,Bob,Credit Card,Store D,8.87,2024-12-30,December,2024
+REG100510,2024-04-22,West,Tablet,5,382.17,1910.85,0,Freeship,0,Wholesale,Diana,Credit Card,Store C,17.72,2024-04-25,April,2024
+REG100511,2025-01-25,North,Chair,3,365.54,932.127,0.15,No Promostion,0,Retail,Frank,Online,Store B,45.89,2025-01-29,January,2025
+REG100512,2024-11-13,North,Laptop,5,270.13,1148.0525,0.15,No Promostion,0,Retail,Eva,Credit Card,Store C,15.74,2024-11-19,November,2024
+REG100513,2023-03-16,East,Tablet,2,480.15,816.255,0.15,No Promostion,0,Retail,Diana,Online,Store D,42.07,2023-03-21,March,2023
+REG100514,2023-05-06,North,Laptop,18,414.77,6719.274,0.1,No Promostion,1,Wholesale,Eva,Credit Card,Store C,28.55,2023-05-15,May,2023
+REG100515,2024-11-15,East,Monitor,10,98.24,982.4,0,Freeship,1,Wholesale,Frank,Credit Card,Store C,21.01,2024-11-17,November,2024
+REG100516,2024-06-28,Central,Laptop,6,227.6,1297.32,0.05,Freeship,0,Retail,Carlos,Debit Card,Store D,38.22,2024-07-05,June,2024
+REG100517,2025-05-11,Central,Monitor,5,136.13,578.5525,0.15,No Promostion,0,Retail,Carlos,Online,Store C,10.02,2025-05-20,May,2025
+REG100518,2023-02-26,Central,Tablet,5,489.13,2201.085,0.1,Freeship,0,Retail,Diana,Gift Card,Store C,44.73,2023-03-04,February,2023
+REG100519,2024-04-30,South,Laptop,4,414.36,1657.44,0,Freeship,0,Retail,Bob,Debit Card,Store A,8.02,2024-05-07,April,2024
+REG100520,2025-03-11,East,Laptop,6,138.26,705.126,0.15,No Promostion,1,Retail,Eva,Online,Store B,31.4,2025-03-13,March,2025
+REG100521,2025-06-30,East,Phone,12,487.57,5558.298,0.05,No Promostion,0,Wholesale,Eva,Cash,Store A,37.33,2025-07-10,June,2025
+REG100522,2024-06-02,North,Chair,20,427.3,8118.7,0.05,Freeship,1,Wholesale,Frank,Gift Card,Store C,25.19,2024-06-08,June,2024
+REG100523,2024-09-01,South,Laptop,16,588.92,8009.312,0.15,Freeship,0,Wholesale,Alice,Cash,Store D,7.89,2024-09-05,September,2024
+REG100524,2025-01-11,South,Laptop,6,429.45,2319.03,0.1,No Promostion,0,Retail,Alice,Cash,Store B,47.18,2025-01-18,January,2025
+REG100525,2025-03-31,South,Phone,1,476,404.6,0.15,Freeship,0,Wholesale,Carlos,Cash,Store A,18.95,2025-04-03,March,2025
+REG100526,2024-11-28,South,Phone,13,141.26,1836.38,0,No Promostion,0,Retail,Frank,Online,Store B,23.68,2024-12-05,November,2024
+REG100527,2023-07-05,North,Chair,3,250.65,639.1575,0.15,Save10,0,Retail,Eva,Credit Card,Store D,44.46,2023-07-07,July,2023
+REG100528,2024-10-24,West,Monitor,19,301.17,5436.1185,0.05,Winter15,0,Retail,Alice,Debit Card,Store D,5.71,2024-11-03,October,2024
+REG100529,2025-04-08,North,Chair,7,30.79,193.977,0.1,Winter15,1,Retail,Bob,Cash,Store C,11.39,2025-04-16,April,2025
+REG100530,2024-06-05,East,Laptop,1,561.6,477.36,0.15,Save10,0,Wholesale,Alice,Debit Card,Store A,38.02,2024-06-10,June,2024
+REG100531,2025-01-23,West,Phone,16,193.7,2634.32,0.15,Save10,0,Retail,Bob,Credit Card,Store A,6.83,2025-01-29,January,2025
+REG100532,2024-11-04,Central,Tablet,17,310.03,5006.9845,0.05,Freeship,0,Retail,Carlos,Online,Store D,8.06,2024-11-12,November,2024
+REG100533,2024-01-01,West,Printer,13,204.67,2261.6035,0.15,No Promostion,0,Retail,Alice,Online,Store A,6.76,2024-01-05,January,2024
+REG100534,2024-04-09,Central,Printer,3,250.11,750.33,0,Freeship,0,Wholesale,Alice,Gift Card,Store D,36.35,2024-04-17,April,2024
+REG100535,2025-01-17,North,Desk,12,526.82,6321.84,0,Winter15,0,Retail,Frank,Credit Card,Store A,29.75,2025-01-25,January,2025
+REG100536,2024-09-22,East,Chair,18,575.1,10351.8,0,Freeship,0,Wholesale,Bob,Online,Store D,35.32,2024-09-29,September,2024
+REG100537,2023-01-20,East,Monitor,8,325.52,2343.744,0.1,Winter15,0,Retail,Frank,Debit Card,Store C,45.59,2023-01-25,January,2023
+REG100538,2024-01-12,North,Monitor,14,157.14,1869.966,0.15,Save10,0,Wholesale,Diana,Gift Card,Store A,36.04,2024-01-22,January,2024
+REG100539,2024-04-08,Central,Laptop,10,100.26,952.47,0.05,Save10,0,Wholesale,Carlos,Gift Card,Store D,36.71,2024-04-15,April,2024
+REG100540,2023-04-27,Central,Laptop,9,554.48,4990.32,0,No Promostion,0,Wholesale,Carlos,Online,Store C,48.26,2023-05-01,April,2023
+REG100541,2024-07-17,North,Phone,4,375.96,1278.264,0.15,No Promostion,0,Retail,Carlos,Debit Card,Store C,44.99,2024-07-25,July,2024
+REG100542,2024-02-17,Central,Monitor,14,485.21,6792.94,0,Freeship,0,Retail,Frank,Online,Store A,41.72,2024-02-23,February,2024
+REG100543,2024-01-25,South,Monitor,9,372.44,3184.362,0.05,Freeship,0,Wholesale,Diana,Gift Card,Store A,41.87,2024-02-02,January,2024
+REG100544,2024-03-24,Central,Laptop,7,140.53,983.71,0,No Promostion,1,Retail,Frank,Debit Card,Store D,24.53,2024-04-02,March,2024
+REG100545,2023-06-25,North,Desk,15,365.61,4661.5275,0.15,Freeship,0,Retail,Bob,Cash,Store D,35.84,2023-06-27,June,2023
+REG100546,2023-04-17,South,Laptop,20,353.97,6017.49,0.15,Winter15,1,Wholesale,Frank,Cash,Store B,22.05,2023-04-20,April,2023
+REG100547,2023-06-28,East,Chair,14,293.31,4106.34,0,No Promostion,0,Wholesale,Alice,Gift Card,Store D,21.61,2023-06-30,June,2023
+REG100548,2024-04-06,Central,Chair,10,397.39,3377.815,0.15,No Promostion,0,Retail,Alice,Gift Card,Store D,25.27,2024-04-16,April,2024
+REG100549,2025-02-17,South,Chair,2,98.35,196.7,0,Freeship,0,Retail,Eva,Debit Card,Store C,28.65,2025-02-19,February,2025
+REG100550,2023-01-08,South,Desk,6,581.67,3490.02,0,No Promostion,0,Wholesale,Frank,Debit Card,Store A,39.4,2023-01-11,January,2023
+REG100551,2023-12-21,South,Phone,19,30.41,548.9005,0.05,Freeship,0,Retail,Frank,Debit Card,Store D,48.33,2023-12-31,December,2023
+REG100552,2024-07-13,North,Monitor,15,368.79,4978.665,0.1,Winter15,0,Wholesale,Bob,Gift Card,Store C,16.9,2024-07-15,July,2024
+REG100553,2024-03-23,West,Monitor,4,56.06,190.604,0.15,Save10,0,Retail,Carlos,Cash,Store D,10.77,2024-04-01,March,2024
+REG100554,2024-03-19,West,Chair,7,15.65,109.55,0,No Promostion,0,Wholesale,Carlos,Debit Card,Store D,13.28,2024-03-25,March,2024
+REG100555,2025-05-20,Central,Tablet,9,380.85,3427.65,0,Freeship,0,Wholesale,Carlos,Cash,Store B,33.4,2025-05-29,May,2025
+REG100556,2025-01-19,South,Chair,11,587.21,6459.31,0,Winter15,0,Wholesale,Carlos,Debit Card,Store C,34.32,2025-01-26,January,2025
+REG100557,2023-05-28,South,Printer,17,554.25,8480.025,0.1,No Promostion,0,Wholesale,Diana,Debit Card,Store A,8.66,2023-06-01,May,2023
+REG100558,2023-10-28,East,Printer,3,410.23,1046.0865,0.15,Freeship,0,Wholesale,Diana,Credit Card,Store A,6.04,2023-11-03,October,2023
+REG100559,2023-11-25,West,Monitor,5,99.23,496.15,0,No Promostion,0,Retail,Eva,Debit Card,Store B,37.66,2023-12-02,November,2023
+REG100560,2024-11-17,South,Monitor,9,503.18,4528.62,0,Save10,1,Wholesale,Diana,Gift Card,Store B,46.02,2024-11-24,November,2024
+REG100561,2024-01-24,Central,Monitor,17,155.31,2244.2295,0.15,Winter15,0,Retail,Bob,Credit Card,Store C,27.1,2024-01-29,January,2024
+REG100562,2023-06-19,North,Chair,7,303.79,1807.5505,0.15,Save10,0,Wholesale,Frank,Credit Card,Store D,38.85,2023-06-29,June,2023
+REG100563,2025-01-13,East,Phone,17,263.75,4483.75,0,No Promostion,1,Retail,Alice,Online,Store B,12.97,2025-01-18,January,2025
+REG100564,2024-01-24,East,Phone,4,179.92,647.712,0.1,Winter15,0,Retail,Diana,Online,Store D,35.26,2024-02-01,January,2024
+REG100565,2025-01-06,South,Printer,2,264,528,0,Save10,0,Retail,Bob,Gift Card,Store D,26.73,2025-01-14,January,2025
+REG100566,2025-01-02,Central,Laptop,4,403.97,1535.086,0.05,Winter15,0,Wholesale,Alice,Cash,Store A,39.92,2025-01-09,January,2025
+REG100567,2023-02-22,North,Desk,4,85.96,309.456,0.1,No Promostion,0,Retail,Frank,Credit Card,Store A,32.12,2023-03-03,February,2023
+REG100568,2025-02-06,East,Desk,2,93.49,168.282,0.1,Winter15,0,Wholesale,Alice,Debit Card,Store A,26.31,2025-02-16,February,2025
+REG100569,2024-09-26,East,Desk,11,144.29,1507.8305,0.05,Winter15,0,Retail,Bob,Credit Card,Store B,11.91,2024-09-30,September,2024
+REG100570,2025-03-28,North,Chair,18,553.23,9958.14,0,Freeship,0,Wholesale,Frank,Cash,Store D,31.76,2025-04-01,March,2025
+REG100571,2023-07-01,East,Chair,9,228.3,1951.965,0.05,Freeship,0,Retail,Eva,Debit Card,Store B,8.75,2023-07-09,July,2023
+REG100572,2023-04-29,West,Desk,7,235.94,1486.422,0.1,Freeship,0,Wholesale,Alice,Gift Card,Store D,8.44,2023-05-04,April,2023
+REG100573,2023-04-30,East,Printer,17,369.52,6281.84,0,No Promostion,0,Wholesale,Carlos,Gift Card,Store C,17.12,2023-05-06,April,2023
+REG100574,2024-03-14,West,Phone,8,142.09,1136.72,0,Winter15,0,Wholesale,Eva,Credit Card,Store A,38.97,2024-03-20,March,2024
+REG100575,2023-06-27,Central,Chair,3,497.61,1268.9055,0.15,Freeship,1,Wholesale,Alice,Cash,Store B,13.97,2023-07-02,June,2023
+REG100576,2024-04-10,North,Laptop,19,9.48,180.12,0,No Promostion,0,Wholesale,Carlos,Online,Store A,22.33,2024-04-12,April,2024
+REG100577,2023-08-30,Central,Printer,8,55.27,375.836,0.15,Winter15,0,Wholesale,Bob,Cash,Store A,16.84,2023-09-01,August,2023
+REG100578,2023-10-23,West,Laptop,17,25.95,419.0925,0.05,No Promostion,0,Wholesale,Bob,Gift Card,Store B,27.68,2023-10-30,October,2023
+REG100579,2023-03-23,North,Desk,18,209.65,3396.33,0.1,No Promostion,0,Wholesale,Carlos,Debit Card,Store A,42.04,2023-03-30,March,2023
+REG100580,2024-09-21,Central,Laptop,13,75.77,837.2585,0.15,Save10,0,Wholesale,Frank,Debit Card,Store B,41.94,2024-09-30,September,2024
+REG100581,2024-12-26,West,Tablet,5,307.84,1385.28,0.1,Save10,0,Wholesale,Bob,Online,Store B,13.61,2025-01-03,December,2024
+REG100582,2023-02-26,East,Phone,13,6.5,84.5,0,No Promostion,0,Wholesale,Diana,Cash,Store A,20.02,2023-03-03,February,2023
+REG100583,2024-12-10,North,Monitor,8,70.79,566.32,0,No Promostion,0,Wholesale,Diana,Online,Store B,46.35,2024-12-14,December,2024
+REG100584,2025-01-01,East,Laptop,17,584.7,8945.91,0.1,No Promostion,1,Retail,Eva,Online,Store D,46.59,2025-01-03,January,2025
+REG100585,2025-03-14,East,Phone,4,23.27,79.118,0.15,Save10,0,Wholesale,Diana,Online,Store C,32.86,2025-03-21,March,2025
+REG100586,2024-01-16,South,Tablet,5,440.93,1984.185,0.1,No Promostion,0,Wholesale,Carlos,Gift Card,Store B,23.84,2024-01-20,January,2024
+REG100587,2024-04-19,West,Tablet,10,278.45,2784.5,0,Save10,0,Wholesale,Eva,Credit Card,Store D,11.13,2024-04-25,April,2024
+REG100588,2023-12-08,North,Monitor,14,382.19,5083.127,0.05,Freeship,1,Wholesale,Frank,Cash,Store B,49.12,2023-12-11,December,2023
+REG100589,2023-03-15,North,Monitor,14,232.49,3092.117,0.05,Save10,1,Wholesale,Diana,Online,Store D,5.32,2023-03-19,March,2023
+REG100590,2025-02-07,South,Laptop,17,15.01,216.8945,0.15,Save10,1,Wholesale,Diana,Debit Card,Store D,22,2025-02-13,February,2025
+REG100591,2025-06-27,North,Monitor,11,29.41,307.3345,0.05,Save10,0,Retail,Carlos,Credit Card,Store D,6.16,2025-07-02,June,2025
+REG100592,2024-12-17,Central,Tablet,1,486.19,461.8805,0.05,Save10,0,Retail,Frank,Online,Store B,41.73,2024-12-20,December,2024
+REG100593,2024-05-03,South,Laptop,6,266.67,1520.019,0.05,No Promostion,0,Wholesale,Eva,Debit Card,Store B,48.49,2024-05-11,May,2024
+REG100594,2023-12-26,South,Printer,3,300.8,812.16,0.1,No Promostion,1,Wholesale,Carlos,Cash,Store B,15.98,2024-01-01,December,2023
+REG100595,2024-05-13,Central,Printer,11,79.63,832.1335,0.05,No Promostion,0,Wholesale,Frank,Online,Store B,43.84,2024-05-19,May,2024
+REG100596,2023-10-07,South,Laptop,6,505.7,3034.2,0,No Promostion,0,Retail,Alice,Cash,Store C,40.38,2023-10-16,October,2023
+REG100597,2023-07-11,West,Printer,5,569.62,2848.1,0,Freeship,0,Wholesale,Diana,Debit Card,Store C,48.8,2023-07-13,July,2023
+REG100598,2025-01-31,South,Tablet,19,90.85,1639.8425,0.05,Save10,0,Retail,Alice,Credit Card,Store C,22.28,2025-02-06,January,2025
+REG100599,2023-02-04,South,Chair,2,296.91,564.129,0.05,Winter15,0,Wholesale,Carlos,Debit Card,Store A,44.35,2023-02-07,February,2023
+REG100600,2023-09-02,South,Printer,2,6.19,11.142,0.1,Freeship,1,Retail,Frank,Credit Card,Store B,47.24,2023-09-12,September,2023
+REG100601,2024-12-13,Central,Monitor,18,207.35,3172.455,0.15,Freeship,0,Wholesale,Alice,Debit Card,Store D,11.17,2024-12-15,December,2024
+REG100602,2023-10-13,Central,Tablet,5,75.27,376.35,0,No Promostion,0,Wholesale,Carlos,Cash,Store A,31.61,2023-10-22,October,2023
+REG100603,2024-10-03,South,Monitor,3,136.15,367.605,0.1,Save10,0,Retail,Diana,Gift Card,Store A,48.38,2024-10-07,October,2024
+REG100604,2024-04-28,Central,Desk,5,544.66,2450.97,0.1,Save10,0,Retail,Diana,Online,Store B,8.39,2024-05-04,April,2024
+REG100605,2024-02-07,Central,Desk,8,561.9,3820.92,0.15,Freeship,1,Retail,Bob,Online,Store A,15.97,2024-02-14,February,2024
+REG100606,2023-02-08,South,Chair,20,313.47,5328.99,0.15,Freeship,0,Retail,Alice,Online,Store C,18.17,2023-02-11,February,2023
+REG100607,2023-06-17,South,Phone,1,418.45,355.6825,0.15,Winter15,0,Retail,Diana,Cash,Store C,35.58,2023-06-19,June,2023
+REG100608,2024-07-29,West,Monitor,8,420.75,3029.4,0.1,Save10,1,Wholesale,Bob,Online,Store B,44.61,2024-08-01,July,2024
+REG100609,2024-01-29,West,Printer,16,514.36,8229.76,0,Save10,0,Wholesale,Alice,Online,Store D,40.75,2024-02-01,January,2024
+REG100610,2024-01-18,East,Phone,2,297.2,534.96,0.1,Freeship,0,Retail,Frank,Gift Card,Store B,8.71,2024-01-23,January,2024
+REG100611,2024-08-12,North,Chair,10,278,2780,0,No Promostion,0,Retail,Bob,Credit Card,Store C,24.25,2024-08-22,August,2024
+REG100612,2025-04-16,West,Monitor,8,583.17,4198.824,0.1,Winter15,0,Wholesale,Frank,Credit Card,Store D,49.18,2025-04-20,April,2025
+REG100613,2023-02-26,Central,Desk,16,75.62,1088.928,0.1,Winter15,0,Retail,Diana,Cash,Store D,27.39,2023-03-02,February,2023
+REG100614,2023-01-07,East,Desk,13,561.62,6936.007,0.05,Freeship,0,Wholesale,Frank,Gift Card,Store C,12.91,2023-01-11,January,2023
+REG100615,2023-10-24,South,Desk,5,359.61,1798.05,0,Freeship,0,Retail,Bob,Online,Store A,41.31,2023-11-03,October,2023
+REG100616,2024-01-02,North,Tablet,15,115.48,1472.37,0.15,No Promostion,0,Retail,Frank,Credit Card,Store A,6.04,2024-01-12,January,2024
+REG100617,2024-09-17,South,Laptop,12,596.26,6081.852,0.15,Winter15,0,Wholesale,Eva,Gift Card,Store D,28.27,2024-09-25,September,2024
+REG100618,2024-05-05,Central,Tablet,19,401.68,7250.324,0.05,Winter15,1,Wholesale,Alice,Debit Card,Store C,37.77,2024-05-11,May,2024
+REG100619,2025-06-27,West,Desk,13,112.88,1467.44,0,No Promostion,0,Retail,Frank,Debit Card,Store D,12.39,2025-06-29,June,2025
+REG100620,2024-05-14,West,Phone,6,370.08,1887.408,0.15,Save10,0,Retail,Alice,Online,Store D,7.39,2024-05-22,May,2024
+REG100621,2024-02-29,North,Chair,15,119.86,1528.215,0.15,No Promostion,1,Wholesale,Bob,Debit Card,Store A,30.78,2024-03-05,February,2024
+REG100622,2025-05-19,East,Phone,5,271.44,1153.62,0.15,Freeship,0,Wholesale,Diana,Debit Card,Store A,5.98,2025-05-27,May,2025
+REG100623,2024-12-02,East,Desk,9,363.39,3106.9845,0.05,No Promostion,0,Wholesale,Diana,Gift Card,Store B,41.64,2024-12-04,December,2024
+REG100624,2024-07-30,West,Printer,12,533.77,5444.454,0.15,Save10,0,Wholesale,Alice,Cash,Store D,48.71,2024-08-04,July,2024
+REG100625,2023-06-25,South,Desk,12,192.03,2073.924,0.1,No Promostion,0,Wholesale,Carlos,Credit Card,Store B,41.08,2023-07-03,June,2023
+REG100626,2024-07-10,South,Chair,20,504.22,10084.4,0,Winter15,0,Wholesale,Frank,Online,Store D,14.61,2024-07-19,July,2024
+REG100627,2023-01-06,East,Laptop,7,193.66,1220.058,0.1,Freeship,0,Wholesale,Diana,Credit Card,Store A,39.01,2023-01-15,January,2023
+REG100628,2024-02-24,South,Chair,3,270.83,731.241,0.1,Save10,1,Wholesale,Carlos,Online,Store B,17.2,2024-02-29,February,2024
+REG100629,2023-12-11,Central,Tablet,18,62.08,1117.44,0,Save10,1,Retail,Diana,Credit Card,Store B,8.67,2023-12-20,December,2023
+REG100630,2025-02-19,South,Printer,11,505.96,4730.726,0.15,Freeship,1,Wholesale,Eva,Debit Card,Store C,22.84,2025-02-23,February,2025
+REG100631,2025-03-18,West,Tablet,4,62.46,212.364,0.15,Winter15,0,Wholesale,Alice,Debit Card,Store D,31.91,2025-03-26,March,2025
+REG100632,2023-09-22,South,Phone,7,480.08,3024.504,0.1,No Promostion,1,Wholesale,Diana,Online,Store B,44.37,2023-09-27,September,2023
+REG100633,2023-12-23,West,Tablet,18,60.66,1091.88,0,Freeship,1,Retail,Bob,Online,Store A,10.08,2023-12-28,December,2023
+REG100634,2025-05-04,North,Desk,6,249.09,1419.813,0.05,No Promostion,0,Retail,Frank,Cash,Store B,20.38,2025-05-10,May,2025
+REG100635,2025-01-11,East,Phone,20,400.05,7200.9,0.1,Winter15,0,Wholesale,Diana,Debit Card,Store D,24.41,2025-01-13,January,2025
+REG100636,2025-04-21,South,Printer,1,130.87,124.3265,0.05,Winter15,0,Retail,Diana,Online,Store B,43.21,2025-04-24,April,2025
+REG100637,2023-12-13,Central,Tablet,11,133.08,1244.298,0.15,Winter15,0,Wholesale,Frank,Credit Card,Store A,44.61,2023-12-22,December,2023
+REG100638,2024-02-07,East,Chair,13,448.68,5249.556,0.1,Freeship,1,Wholesale,Diana,Credit Card,Store B,16.82,2024-02-11,February,2024
+REG100639,2024-04-24,North,Tablet,19,36.23,688.37,0,Winter15,0,Wholesale,Diana,Debit Card,Store B,33.94,2024-04-27,April,2024
+REG100640,2023-09-11,West,Chair,14,113.77,1592.78,0,Freeship,0,Retail,Eva,Cash,Store C,25.35,2023-09-16,September,2023
+REG100641,2025-06-09,Central,Printer,2,89.6,179.2,0,Freeship,0,Retail,Diana,Gift Card,Store A,23.69,2025-06-12,June,2025
+REG100642,2025-06-06,East,Desk,3,391.92,999.396,0.15,Save10,0,Wholesale,Alice,Debit Card,Store A,9.86,2025-06-16,June,2025
+REG100643,2024-12-23,South,Chair,10,418.93,3770.37,0.1,Freeship,0,Wholesale,Bob,Credit Card,Store C,45.63,2024-12-28,December,2024
+REG100644,2023-08-27,East,Monitor,12,303.09,3637.08,0,Winter15,1,Wholesale,Alice,Gift Card,Store B,5.48,2023-09-03,August,2023
+REG100645,2023-01-09,East,Monitor,10,209.95,1889.55,0.1,Winter15,0,Wholesale,Eva,Cash,Store A,10.99,2023-01-13,January,2023
+REG100646,2025-04-22,East,Laptop,8,283.63,2042.136,0.1,Save10,0,Wholesale,Alice,Cash,Store C,49.91,2025-04-25,April,2025
+REG100647,2023-09-06,South,Phone,7,18.36,115.668,0.1,No Promostion,0,Retail,Alice,Online,Store D,48.92,2023-09-11,September,2023
+REG100648,2023-01-21,East,Monitor,9,475.38,3850.578,0.1,Save10,0,Wholesale,Carlos,Debit Card,Store A,39.98,2023-01-27,January,2023
+REG100649,2024-04-26,Central,Chair,12,591.92,7103.04,0,Save10,0,Retail,Eva,Debit Card,Store D,25.2,2024-05-06,April,2024
+REG100650,2023-06-27,North,Phone,7,93.23,619.9795,0.05,Freeship,1,Retail,Alice,Credit Card,Store B,6.47,2023-06-30,June,2023
+REG100651,2023-01-01,East,Tablet,15,298.71,4480.65,0,Save10,0,Retail,Bob,Debit Card,Store C,11.38,2023-01-08,January,2023
+REG100652,2023-12-30,West,Tablet,15,52.37,667.7175,0.15,Save10,0,Retail,Diana,Online,Store A,8.93,2024-01-02,December,2023
+REG100653,2023-01-22,Central,Phone,6,104.19,562.626,0.1,No Promostion,0,Retail,Diana,Online,Store C,8.62,2023-01-24,January,2023
+REG100654,2024-07-27,South,Laptop,8,493.09,3747.484,0.05,Freeship,0,Retail,Diana,Credit Card,Store A,11.49,2024-08-05,July,2024
+REG100655,2024-01-15,South,Chair,6,291.58,1749.48,0,Freeship,0,Wholesale,Frank,Credit Card,Store B,30.25,2024-01-17,January,2024
+REG100656,2024-01-04,West,Tablet,1,103.13,103.13,0,Freeship,0,Wholesale,Bob,Online,Store B,42.38,2024-01-14,January,2024
+REG100657,2023-02-09,East,Monitor,1,541.9,514.805,0.05,Winter15,0,Retail,Eva,Cash,Store A,40.35,2023-02-19,February,2023
+REG100658,2024-06-20,North,Phone,11,303.09,3000.591,0.1,Save10,0,Wholesale,Diana,Online,Store D,21.88,2024-06-24,June,2024
+REG100659,2023-02-21,Central,Desk,11,61.81,645.9145,0.05,Winter15,0,Retail,Bob,Gift Card,Store C,47.95,2023-03-03,February,2023
+REG100660,2023-08-16,Central,Desk,8,355.15,2557.08,0.1,No Promostion,1,Retail,Carlos,Online,Store B,38.59,2023-08-24,August,2023
+REG100661,2023-11-03,West,Monitor,11,119.84,1186.416,0.1,Save10,0,Wholesale,Eva,Online,Store D,16.64,2023-11-11,November,2023
+REG100662,2024-04-26,South,Laptop,16,318.32,4838.464,0.05,Freeship,0,Wholesale,Diana,Credit Card,Store C,40.78,2024-05-01,April,2024
+REG100663,2024-10-08,South,Desk,9,446.49,3415.6485,0.15,Freeship,0,Wholesale,Carlos,Cash,Store D,5.77,2024-10-17,October,2024
+REG100664,2023-01-09,South,Desk,16,258.82,3727.008,0.1,Save10,0,Retail,Diana,Online,Store D,46.93,2023-01-17,January,2023
+REG100665,2023-12-25,North,Printer,9,272.68,2331.414,0.05,Save10,0,Wholesale,Eva,Online,Store D,16.43,2024-01-02,December,2023
+REG100666,2024-05-11,Central,Monitor,12,438.77,5265.24,0,Save10,0,Retail,Eva,Debit Card,Store C,9.31,2024-05-20,May,2024
+REG100667,2023-11-23,West,Tablet,18,267.63,4817.34,0,Save10,0,Retail,Carlos,Gift Card,Store B,44.48,2023-11-26,November,2023
+REG100668,2023-12-10,Central,Printer,6,115.94,660.858,0.05,Save10,0,Wholesale,Carlos,Credit Card,Store A,23.91,2023-12-12,December,2023
+REG100669,2024-02-03,North,Printer,19,275.78,5239.82,0,Save10,0,Retail,Frank,Cash,Store C,47,2024-02-05,February,2024
+REG100670,2024-11-24,Central,Chair,12,255.93,3071.16,0,Winter15,0,Retail,Eva,Cash,Store B,23.74,2024-12-04,November,2024
+REG100671,2024-03-06,West,Phone,1,381.21,324.0285,0.15,No Promostion,0,Wholesale,Bob,Online,Store D,9.95,2024-03-11,March,2024
+REG100672,2025-02-01,South,Desk,5,38.23,162.4775,0.15,No Promostion,0,Wholesale,Bob,Debit Card,Store C,21.06,2025-02-11,February,2025
+REG100673,2024-06-04,Central,Laptop,7,225.86,1581.02,0,No Promostion,0,Wholesale,Carlos,Debit Card,Store B,24.48,2024-06-09,June,2024
+REG100674,2023-08-06,Central,Desk,8,548.02,4164.952,0.05,No Promostion,0,Retail,Eva,Online,Store D,33.4,2023-08-13,August,2023
+REG100675,2023-06-30,West,Printer,18,485.3,8298.63,0.05,Freeship,1,Wholesale,Bob,Debit Card,Store D,47.77,2023-07-05,June,2023
+REG100676,2023-02-15,West,Printer,19,414.31,7084.701,0.1,Save10,0,Retail,Eva,Credit Card,Store A,17.43,2023-02-19,February,2023
+REG100677,2024-01-23,North,Printer,8,50.72,385.472,0.05,No Promostion,0,Wholesale,Carlos,Debit Card,Store A,12.35,2024-01-30,January,2024
+REG100678,2024-10-31,North,Tablet,17,83.26,1203.107,0.15,Save10,0,Wholesale,Eva,Cash,Store A,42.68,2024-11-06,October,2024
+REG100679,2023-12-19,Central,Desk,20,51.85,881.45,0.15,No Promostion,0,Wholesale,Carlos,Cash,Store C,33.16,2023-12-21,December,2023
+REG100680,2023-07-04,South,Tablet,12,122.51,1396.614,0.05,Winter15,0,Wholesale,Diana,Gift Card,Store B,43.47,2023-07-06,July,2023
+REG100681,2024-05-16,East,Laptop,11,222.13,2076.9155,0.15,Winter15,1,Wholesale,Eva,Cash,Store D,9.88,2024-05-18,May,2024
+REG100682,2023-09-16,North,Monitor,8,204.84,1638.72,0,No Promostion,0,Retail,Bob,Cash,Store C,43.4,2023-09-21,September,2023
+REG100683,2024-11-22,East,Chair,3,536.97,1610.91,0,No Promostion,0,Wholesale,Carlos,Debit Card,Store C,13.86,2024-12-01,November,2024
+REG100684,2024-04-13,West,Chair,15,553.01,7465.635,0.1,Save10,1,Retail,Carlos,Credit Card,Store A,23.3,2024-04-21,April,2024
+REG100685,2024-06-30,South,Chair,20,284.82,5126.76,0.1,Winter15,1,Retail,Alice,Credit Card,Store D,27,2024-07-06,June,2024
+REG100686,2024-08-29,North,Desk,18,523.87,8015.211,0.15,Winter15,0,Retail,Diana,Gift Card,Store C,42.63,2024-09-02,August,2024
+REG100687,2023-12-26,Central,Desk,3,232.13,626.751,0.1,No Promostion,1,Retail,Diana,Cash,Store B,46.65,2023-12-31,December,2023
+REG100688,2025-01-30,North,Phone,17,179.32,2743.596,0.1,Save10,1,Retail,Bob,Debit Card,Store A,26.74,2025-02-06,January,2025
+REG100689,2023-05-17,South,Chair,1,396.35,336.8975,0.15,Save10,1,Retail,Frank,Debit Card,Store B,19.89,2023-05-25,May,2023
+REG100690,2024-01-27,Central,Desk,17,108.48,1659.744,0.1,No Promostion,1,Wholesale,Carlos,Online,Store A,48.9,2024-02-05,January,2024
+REG100691,2025-05-26,East,Printer,10,149.67,1347.03,0.1,Freeship,1,Retail,Carlos,Cash,Store D,49.67,2025-06-02,May,2025
+REG100692,2025-03-09,North,Phone,1,506.41,506.41,0,No Promostion,0,Wholesale,Bob,Cash,Store D,17.9,2025-03-17,March,2025
+REG100693,2024-02-22,West,Tablet,6,345.9,1764.09,0.15,Winter15,0,Retail,Frank,Credit Card,Store B,30.58,2024-03-03,February,2024
+REG100694,2025-02-03,East,Tablet,15,342.04,4361.01,0.15,Winter15,0,Retail,Diana,Gift Card,Store C,44.91,2025-02-08,February,2025
+REG100695,2024-01-09,Central,Printer,11,404.88,4230.996,0.05,Save10,0,Wholesale,Alice,Gift Card,Store A,18.92,2024-01-16,January,2024
+REG100696,2025-05-05,North,Desk,9,292.46,2500.533,0.05,No Promostion,0,Wholesale,Carlos,Credit Card,Store A,34.26,2025-05-14,May,2025
+REG100697,2023-04-17,Central,Desk,5,547.53,2463.885,0.1,No Promostion,0,Retail,Eva,Debit Card,Store A,24.68,2023-04-21,April,2023
+REG100698,2024-06-16,South,Desk,12,348.88,4186.56,0,Save10,0,Wholesale,Alice,Credit Card,Store C,31.28,2024-06-21,June,2024
+REG100699,2024-11-01,South,Phone,15,486.03,7290.45,0,Winter15,0,Wholesale,Alice,Debit Card,Store C,14.9,2024-11-04,November,2024
+REG100700,2025-02-07,East,Tablet,14,159.09,1893.171,0.15,Freeship,0,Retail,Bob,Debit Card,Store C,27.05,2025-02-10,February,2025
+REG100701,2024-11-24,South,Monitor,12,173.79,1772.658,0.15,No Promostion,0,Retail,Eva,Credit Card,Store D,21.23,2024-12-04,November,2024
+REG100702,2024-04-23,Central,Monitor,13,439.75,5716.75,0,No Promostion,1,Wholesale,Frank,Online,Store A,12.23,2024-05-02,April,2024
+REG100703,2024-06-24,East,Laptop,9,265.43,2269.4265,0.05,Freeship,0,Wholesale,Eva,Credit Card,Store D,40.18,2024-06-27,June,2024
+REG100704,2025-06-01,West,Monitor,12,290.28,3135.024,0.1,Freeship,1,Retail,Carlos,Cash,Store B,5.55,2025-06-07,June,2025
+REG100705,2023-03-12,West,Tablet,6,88.7,532.2,0,No Promostion,0,Wholesale,Carlos,Gift Card,Store B,16.98,2023-03-14,March,2023
+REG100706,2024-11-11,Central,Desk,2,239.69,479.38,0,Winter15,0,Retail,Diana,Credit Card,Store C,28.96,2024-11-19,November,2024
+REG100707,2024-10-17,Central,Tablet,8,39.79,286.488,0.1,Save10,0,Retail,Bob,Credit Card,Store C,46.16,2024-10-26,October,2024
+REG100708,2023-05-10,East,Printer,18,206.8,3536.28,0.05,Freeship,1,Retail,Frank,Debit Card,Store A,39.25,2023-05-13,May,2023
+REG100709,2023-07-29,East,Laptop,18,175.81,3164.58,0,Winter15,1,Retail,Eva,Gift Card,Store C,26.97,2023-08-07,July,2023
+REG100710,2023-08-26,Central,Phone,14,547.36,6513.584,0.15,Freeship,0,Retail,Diana,Online,Store C,25.24,2023-08-29,August,2023
+REG100711,2023-12-28,East,Laptop,19,374.8,6765.14,0.05,Winter15,0,Retail,Carlos,Online,Store A,41.67,2024-01-03,December,2023
+REG100712,2025-03-10,North,Tablet,9,507.74,3884.211,0.15,Freeship,1,Retail,Bob,Cash,Store D,22.08,2025-03-17,March,2025
+REG100713,2023-09-09,Central,Desk,1,223.56,190.026,0.15,Winter15,0,Wholesale,Bob,Credit Card,Store B,37.84,2023-09-14,September,2023
+REG100714,2023-05-28,North,Tablet,2,294.27,529.686,0.1,No Promostion,0,Retail,Diana,Gift Card,Store C,9.05,2023-06-01,May,2023
+REG100715,2025-05-21,West,Monitor,1,319.49,271.5665,0.15,Freeship,1,Wholesale,Diana,Online,Store C,18.1,2025-05-31,May,2025
+REG100716,2023-09-30,East,Laptop,14,243.96,3244.668,0.05,No Promostion,1,Wholesale,Diana,Online,Store D,13.24,2023-10-04,September,2023
+REG100717,2024-10-08,South,Laptop,6,48.48,261.792,0.1,No Promostion,0,Retail,Diana,Online,Store D,6.11,2024-10-13,October,2024
+REG100718,2023-04-14,East,Laptop,20,87.47,1749.4,0,Winter15,0,Retail,Carlos,Online,Store B,48.48,2023-04-23,April,2023
+REG100719,2023-03-05,South,Monitor,17,465.6,7123.68,0.1,Save10,0,Retail,Bob,Debit Card,Store C,7.76,2023-03-10,March,2023
+REG100720,2024-07-17,North,Desk,17,279.38,4511.987,0.05,Winter15,0,Wholesale,Frank,Credit Card,Store B,30.3,2024-07-20,July,2024
+REG100721,2024-05-20,North,Tablet,16,427.68,6158.592,0.1,No Promostion,0,Retail,Carlos,Debit Card,Store A,18.72,2024-05-29,May,2024
+REG100722,2025-05-06,North,Laptop,15,281.73,3803.355,0.1,Winter15,0,Wholesale,Bob,Credit Card,Store B,36.87,2025-05-10,May,2025
+REG100723,2023-01-15,North,Desk,15,185,2775,0,Freeship,0,Wholesale,Alice,Cash,Store B,29.31,2023-01-17,January,2023
+REG100724,2024-01-09,Central,Monitor,19,380.82,6512.022,0.1,Save10,0,Wholesale,Diana,Credit Card,Store D,48.73,2024-01-12,January,2024
+REG100725,2023-07-12,South,Chair,4,444.87,1512.558,0.15,Freeship,0,Retail,Carlos,Online,Store B,47.14,2023-07-21,July,2023
+REG100726,2025-06-21,East,Chair,7,590.79,3928.7535,0.05,Freeship,1,Retail,Eva,Cash,Store B,41.39,2025-06-26,June,2025
+REG100727,2024-12-29,North,Printer,5,34.58,155.61,0.1,Winter15,0,Retail,Frank,Gift Card,Store A,27.1,2025-01-02,December,2024
+REG100728,2023-05-23,West,Tablet,9,438.22,3746.781,0.05,No Promostion,0,Retail,Bob,Cash,Store D,22.73,2023-05-29,May,2023
+REG100729,2024-04-03,Central,Desk,5,84.91,382.095,0.1,Freeship,1,Retail,Carlos,Cash,Store A,29.06,2024-04-09,April,2024
+REG100730,2024-01-17,East,Laptop,7,322.11,2029.293,0.1,Save10,0,Wholesale,Diana,Debit Card,Store C,19.91,2024-01-27,January,2024
+REG100731,2025-04-05,Central,Monitor,2,231.96,417.528,0.1,No Promostion,1,Retail,Alice,Debit Card,Store B,32.66,2025-04-14,April,2025
+REG100732,2025-04-17,Central,Chair,15,242.07,3086.3925,0.15,No Promostion,0,Wholesale,Bob,Credit Card,Store A,19.18,2025-04-23,April,2025
+REG100733,2024-10-12,Central,Laptop,2,48.02,91.238,0.05,Freeship,1,Retail,Carlos,Debit Card,Store C,25.81,2024-10-15,October,2024
+REG100734,2024-07-27,Central,Chair,1,534.28,480.852,0.1,Freeship,0,Wholesale,Eva,Online,Store D,31.3,2024-08-01,July,2024
+REG100735,2025-01-10,West,Tablet,3,98.15,250.2825,0.15,Save10,0,Wholesale,Diana,Debit Card,Store D,46.37,2025-01-18,January,2025
+REG100736,2024-07-25,South,Chair,12,61.85,705.09,0.05,No Promostion,1,Wholesale,Alice,Credit Card,Store D,24.34,2024-07-31,July,2024
+REG100737,2024-05-22,West,Tablet,6,268.34,1449.036,0.1,Winter15,1,Wholesale,Diana,Debit Card,Store A,35.69,2024-05-25,May,2024
+REG100738,2024-08-10,Central,Desk,4,529.03,2010.314,0.05,Save10,0,Wholesale,Carlos,Online,Store B,25.96,2024-08-20,August,2024
+REG100739,2023-04-27,West,Tablet,2,107.32,203.908,0.05,No Promostion,0,Retail,Alice,Credit Card,Store B,47.33,2023-04-29,April,2023
+REG100740,2023-06-21,South,Tablet,1,500.96,475.912,0.05,Winter15,0,Wholesale,Frank,Online,Store C,42.1,2023-06-25,June,2023
+REG100741,2024-10-11,West,Printer,17,549.78,8878.947,0.05,No Promostion,1,Wholesale,Alice,Credit Card,Store B,44.42,2024-10-14,October,2024
+REG100742,2025-01-26,North,Laptop,3,58.51,166.7535,0.05,Winter15,0,Retail,Carlos,Cash,Store A,23.57,2025-01-30,January,2025
+REG100743,2024-06-18,South,Chair,17,504.08,7712.424,0.1,Save10,0,Wholesale,Diana,Online,Store A,26.47,2024-06-26,June,2024
+REG100744,2025-06-18,East,Monitor,17,419.63,7133.71,0,Save10,0,Wholesale,Alice,Cash,Store D,17.4,2025-06-24,June,2025
+REG100745,2024-10-29,South,Laptop,2,267.36,507.984,0.05,No Promostion,0,Wholesale,Frank,Online,Store B,21.36,2024-11-07,October,2024
+REG100746,2025-04-08,Central,Phone,2,298.06,596.12,0,Save10,1,Wholesale,Alice,Debit Card,Store B,35.37,2025-04-14,April,2025
+REG100747,2023-01-31,Central,Tablet,13,132.97,1642.1795,0.05,Winter15,0,Wholesale,Frank,Debit Card,Store B,42.87,2023-02-05,January,2023
+REG100748,2024-03-15,West,Chair,14,476.28,6001.128,0.1,Freeship,0,Wholesale,Eva,Credit Card,Store A,22.11,2024-03-20,March,2024
+REG100749,2023-06-23,North,Tablet,16,294.88,4482.176,0.05,No Promostion,1,Retail,Frank,Cash,Store B,17.19,2023-06-27,June,2023
+REG100750,2024-06-14,North,Monitor,19,596.03,9625.8845,0.15,No Promostion,0,Retail,Eva,Debit Card,Store C,31.95,2024-06-23,June,2024
+REG100751,2023-11-30,West,Desk,6,182.4,1094.4,0,Freeship,1,Wholesale,Alice,Online,Store B,49.49,2023-12-09,November,2023
+REG100752,2024-04-21,North,Laptop,10,400.95,3809.025,0.05,No Promostion,0,Retail,Carlos,Online,Store C,17.46,2024-04-30,April,2024
+REG100753,2023-08-06,East,Desk,7,373.66,2484.839,0.05,Save10,0,Retail,Alice,Gift Card,Store B,46.33,2023-08-12,August,2023
+REG100754,2024-06-21,West,Desk,7,355.66,2116.177,0.15,Freeship,1,Retail,Carlos,Gift Card,Store C,28.77,2024-06-27,June,2024
+REG100755,2025-03-16,North,Tablet,12,260.31,2811.348,0.1,Save10,0,Retail,Bob,Cash,Store C,14.58,2025-03-24,March,2025
+REG100756,2024-04-20,West,Tablet,10,370.99,3153.415,0.15,Save10,1,Retail,Frank,Online,Store B,11.16,2024-04-25,April,2024
+REG100757,2024-12-20,East,Laptop,2,548.72,987.696,0.1,Freeship,1,Wholesale,Frank,Credit Card,Store A,26.35,2024-12-29,December,2024
+REG100758,2023-08-22,North,Printer,8,343.53,2748.24,0,No Promostion,0,Wholesale,Frank,Cash,Store A,16.1,2023-09-01,August,2023
+REG100759,2023-03-04,North,Tablet,13,494.78,5467.319,0.15,Freeship,0,Wholesale,Diana,Cash,Store A,5.85,2023-03-13,March,2023
+REG100760,2024-06-24,North,Laptop,9,36.62,296.622,0.1,Freeship,1,Wholesale,Eva,Debit Card,Store B,29.9,2024-07-01,June,2024
+REG100761,2024-12-09,East,Tablet,14,216.2,3026.8,0,Winter15,0,Wholesale,Diana,Online,Store C,14.39,2024-12-13,December,2024
+REG100762,2024-07-04,West,Laptop,11,128.99,1347.9455,0.05,Save10,0,Retail,Diana,Debit Card,Store A,38.58,2024-07-07,July,2024
+REG100763,2025-03-04,East,Phone,11,183.11,1712.0785,0.15,Freeship,0,Retail,Frank,Gift Card,Store B,41.83,2025-03-06,March,2025
+REG100764,2024-01-22,East,Printer,11,277.95,2904.5775,0.05,Winter15,0,Retail,Frank,Gift Card,Store A,44.04,2024-01-29,January,2024
+REG100765,2025-03-12,East,Desk,14,554.08,7369.264,0.05,No Promostion,0,Retail,Diana,Cash,Store A,36.72,2025-03-21,March,2025
+REG100766,2025-02-28,Central,Phone,15,23.32,332.31,0.05,No Promostion,0,Retail,Carlos,Debit Card,Store A,25.27,2025-03-03,February,2025
+REG100767,2024-05-23,East,Desk,4,20.96,79.648,0.05,Freeship,1,Wholesale,Bob,Online,Store D,33.67,2024-05-31,May,2024
+REG100768,2023-09-17,North,Desk,18,132.29,2262.159,0.05,No Promostion,1,Wholesale,Diana,Credit Card,Store A,24.3,2023-09-20,September,2023
+REG100769,2023-06-13,East,Phone,19,199.65,3414.015,0.1,Save10,1,Retail,Carlos,Cash,Store A,35.12,2023-06-18,June,2023
+REG100770,2025-05-31,West,Phone,16,307,4912,0,Freeship,0,Wholesale,Bob,Debit Card,Store A,11.99,2025-06-02,May,2025
+REG100771,2023-10-11,East,Tablet,1,315.93,268.5405,0.15,Save10,0,Retail,Alice,Credit Card,Store C,43.2,2023-10-14,October,2023
+REG100772,2023-08-07,West,Printer,5,596.97,2984.85,0,Save10,0,Retail,Eva,Cash,Store A,14.43,2023-08-14,August,2023
+REG100773,2023-12-03,North,Laptop,17,376.98,6088.227,0.05,No Promostion,1,Retail,Carlos,Debit Card,Store A,38.48,2023-12-05,December,2023
+REG100774,2024-08-01,Central,Printer,6,208.64,1126.656,0.1,Freeship,0,Retail,Frank,Credit Card,Store D,49.93,2024-08-04,August,2024
+REG100775,2023-03-20,East,Chair,7,307.82,2154.74,0,Winter15,1,Wholesale,Eva,Debit Card,Store B,14,2023-03-27,March,2023
+REG100776,2025-06-30,Central,Tablet,13,382.48,4723.628,0.05,Winter15,0,Retail,Eva,Credit Card,Store D,7.59,2025-07-04,June,2025
+REG100777,2025-02-05,South,Desk,9,188.03,1692.27,0,Freeship,0,Retail,Frank,Cash,Store B,11.44,2025-02-07,February,2025
+REG100778,2024-05-19,East,Desk,17,238.17,3441.5565,0.15,Freeship,0,Wholesale,Frank,Cash,Store D,21.64,2024-05-29,May,2024
+REG100779,2023-03-04,North,Printer,10,450.71,4056.39,0.1,Save10,0,Retail,Bob,Gift Card,Store B,21.31,2023-03-12,March,2023
+REG100780,2023-01-22,Central,Monitor,2,413.36,744.048,0.1,Save10,1,Retail,Alice,Online,Store D,41.69,2023-01-24,January,2023
+REG100781,2023-03-20,South,Phone,20,536.71,9124.07,0.15,Save10,0,Retail,Carlos,Debit Card,Store B,41.42,2023-03-25,March,2023
+REG100782,2024-06-05,West,Phone,5,206.42,980.495,0.05,Winter15,0,Retail,Alice,Debit Card,Store D,35.51,2024-06-13,June,2024
+REG100783,2024-07-09,East,Printer,4,256.83,873.222,0.15,No Promostion,1,Wholesale,Carlos,Cash,Store A,44.72,2024-07-17,July,2024
+REG100784,2025-03-08,South,Monitor,1,247.04,247.04,0,Freeship,0,Wholesale,Bob,Credit Card,Store C,26.86,2025-03-13,March,2025
+REG100785,2025-06-21,South,Tablet,3,583.38,1487.619,0.15,Winter15,1,Retail,Diana,Cash,Store B,30.12,2025-06-30,June,2025
+REG100786,2025-06-28,North,Tablet,13,341.38,3772.249,0.15,No Promostion,0,Retail,Alice,Cash,Store C,18.2,2025-07-01,June,2025
+REG100787,2025-04-05,West,Chair,19,267.03,4312.5345,0.15,Save10,1,Wholesale,Bob,Online,Store D,35.82,2025-04-13,April,2025
+REG100788,2024-03-05,South,Printer,7,77.69,543.83,0,Save10,0,Wholesale,Carlos,Credit Card,Store D,41.89,2024-03-12,March,2024
+REG100789,2024-03-09,East,Phone,20,312.43,6248.6,0,Save10,0,Retail,Carlos,Credit Card,Store C,28.11,2024-03-11,March,2024
+REG100790,2025-02-25,Central,Monitor,19,14.1,254.505,0.05,Freeship,0,Wholesale,Carlos,Cash,Store C,37.84,2025-02-28,February,2025
+REG100791,2024-11-16,West,Tablet,17,266.83,4309.3045,0.05,Winter15,0,Retail,Frank,Credit Card,Store D,32.52,2024-11-23,November,2024
+REG100792,2024-08-01,South,Printer,20,248.11,4714.09,0.05,Save10,0,Wholesale,Carlos,Online,Store D,22.96,2024-08-06,August,2024
+REG100793,2024-04-20,West,Chair,5,316.76,1504.61,0.05,Freeship,1,Retail,Alice,Gift Card,Store B,12.7,2024-04-30,April,2024
+REG100794,2024-04-20,South,Laptop,2,169.62,305.316,0.1,No Promostion,0,Retail,Alice,Debit Card,Store C,45.41,2024-04-25,April,2024
+REG100795,2023-09-22,North,Laptop,19,35.38,571.387,0.15,Save10,0,Retail,Diana,Online,Store A,7.06,2023-09-28,September,2023
+REG100796,2025-02-21,West,Chair,3,264.08,713.016,0.1,No Promostion,0,Retail,Diana,Online,Store A,25.39,2025-03-02,February,2025
+REG100797,2025-06-24,East,Tablet,5,137.56,584.63,0.15,Save10,0,Wholesale,Diana,Debit Card,Store C,6.45,2025-07-01,June,2025
+REG100798,2023-11-28,Central,Laptop,8,157.93,1073.924,0.15,Save10,0,Retail,Diana,Online,Store B,6.31,2023-12-05,November,2023
+REG100799,2024-04-08,North,Desk,6,126.86,723.102,0.05,Freeship,0,Wholesale,Eva,Debit Card,Store C,35.49,2024-04-17,April,2024
+REG100800,2025-01-07,North,Chair,15,240.05,3420.7125,0.05,Freeship,0,Retail,Carlos,Credit Card,Store C,14.31,2025-01-14,January,2025
+REG100801,2023-02-24,South,Tablet,3,37.63,101.601,0.1,Freeship,0,Wholesale,Carlos,Debit Card,Store A,43.7,2023-03-03,February,2023
+REG100802,2023-10-19,East,Chair,13,393.1,4599.27,0.1,No Promostion,0,Wholesale,Alice,Online,Store B,12.64,2023-10-26,October,2023
+REG100803,2024-06-17,North,Chair,10,83.86,712.81,0.15,No Promostion,0,Wholesale,Alice,Credit Card,Store A,41.11,2024-06-21,June,2024
+REG100804,2023-06-21,Central,Desk,10,110.07,1100.7,0,No Promostion,0,Wholesale,Frank,Credit Card,Store B,18.47,2023-06-29,June,2023
+REG100805,2024-08-30,East,Phone,6,288.98,1473.798,0.15,No Promostion,0,Wholesale,Diana,Gift Card,Store C,38.63,2024-09-02,August,2024
+REG100806,2025-01-03,Central,Desk,10,451.14,4511.4,0,Freeship,0,Retail,Bob,Gift Card,Store A,29.96,2025-01-13,January,2025
+REG100807,2023-02-23,West,Printer,16,509.08,8145.28,0,Freeship,0,Wholesale,Carlos,Online,Store C,37.53,2023-03-02,February,2023
+REG100808,2025-04-26,Central,Printer,4,582.73,2214.374,0.05,Winter15,0,Wholesale,Carlos,Cash,Store D,44.26,2025-04-29,April,2025
+REG100809,2023-06-08,South,Phone,9,115.24,1037.16,0,Freeship,0,Wholesale,Alice,Credit Card,Store B,8.28,2023-06-14,June,2023
+REG100810,2023-03-16,North,Monitor,14,565.45,7124.67,0.1,Winter15,0,Wholesale,Eva,Online,Store D,24.4,2023-03-25,March,2023
+REG100811,2024-10-23,North,Phone,11,121.54,1336.94,0,Save10,0,Wholesale,Carlos,Credit Card,Store D,16.62,2024-10-28,October,2024
+REG100812,2025-05-23,East,Printer,9,160.15,1297.215,0.1,No Promostion,1,Retail,Alice,Debit Card,Store D,29.64,2025-05-28,May,2025
+REG100813,2023-05-06,East,Desk,14,175.66,2336.278,0.05,Save10,0,Wholesale,Bob,Cash,Store B,26.12,2023-05-14,May,2023
+REG100814,2024-08-15,South,Tablet,3,437.97,1248.2145,0.05,Save10,1,Wholesale,Eva,Cash,Store C,23.29,2024-08-22,August,2024
+REG100815,2023-08-23,South,Printer,12,411.59,4198.218,0.15,Freeship,0,Wholesale,Diana,Cash,Store B,19.17,2023-08-31,August,2023
+REG100816,2025-04-13,South,Laptop,1,163.29,163.29,0,Winter15,0,Retail,Diana,Credit Card,Store B,21.15,2025-04-22,April,2025
+REG100817,2024-06-11,Central,Desk,5,538.52,2557.97,0.05,No Promostion,0,Wholesale,Alice,Gift Card,Store B,45.81,2024-06-17,June,2024
+REG100818,2024-04-29,South,Phone,11,255.95,2533.905,0.1,No Promostion,0,Wholesale,Alice,Online,Store C,21.99,2024-05-04,April,2024
+REG100819,2023-03-27,South,Desk,7,290.22,1828.386,0.1,Winter15,0,Retail,Alice,Cash,Store A,33.15,2023-04-04,March,2023
+REG100820,2024-10-23,North,Chair,20,198.95,3581.1,0.1,No Promostion,1,Retail,Diana,Credit Card,Store B,5.16,2024-10-25,October,2024
+REG100821,2023-06-21,North,Printer,11,577.1,5395.885,0.15,Save10,0,Retail,Frank,Cash,Store C,13.16,2023-06-28,June,2023
+REG100822,2023-05-12,Central,Printer,10,50.1,450.9,0.1,Freeship,1,Wholesale,Bob,Cash,Store A,23.43,2023-05-19,May,2023
+REG100823,2024-10-20,Central,Printer,19,554.5,8955.175,0.15,No Promostion,1,Retail,Carlos,Online,Store B,47.16,2024-10-24,October,2024
+REG100824,2024-04-04,North,Laptop,14,117.31,1642.34,0,Winter15,0,Wholesale,Diana,Online,Store A,41.24,2024-04-07,April,2024
+REG100825,2025-01-12,Central,Tablet,3,193.98,581.94,0,Winter15,0,Retail,Bob,Credit Card,Store A,27.53,2025-01-16,January,2025
+REG100826,2023-07-24,South,Phone,20,386.86,7350.34,0.05,Winter15,0,Wholesale,Carlos,Online,Store A,41.56,2023-07-29,July,2023
+REG100827,2023-09-09,North,Chair,12,81.33,975.96,0,Save10,1,Wholesale,Carlos,Cash,Store D,30.73,2023-09-13,September,2023
+REG100828,2024-04-20,East,Printer,5,550.65,2340.2625,0.15,No Promostion,0,Retail,Bob,Gift Card,Store A,16.82,2024-04-27,April,2024
+REG100829,2025-02-06,West,Printer,4,473.91,1800.858,0.05,Save10,0,Retail,Eva,Credit Card,Store A,29.22,2025-02-14,February,2025
+REG100830,2023-06-18,West,Tablet,19,25.22,479.18,0,No Promostion,0,Wholesale,Bob,Credit Card,Store C,31.31,2023-06-22,June,2023
+REG100831,2024-11-01,North,Phone,2,437.04,874.08,0,Save10,1,Wholesale,Frank,Credit Card,Store C,37.37,2024-11-08,November,2024
+REG100832,2024-08-12,West,Desk,5,448.86,1907.655,0.15,Save10,1,Wholesale,Frank,Credit Card,Store C,21.22,2024-08-21,August,2024
+REG100833,2025-04-08,Central,Phone,14,299.94,4199.16,0,Freeship,0,Retail,Carlos,Gift Card,Store D,21.04,2025-04-17,April,2025
+REG100834,2024-07-20,Central,Laptop,8,224.18,1524.424,0.15,No Promostion,0,Retail,Bob,Debit Card,Store B,36.9,2024-07-26,July,2024
+REG100835,2023-02-17,West,Desk,6,327.69,1867.833,0.05,No Promostion,0,Wholesale,Diana,Cash,Store D,22.34,2023-02-21,February,2023
+REG100836,2024-07-02,East,Phone,8,432.27,3285.252,0.05,Freeship,1,Retail,Eva,Cash,Store D,20.64,2024-07-04,July,2024
+REG100837,2025-04-01,North,Monitor,4,249.98,849.932,0.15,Save10,0,Retail,Eva,Debit Card,Store C,49.08,2025-04-04,April,2025
+REG100838,2025-06-02,South,Printer,14,194.31,2312.289,0.15,Freeship,0,Wholesale,Frank,Debit Card,Store C,15.3,2025-06-09,June,2025
+REG100839,2024-11-21,West,Phone,5,69.29,346.45,0,No Promostion,0,Wholesale,Carlos,Credit Card,Store C,20.83,2024-11-29,November,2024
+REG100840,2024-01-10,South,Printer,15,306.91,4603.65,0,Freeship,1,Retail,Carlos,Cash,Store A,19.38,2024-01-14,January,2024
+REG100841,2023-10-21,North,Desk,4,390.3,1327.02,0.15,No Promostion,0,Retail,Diana,Debit Card,Store A,43.56,2023-10-26,October,2023
+REG100842,2025-01-20,North,Phone,7,61.83,432.81,0,Winter15,0,Retail,Diana,Online,Store B,25.49,2025-01-22,January,2025
+REG100843,2024-11-09,West,Monitor,7,83.32,554.078,0.05,Freeship,0,Wholesale,Carlos,Cash,Store D,23.4,2024-11-17,November,2024
+REG100844,2024-04-03,West,Monitor,4,563.06,2139.628,0.05,Winter15,0,Retail,Bob,Cash,Store D,19.5,2024-04-07,April,2024
+REG100845,2024-01-06,North,Phone,13,256.35,2832.6675,0.15,Save10,0,Wholesale,Alice,Cash,Store D,26.04,2024-01-08,January,2024
+REG100846,2023-08-02,Central,Printer,9,303.26,2592.873,0.05,Freeship,0,Wholesale,Diana,Debit Card,Store A,17.01,2023-08-05,August,2023
+REG100847,2023-11-26,North,Chair,9,440.48,3369.672,0.15,Winter15,0,Retail,Diana,Gift Card,Store A,32.94,2023-12-01,November,2023
+REG100848,2025-04-20,East,Desk,17,469.25,7578.3875,0.05,No Promostion,0,Wholesale,Bob,Credit Card,Store B,45.76,2025-04-26,April,2025
+REG100849,2023-12-29,South,Chair,18,491.76,7523.928,0.15,Save10,0,Wholesale,Eva,Credit Card,Store A,37.49,2024-01-05,December,2023
+REG100850,2025-01-08,Central,Chair,19,465.27,8398.1235,0.05,No Promostion,0,Retail,Diana,Credit Card,Store C,44.95,2025-01-10,January,2025
+REG100851,2024-05-06,East,Chair,18,343.68,6186.24,0,Save10,0,Retail,Eva,Gift Card,Store B,20.37,2024-05-14,May,2024
+REG100852,2024-09-15,North,Desk,14,472.51,6284.383,0.05,No Promostion,0,Wholesale,Bob,Gift Card,Store D,13.54,2024-09-20,September,2024
+REG100853,2023-02-07,West,Laptop,20,142.52,2565.36,0.1,Freeship,0,Retail,Eva,Cash,Store A,30.67,2023-02-12,February,2023
+REG100854,2023-03-01,East,Phone,1,31.42,29.849,0.05,Save10,0,Retail,Bob,Credit Card,Store B,11.35,2023-03-09,March,2023
+REG100855,2024-05-08,North,Tablet,17,572.29,8269.5905,0.15,Save10,1,Retail,Eva,Online,Store D,44.99,2024-05-12,May,2024
+REG100856,2024-06-06,East,Desk,18,333.6,5404.32,0.1,Freeship,1,Retail,Carlos,Debit Card,Store A,33.79,2024-06-08,June,2024
+REG100857,2023-04-29,North,Chair,9,90.87,695.1555,0.15,Winter15,0,Retail,Carlos,Debit Card,Store D,26.56,2023-05-08,April,2023
+REG100858,2023-09-20,Central,Tablet,9,588.59,5032.4445,0.05,No Promostion,0,Wholesale,Diana,Online,Store D,42.3,2023-09-22,September,2023
+REG100859,2024-11-08,South,Chair,18,153.28,2621.088,0.05,Winter15,1,Retail,Frank,Online,Store B,33.71,2024-11-13,November,2024
+REG100860,2023-03-22,North,Printer,17,194.97,2817.3165,0.15,Save10,1,Retail,Carlos,Gift Card,Store A,5.59,2023-03-30,March,2023
+REG100861,2023-09-05,East,Monitor,5,367.61,1838.05,0,Save10,0,Retail,Alice,Credit Card,Store C,19.55,2023-09-13,September,2023
+REG100862,2023-02-26,East,Laptop,17,575.5,9294.325,0.05,Freeship,0,Retail,Alice,Debit Card,Store D,13.42,2023-03-05,February,2023
+REG100863,2024-11-26,West,Chair,3,229.45,585.0975,0.15,Winter15,1,Retail,Bob,Debit Card,Store D,19.81,2024-11-29,November,2024
+REG100864,2024-10-14,Central,Chair,3,391.63,1174.89,0,No Promostion,1,Retail,Frank,Debit Card,Store C,25.36,2024-10-17,October,2024
+REG100865,2023-05-29,Central,Laptop,15,67.35,909.225,0.1,Freeship,0,Wholesale,Diana,Online,Store D,24.85,2023-06-03,May,2023
+REG100866,2024-03-22,Central,Laptop,6,453.86,2314.686,0.15,No Promostion,0,Retail,Alice,Credit Card,Store B,45.32,2024-03-31,March,2024
+REG100867,2023-04-22,South,Tablet,19,537.7,10216.3,0,Save10,0,Wholesale,Bob,Online,Store D,45.83,2023-05-02,April,2023
+REG100868,2025-06-06,North,Phone,5,32.56,154.66,0.05,Freeship,0,Retail,Diana,Cash,Store C,46.73,2025-06-12,June,2025
+REG100869,2023-01-25,Central,Laptop,2,196.7,393.4,0,Freeship,0,Retail,Frank,Online,Store A,35.84,2023-01-29,January,2023
+REG100870,2023-09-08,South,Phone,12,369.45,3990.06,0.1,Winter15,1,Wholesale,Frank,Credit Card,Store D,44.76,2023-09-10,September,2023
+REG100871,2024-10-04,East,Tablet,12,181.96,1855.992,0.15,Winter15,0,Retail,Eva,Gift Card,Store D,25.06,2024-10-11,October,2024
+REG100872,2025-04-06,East,Desk,3,32.07,81.7785,0.15,Winter15,1,Retail,Alice,Online,Store D,43.18,2025-04-08,April,2025
+REG100873,2024-08-25,East,Laptop,15,39.93,509.1075,0.15,Winter15,0,Retail,Diana,Debit Card,Store A,33.44,2024-08-29,August,2024
+REG100874,2024-03-06,North,Phone,7,374.43,2227.8585,0.15,Save10,0,Retail,Carlos,Cash,Store A,28.97,2024-03-12,March,2024
+REG100875,2023-03-23,East,Printer,2,101.87,203.74,0,Freeship,0,Wholesale,Diana,Cash,Store C,28.63,2023-03-26,March,2023
+REG100876,2024-01-13,Central,Tablet,13,343.45,4241.6075,0.05,Save10,0,Wholesale,Alice,Gift Card,Store D,27.26,2024-01-17,January,2024
+REG100877,2023-07-18,Central,Printer,15,144.11,2161.65,0,No Promostion,0,Retail,Frank,Gift Card,Store C,28.51,2023-07-24,July,2023
+REG100878,2025-02-23,West,Chair,18,403.68,6176.304,0.15,Freeship,0,Retail,Carlos,Cash,Store A,13.09,2025-03-04,February,2025
+REG100879,2023-02-22,East,Printer,14,346.57,4366.782,0.1,Freeship,0,Retail,Carlos,Debit Card,Store B,36.83,2023-03-02,February,2023
+REG100880,2024-10-18,North,Printer,7,392.79,2749.53,0,Winter15,0,Wholesale,Eva,Gift Card,Store C,45.85,2024-10-28,October,2024
+REG100881,2023-10-26,West,Printer,16,70.83,1076.616,0.05,No Promostion,0,Wholesale,Carlos,Gift Card,Store B,5.05,2023-10-31,October,2023
+REG100882,2023-01-10,Central,Monitor,20,274.37,4938.66,0.1,Winter15,0,Retail,Eva,Gift Card,Store B,12.28,2023-01-14,January,2023
+REG100883,2024-03-19,Central,Desk,10,19.73,177.57,0.1,No Promostion,0,Retail,Carlos,Debit Card,Store D,16.06,2024-03-22,March,2024
+REG100884,2023-12-20,Central,Printer,10,465.72,4424.34,0.05,Freeship,0,Wholesale,Alice,Online,Store B,28.14,2023-12-26,December,2023
+REG100885,2024-12-09,Central,Monitor,19,62.07,1061.397,0.1,Freeship,0,Retail,Diana,Debit Card,Store D,14.85,2024-12-19,December,2024
+REG100886,2023-05-10,Central,Tablet,11,529.2,5530.14,0.05,No Promostion,1,Wholesale,Bob,Credit Card,Store A,16.78,2023-05-20,May,2023
+REG100887,2023-10-18,South,Monitor,7,387.31,2440.053,0.1,Winter15,0,Retail,Bob,Cash,Store A,14.76,2023-10-21,October,2023
+REG100888,2024-12-03,South,Phone,1,152.75,152.75,0,Freeship,1,Wholesale,Bob,Credit Card,Store A,9.61,2024-12-06,December,2024
+REG100889,2024-10-10,South,Chair,8,72.48,521.856,0.1,No Promostion,1,Wholesale,Carlos,Debit Card,Store A,26.92,2024-10-17,October,2024
+REG100890,2024-06-03,East,Phone,4,194.09,698.724,0.1,Winter15,0,Wholesale,Eva,Credit Card,Store D,26.35,2024-06-07,June,2024
+REG100891,2025-03-26,South,Phone,3,159.3,454.005,0.05,Save10,1,Wholesale,Eva,Credit Card,Store B,45.34,2025-03-29,March,2025
+REG100892,2024-04-26,North,Monitor,4,303.37,1092.132,0.1,Winter15,0,Retail,Carlos,Gift Card,Store A,30.19,2024-05-01,April,2024
+REG100893,2023-05-05,West,Chair,16,541.96,7804.224,0.1,Save10,1,Retail,Eva,Cash,Store C,9.93,2023-05-13,May,2023
+REG100894,2023-09-23,West,Desk,7,41.57,290.99,0,No Promostion,0,Retail,Carlos,Online,Store D,16.59,2023-09-29,September,2023
+REG100895,2025-03-08,South,Monitor,16,217.74,2961.264,0.15,Freeship,1,Wholesale,Frank,Cash,Store A,25.11,2025-03-15,March,2025
+REG100896,2023-01-17,North,Printer,15,19.17,287.55,0,Freeship,1,Wholesale,Carlos,Gift Card,Store A,48.93,2023-01-27,January,2023
+REG100897,2023-04-29,Central,Monitor,15,293.34,3960.09,0.1,Winter15,0,Retail,Eva,Credit Card,Store D,21.03,2023-05-01,April,2023
+REG100898,2025-02-16,South,Printer,18,204.58,3314.196,0.1,No Promostion,0,Retail,Diana,Cash,Store C,16.04,2025-02-22,February,2025
+REG100899,2023-06-05,East,Printer,15,324.58,4138.395,0.15,No Promostion,0,Retail,Diana,Debit Card,Store A,24.57,2023-06-09,June,2023
+REG100900,2023-08-28,South,Phone,11,393.61,4113.2245,0.05,Winter15,0,Wholesale,Frank,Debit Card,Store D,32.57,2023-09-06,August,2023
+REG100901,2023-08-01,North,Printer,8,141.28,1073.728,0.05,Freeship,0,Wholesale,Frank,Online,Store D,28.69,2023-08-10,August,2023
+REG100902,2025-02-12,West,Phone,13,227.64,2515.422,0.15,Freeship,1,Retail,Frank,Cash,Store C,46.67,2025-02-20,February,2025
+REG100903,2023-07-03,Central,Laptop,19,341.07,5832.297,0.1,Winter15,0,Retail,Carlos,Cash,Store C,47.75,2023-07-06,July,2023
+REG100904,2025-05-09,Central,Phone,20,324.55,6166.45,0.05,Winter15,1,Wholesale,Eva,Credit Card,Store B,21.21,2025-05-13,May,2025
+REG100905,2024-05-05,West,Desk,16,301.07,4335.408,0.1,Winter15,0,Retail,Carlos,Gift Card,Store B,5.58,2024-05-14,May,2024
+REG100906,2024-01-08,South,Monitor,13,285.28,3708.64,0,Save10,0,Retail,Eva,Gift Card,Store D,31.2,2024-01-15,January,2024
+REG100907,2025-01-13,South,Phone,15,18.04,270.6,0,Save10,1,Wholesale,Eva,Credit Card,Store C,14.35,2025-01-17,January,2025
+REG100908,2025-06-12,East,Printer,11,495.44,5449.84,0,Freeship,0,Wholesale,Bob,Gift Card,Store A,44.77,2025-06-18,June,2025
+REG100909,2025-04-03,North,Laptop,12,276.42,2819.484,0.15,No Promostion,0,Retail,Carlos,Online,Store C,30.57,2025-04-12,April,2025
+REG100910,2023-01-26,Central,Desk,7,228.32,1358.504,0.15,Freeship,0,Wholesale,Eva,Debit Card,Store C,22.16,2023-01-30,January,2023
+REG100911,2023-01-07,Central,Monitor,1,498.19,448.371,0.1,Save10,0,Wholesale,Bob,Gift Card,Store A,25.55,2023-01-11,January,2023
+REG100912,2025-01-15,North,Desk,18,375.83,6088.446,0.1,No Promostion,0,Retail,Carlos,Gift Card,Store C,15.13,2025-01-23,January,2025
+REG100913,2024-11-30,East,Chair,18,130.36,2346.48,0,Save10,0,Wholesale,Diana,Debit Card,Store B,34.6,2024-12-05,November,2024
+REG100914,2024-02-26,East,Monitor,13,585.88,6473.974,0.15,Winter15,0,Retail,Carlos,Credit Card,Store B,42.18,2024-03-07,February,2024
+REG100915,2025-06-11,North,Desk,19,278.04,5018.622,0.05,Save10,0,Retail,Bob,Credit Card,Store B,16.4,2025-06-15,June,2025
+REG100916,2023-11-29,Central,Phone,11,267.91,2947.01,0,No Promostion,0,Retail,Eva,Debit Card,Store B,12.05,2023-12-04,November,2023
+REG100917,2024-06-27,South,Chair,12,369.54,4212.756,0.05,Winter15,1,Retail,Diana,Debit Card,Store B,39.16,2024-07-05,June,2024
+REG100918,2024-05-20,South,Monitor,13,284.3,3511.105,0.05,Winter15,0,Wholesale,Bob,Online,Store A,48.73,2024-05-27,May,2024
+REG100919,2023-06-17,West,Chair,12,427.1,5125.2,0,Winter15,1,Retail,Carlos,Gift Card,Store C,8.11,2023-06-22,June,2023
+REG100920,2024-11-06,East,Monitor,11,200.3,1982.97,0.1,Winter15,1,Retail,Eva,Debit Card,Store D,48.27,2024-11-13,November,2024
+REG100921,2025-02-12,North,Printer,4,75.8,257.72,0.15,Save10,0,Retail,Carlos,Credit Card,Store C,12.22,2025-02-20,February,2025
+REG100922,2025-04-09,North,Monitor,4,518.43,2073.72,0,Save10,0,Wholesale,Alice,Online,Store A,30.86,2025-04-14,April,2025
+REG100923,2024-08-18,North,Tablet,19,181.18,3270.299,0.05,Freeship,0,Wholesale,Carlos,Credit Card,Store A,12.04,2024-08-26,August,2024
+REG100924,2023-02-20,Central,Laptop,3,197.17,561.9345,0.05,Freeship,1,Wholesale,Frank,Gift Card,Store A,30.29,2023-02-23,February,2023
+REG100925,2025-04-28,North,Laptop,6,81.96,467.172,0.05,Winter15,0,Wholesale,Diana,Credit Card,Store D,26.43,2025-05-08,April,2025
+REG100926,2023-08-10,Central,Printer,3,59.78,179.34,0,Save10,0,Retail,Eva,Online,Store C,46.98,2023-08-13,August,2023
+REG100927,2024-06-24,North,Tablet,12,211.66,2285.928,0.1,Save10,0,Wholesale,Carlos,Credit Card,Store A,10.36,2024-06-29,June,2024
+REG100928,2023-08-06,Central,Printer,13,69.97,864.1295,0.05,No Promostion,0,Wholesale,Alice,Debit Card,Store A,27.66,2023-08-12,August,2023
+REG100929,2024-11-26,East,Tablet,7,438.33,2761.479,0.1,No Promostion,1,Retail,Frank,Cash,Store C,11.57,2024-11-30,November,2024
+REG100930,2025-02-06,East,Laptop,7,241.81,1523.403,0.1,Freeship,0,Wholesale,Alice,Debit Card,Store C,32.94,2025-02-10,February,2025
+REG100931,2025-03-20,East,Desk,3,466.64,1189.932,0.15,Freeship,0,Retail,Bob,Online,Store A,30.33,2025-03-26,March,2025
+REG100932,2024-09-10,South,Monitor,9,472.84,4042.782,0.05,Winter15,0,Retail,Alice,Credit Card,Store D,48.13,2024-09-12,September,2024
+REG100933,2025-02-20,South,Chair,19,586.49,10028.979,0.1,Save10,0,Wholesale,Eva,Cash,Store A,19.85,2025-03-02,February,2025
+REG100934,2023-01-20,East,Chair,15,462.85,5901.3375,0.15,No Promostion,0,Retail,Diana,Credit Card,Store A,46.12,2023-01-26,January,2023
+REG100935,2024-03-03,East,Laptop,1,176.17,167.3615,0.05,No Promostion,1,Retail,Alice,Debit Card,Store C,35.77,2024-03-06,March,2024
+REG100936,2023-11-27,West,Printer,1,71.24,64.116,0.1,No Promostion,1,Retail,Carlos,Debit Card,Store A,43.69,2023-12-03,November,2023
+REG100937,2024-11-10,East,Laptop,6,62.43,374.58,0,Winter15,0,Wholesale,Diana,Gift Card,Store A,17.85,2024-11-18,November,2024
+REG100938,2025-02-04,Central,Tablet,7,569.89,3590.307,0.1,Save10,0,Wholesale,Alice,Cash,Store D,26.81,2025-02-08,February,2025
+REG100939,2024-02-21,East,Desk,5,34.06,161.785,0.05,No Promostion,0,Wholesale,Diana,Gift Card,Store D,19.72,2024-03-02,February,2024
+REG100940,2023-03-24,East,Desk,17,502.6,7689.78,0.1,No Promostion,0,Wholesale,Frank,Cash,Store A,15.38,2023-03-29,March,2023
+REG100941,2024-05-05,South,Printer,3,89.72,242.244,0.1,Winter15,0,Wholesale,Alice,Gift Card,Store D,32.67,2024-05-13,May,2024
+REG100942,2024-10-04,South,Laptop,18,403.53,6537.186,0.1,No Promostion,0,Wholesale,Alice,Online,Store D,35.73,2024-10-07,October,2024
+REG100943,2025-01-04,South,Chair,2,194.97,389.94,0,Save10,0,Retail,Diana,Credit Card,Store A,9.89,2025-01-14,January,2025
+REG100944,2024-12-23,Central,Printer,12,171.91,1959.774,0.05,Winter15,0,Retail,Eva,Credit Card,Store B,34.36,2025-01-02,December,2024
+REG100945,2023-01-29,Central,Laptop,17,535.88,8654.462,0.05,No Promostion,0,Wholesale,Bob,Gift Card,Store A,26.12,2023-02-08,January,2023
+REG100946,2024-08-11,West,Chair,12,248.13,2828.682,0.05,Freeship,0,Retail,Alice,Cash,Store A,26.03,2024-08-17,August,2024
+REG100947,2023-11-25,North,Phone,2,482.1,964.2,0,Freeship,0,Retail,Carlos,Online,Store C,45.35,2023-11-30,November,2023
+REG100948,2025-03-04,North,Monitor,18,382.01,6188.562,0.1,Save10,0,Wholesale,Alice,Online,Store D,36.55,2025-03-08,March,2025
+REG100949,2025-02-21,North,Phone,13,135.98,1767.74,0,Winter15,0,Wholesale,Frank,Online,Store C,28.35,2025-03-01,February,2025
+REG100950,2025-02-26,East,Desk,9,562.54,5062.86,0,Freeship,0,Wholesale,Alice,Credit Card,Store A,30.27,2025-02-28,February,2025
+REG100951,2024-03-29,East,Monitor,6,509.48,3056.88,0,Winter15,0,Wholesale,Alice,Debit Card,Store B,35.92,2024-04-06,March,2024
+REG100952,2025-05-28,West,Desk,3,470.09,1410.27,0,No Promostion,0,Wholesale,Eva,Gift Card,Store B,38.29,2025-06-01,May,2025
+REG100953,2024-05-24,West,Printer,10,280.8,2808,0,Save10,0,Retail,Alice,Credit Card,Store C,49.98,2024-05-30,May,2024
+REG100954,2023-05-12,South,Chair,9,251.43,2036.583,0.1,No Promostion,0,Retail,Frank,Credit Card,Store C,22.57,2023-05-17,May,2023
+REG100955,2023-10-11,South,Phone,4,408.28,1388.152,0.15,Winter15,0,Retail,Alice,Cash,Store A,5.38,2023-10-15,October,2023
+REG100956,2024-01-25,North,Printer,2,27.43,46.631,0.15,Winter15,0,Retail,Frank,Online,Store B,6.15,2024-02-01,January,2024
+REG100957,2023-02-03,East,Phone,11,321.72,3185.028,0.1,Winter15,1,Retail,Carlos,Online,Store A,17.94,2023-02-06,February,2023
+REG100958,2024-07-08,North,Desk,5,186.32,838.44,0.1,Winter15,0,Wholesale,Carlos,Gift Card,Store A,17.09,2024-07-14,July,2024
+REG100959,2025-05-31,South,Monitor,3,390.28,1170.84,0,Winter15,1,Retail,Frank,Online,Store B,45.22,2025-06-10,May,2025
+REG100960,2023-11-09,South,Monitor,13,174.9,1932.645,0.15,Winter15,0,Wholesale,Carlos,Online,Store A,31.26,2023-11-12,November,2023
+REG100961,2023-07-06,North,Chair,8,419.13,3017.736,0.1,No Promostion,1,Retail,Alice,Online,Store A,11.02,2023-07-10,July,2023
+REG100962,2023-07-14,North,Chair,12,116.96,1403.52,0,Winter15,0,Wholesale,Alice,Gift Card,Store D,22.04,2023-07-22,July,2023
+REG100963,2023-11-13,West,Chair,11,323.72,3204.828,0.1,Winter15,0,Wholesale,Bob,Gift Card,Store A,7.52,2023-11-15,November,2023
+REG100964,2025-02-02,West,Tablet,11,155.49,1624.8705,0.05,No Promostion,0,Retail,Frank,Cash,Store D,47.01,2025-02-12,February,2025
+REG100965,2024-05-06,South,Printer,20,270.2,5404,0,Winter15,0,Wholesale,Diana,Credit Card,Store A,6.8,2024-05-15,May,2024
+REG100966,2024-10-17,South,Printer,15,482.08,6508.08,0.1,Freeship,1,Retail,Eva,Debit Card,Store D,13.35,2024-10-19,October,2024
+REG100967,2025-01-29,North,Laptop,11,431.51,4271.949,0.1,Save10,0,Wholesale,Carlos,Debit Card,Store C,22.83,2025-02-05,January,2025
+REG100968,2025-03-23,Central,Chair,5,302.76,1513.8,0,Freeship,1,Wholesale,Carlos,Gift Card,Store D,46.69,2025-03-29,March,2025
+REG100969,2024-04-11,West,Chair,19,344.92,6553.48,0,Winter15,0,Wholesale,Eva,Cash,Store C,6.91,2024-04-20,April,2024
+REG100970,2024-05-03,Central,Chair,7,511.46,3222.198,0.1,Freeship,0,Retail,Eva,Cash,Store C,19.2,2024-05-12,May,2024
+REG100971,2024-10-14,East,Monitor,7,150.6,896.07,0.15,Winter15,1,Wholesale,Bob,Cash,Store A,15.52,2024-10-21,October,2024
+REG100972,2024-02-08,West,Phone,8,158.02,1074.536,0.15,Freeship,0,Wholesale,Diana,Credit Card,Store C,47.43,2024-02-13,February,2024
+REG100973,2023-05-10,Central,Tablet,2,536.18,965.124,0.1,Freeship,0,Retail,Frank,Credit Card,Store B,34.75,2023-05-13,May,2023
+REG100974,2023-03-03,North,Chair,16,571.26,7769.136,0.15,Save10,0,Wholesale,Bob,Gift Card,Store C,6.13,2023-03-12,March,2023
+REG100975,2025-05-21,Central,Tablet,12,134.42,1451.736,0.1,Freeship,0,Retail,Diana,Gift Card,Store D,33.98,2025-05-27,May,2025
+REG100976,2025-04-30,Central,Laptop,5,563.7,2818.5,0,Save10,0,Retail,Bob,Online,Store A,29.28,2025-05-07,April,2025
+REG100977,2023-04-02,North,Phone,11,546.57,5110.4295,0.15,Save10,1,Retail,Bob,Credit Card,Store D,24.77,2023-04-04,April,2023
+REG100978,2024-08-26,North,Monitor,9,364.88,3119.724,0.05,Save10,0,Wholesale,Bob,Cash,Store C,40.26,2024-09-05,August,2024
+REG100979,2023-11-10,South,Monitor,7,368.27,2191.2065,0.15,Winter15,0,Wholesale,Carlos,Online,Store C,28.98,2023-11-20,November,2023
+REG100980,2025-01-27,Central,Printer,20,537.28,10745.6,0,No Promostion,1,Wholesale,Frank,Online,Store C,15.6,2025-02-02,January,2025
+REG100981,2024-04-26,South,Phone,3,103.09,309.27,0,Save10,1,Wholesale,Carlos,Gift Card,Store D,46.47,2024-04-30,April,2024
+REG100982,2023-11-27,East,Tablet,9,97.56,878.04,0,No Promostion,0,Wholesale,Alice,Online,Store A,48.84,2023-12-01,November,2023
+REG100983,2023-03-30,Central,Tablet,10,338.75,2879.375,0.15,Winter15,1,Wholesale,Carlos,Cash,Store A,36.56,2023-04-06,March,2023
+REG100984,2024-03-04,North,Desk,2,239.04,478.08,0,Save10,1,Wholesale,Bob,Debit Card,Store A,43.84,2024-03-11,March,2024
+REG100985,2023-07-11,South,Laptop,14,362.44,4566.744,0.1,Winter15,0,Wholesale,Bob,Cash,Store C,36.73,2023-07-15,July,2023
+REG100986,2024-09-20,West,Monitor,6,551.13,3306.78,0,Freeship,0,Retail,Carlos,Gift Card,Store D,14.67,2024-09-29,September,2024
+REG100987,2025-02-18,West,Laptop,1,82.06,73.854,0.1,Freeship,0,Retail,Eva,Credit Card,Store D,11.11,2025-02-24,February,2025
+REG100988,2024-07-16,East,Tablet,7,498.46,2965.837,0.15,No Promostion,0,Wholesale,Carlos,Gift Card,Store C,42.72,2024-07-20,July,2024
+REG100989,2023-11-23,East,Chair,2,253.41,456.138,0.1,Freeship,0,Retail,Frank,Cash,Store D,49.64,2023-11-25,November,2023
+REG100990,2023-09-07,South,Phone,16,144.07,2074.608,0.1,Freeship,0,Wholesale,Eva,Debit Card,Store D,7.33,2023-09-09,September,2023
+REG100991,2024-02-01,West,Monitor,11,201.09,1880.1915,0.15,No Promostion,1,Retail,Carlos,Cash,Store C,48.42,2024-02-04,February,2024
+REG100992,2025-05-08,South,Chair,11,585.45,5795.955,0.1,Winter15,0,Wholesale,Alice,Credit Card,Store D,36.59,2025-05-12,May,2025
+REG100993,2025-01-17,North,Laptop,3,448.77,1346.31,0,Freeship,0,Retail,Alice,Online,Store A,28.5,2025-01-24,January,2025
+REG100994,2023-09-02,East,Monitor,9,184.43,1659.87,0,Winter15,0,Wholesale,Carlos,Online,Store D,30.78,2023-09-08,September,2023
+REG100995,2023-06-23,Central,Laptop,16,594.1,9505.6,0,Freeship,0,Retail,Bob,Gift Card,Store D,18.2,2023-07-01,June,2023
+REG100996,2024-01-20,East,Laptop,19,482.07,8243.397,0.1,No Promostion,0,Wholesale,Bob,Credit Card,Store B,25.96,2024-01-26,January,2024
+REG100997,2024-06-26,East,Chair,20,75.45,1433.55,0.05,Save10,0,Wholesale,Eva,Credit Card,Store B,44.77,2024-07-06,June,2024
+REG100998,2024-12-12,Central,Monitor,2,494.22,889.596,0.1,Freeship,0,Retail,Carlos,Gift Card,Store C,13.45,2024-12-17,December,2024
+REG100999,2024-02-21,East,Laptop,15,112.82,1607.685,0.05,Winter15,0,Wholesale,Frank,Credit Card,Store B,18.21,2024-03-01,February,2024
+REG101000,2023-07-18,East,Desk,3,121.56,364.68,0,Winter15,0,Wholesale,Eva,Debit Card,Store D,29.06,2023-07-25,July,2023
+REG101001,2024-10-02,North,Desk,12,465.94,5591.28,0,Winter15,0,Wholesale,Alice,Credit Card,Store D,34.16,2024-10-06,October,2024
+REG101002,2024-12-01,West,Phone,12,187.8,1915.56,0.15,Freeship,0,Wholesale,Diana,Online,Store D,17.74,2024-12-04,December,2024
+REG101003,2024-09-03,East,Desk,1,561.3,477.105,0.15,No Promostion,0,Retail,Frank,Gift Card,Store D,5.19,2024-09-12,September,2024
+REG101004,2025-02-22,West,Printer,7,178.26,1060.647,0.15,Freeship,0,Retail,Bob,Online,Store C,44.91,2025-03-01,February,2025
+REG101005,2025-05-11,West,Monitor,20,552.83,9398.11,0.15,Freeship,1,Retail,Eva,Online,Store D,20.5,2025-05-13,May,2025
+REG101006,2024-12-20,Central,Tablet,2,458.25,916.5,0,Save10,0,Wholesale,Eva,Gift Card,Store B,25.94,2024-12-29,December,2024
+REG101007,2023-04-18,East,Laptop,2,129.43,245.917,0.05,Freeship,0,Retail,Alice,Debit Card,Store D,6.91,2023-04-21,April,2023
+REG101008,2024-08-29,East,Printer,19,448.21,7664.391,0.1,Winter15,0,Wholesale,Alice,Debit Card,Store C,30.71,2024-09-03,August,2024
+REG101009,2023-09-03,North,Desk,16,440.48,6695.296,0.05,Freeship,1,Retail,Frank,Cash,Store B,26.87,2023-09-10,September,2023
+REG101010,2025-05-19,East,Laptop,8,262.62,2100.96,0,Freeship,1,Wholesale,Alice,Cash,Store C,36.73,2025-05-24,May,2025
+REG101011,2023-06-18,East,Tablet,15,124.91,1686.285,0.1,Freeship,0,Wholesale,Eva,Gift Card,Store A,31.95,2023-06-26,June,2023
+REG101012,2025-06-18,West,Monitor,9,391,3167.1,0.1,Winter15,0,Wholesale,Eva,Debit Card,Store D,46.76,2025-06-22,June,2025
+REG101013,2024-09-29,South,Laptop,12,204.15,2327.31,0.05,Freeship,1,Retail,Alice,Debit Card,Store C,26.4,2024-10-07,September,2024
+REG101014,2024-02-25,East,Laptop,20,13.64,231.88,0.15,Save10,0,Retail,Frank,Credit Card,Store C,33.6,2024-03-04,February,2024
+REG101015,2024-03-21,North,Printer,14,524.9,6981.17,0.05,Freeship,1,Wholesale,Alice,Cash,Store C,20.23,2024-03-30,March,2024
+REG101016,2024-02-03,North,Laptop,8,143.95,1036.44,0.1,Save10,0,Retail,Diana,Cash,Store B,28.09,2024-02-09,February,2024
+REG101017,2023-11-21,South,Laptop,2,576.84,1038.312,0.1,Freeship,0,Retail,Frank,Credit Card,Store D,43.32,2023-11-24,November,2023
+REG101018,2023-01-10,West,Chair,14,250.98,3513.72,0,No Promostion,0,Retail,Eva,Debit Card,Store C,14.94,2023-01-18,January,2023
+REG101019,2023-02-06,Central,Phone,7,335.41,2347.87,0,Save10,0,Retail,Bob,Online,Store C,18.91,2023-02-10,February,2023
+REG101020,2025-04-10,North,Printer,11,204.5,2249.5,0,Winter15,0,Retail,Eva,Debit Card,Store A,13.82,2025-04-20,April,2025
+REG101021,2024-02-14,East,Tablet,1,542.63,515.4985,0.05,No Promostion,0,Retail,Carlos,Credit Card,Store A,33.2,2024-02-21,February,2024
+REG101022,2025-05-26,East,Phone,1,204.54,184.086,0.1,No Promostion,1,Retail,Carlos,Online,Store D,17.76,2025-05-29,May,2025
+REG101023,2023-09-12,West,Chair,10,419.58,3566.43,0.15,Freeship,0,Wholesale,Eva,Debit Card,Store A,13.09,2023-09-19,September,2023
+REG101024,2023-05-17,East,Desk,7,87.88,522.886,0.15,Winter15,1,Wholesale,Alice,Online,Store C,22.2,2023-05-26,May,2023
+REG101025,2024-01-29,West,Printer,7,386.88,2572.752,0.05,Save10,0,Wholesale,Carlos,Cash,Store B,38.46,2024-01-31,January,2024
+REG101026,2025-05-09,North,Desk,4,242.8,922.64,0.05,Freeship,0,Wholesale,Diana,Debit Card,Store D,30.03,2025-05-18,May,2025
+REG101027,2024-04-05,East,Printer,4,410.59,1642.36,0,No Promostion,0,Retail,Eva,Cash,Store A,17.36,2024-04-09,April,2024
+REG101028,2024-08-01,South,Chair,3,10.93,27.8715,0.15,Freeship,0,Wholesale,Eva,Cash,Store D,19.01,2024-08-10,August,2024
+REG101029,2024-07-10,South,Chair,20,150.16,3003.2,0,No Promostion,0,Wholesale,Bob,Cash,Store C,41.66,2024-07-12,July,2024
+REG101030,2024-06-15,East,Chair,1,394.41,354.969,0.1,Winter15,0,Retail,Alice,Gift Card,Store B,6.37,2024-06-20,June,2024
+REG101031,2024-05-22,East,Monitor,6,535.38,2730.438,0.15,No Promostion,0,Wholesale,Alice,Online,Store C,48.66,2024-05-29,May,2024
+REG101032,2024-01-14,East,Monitor,19,407.82,7361.151,0.05,Freeship,0,Retail,Diana,Gift Card,Store D,38.98,2024-01-18,January,2024
+REG101033,2024-10-31,North,Tablet,16,120.83,1836.616,0.05,Winter15,1,Retail,Carlos,Cash,Store B,39.64,2024-11-02,October,2024
+REG101034,2024-04-23,West,Printer,7,39.53,249.039,0.1,Winter15,0,Retail,Carlos,Debit Card,Store D,18.16,2024-04-29,April,2024
+REG101035,2023-06-14,South,Tablet,2,224.08,425.752,0.05,Winter15,0,Retail,Frank,Credit Card,Store A,47.35,2023-06-20,June,2023
+REG101036,2024-02-28,North,Printer,11,382.08,3992.736,0.05,Winter15,0,Wholesale,Frank,Cash,Store D,5.95,2024-03-02,February,2024
+REG101037,2024-06-19,South,Printer,9,88.49,756.5895,0.05,No Promostion,0,Wholesale,Diana,Online,Store D,35.6,2024-06-26,June,2024
+REG101038,2023-03-18,Central,Tablet,20,139.1,2642.9,0.05,Freeship,0,Wholesale,Carlos,Online,Store C,30.22,2023-03-20,March,2023
+REG101039,2023-03-21,West,Desk,19,322.35,5512.185,0.1,Winter15,0,Wholesale,Alice,Debit Card,Store D,30.06,2023-03-31,March,2023
+REG101040,2024-05-28,East,Printer,16,334.55,4817.52,0.1,Save10,0,Wholesale,Eva,Credit Card,Store B,37.42,2024-06-01,May,2024
+REG101041,2023-03-27,West,Desk,20,332.48,6649.6,0,Save10,1,Wholesale,Eva,Online,Store B,7.79,2023-03-30,March,2023
+REG101042,2023-06-19,Central,Printer,1,123.4,123.4,0,No Promostion,1,Retail,Eva,Cash,Store A,12.63,2023-06-25,June,2023
+REG101043,2023-10-31,South,Laptop,3,88.26,251.541,0.05,Freeship,0,Wholesale,Bob,Debit Card,Store D,46.45,2023-11-07,October,2023
+REG101044,2023-07-11,West,Phone,13,50.51,590.967,0.1,Winter15,0,Wholesale,Alice,Debit Card,Store D,40.57,2023-07-18,July,2023
+REG101045,2023-05-19,South,Monitor,11,237.99,2486.9955,0.05,Freeship,0,Wholesale,Bob,Debit Card,Store D,44.7,2023-05-28,May,2023
+REG101046,2023-08-05,North,Chair,7,294.95,2064.65,0,Freeship,0,Wholesale,Frank,Online,Store D,15.78,2023-08-10,August,2023
+REG101047,2023-03-24,West,Desk,8,384.3,2766.96,0.1,Freeship,0,Wholesale,Frank,Gift Card,Store C,48.83,2023-04-03,March,2023
+REG101048,2025-02-14,West,Monitor,1,378.35,359.4325,0.05,Freeship,0,Wholesale,Diana,Cash,Store C,20.97,2025-02-17,February,2025
+REG101049,2024-12-14,North,Desk,1,461.35,461.35,0,Freeship,1,Retail,Bob,Debit Card,Store D,43.74,2024-12-16,December,2024
+REG101050,2023-06-28,South,Printer,20,354.9,7098,0,Winter15,0,Wholesale,Bob,Gift Card,Store A,43.24,2023-07-01,June,2023
+REG101051,2023-01-24,West,Desk,7,438.41,2761.983,0.1,Save10,1,Retail,Diana,Debit Card,Store C,47.77,2023-01-28,January,2023
+REG101052,2024-06-21,Central,Tablet,14,542.6,7216.58,0.05,No Promostion,0,Retail,Eva,Debit Card,Store C,44.76,2024-06-30,June,2024
+REG101053,2025-04-09,North,Printer,3,238.82,644.814,0.1,Winter15,0,Retail,Bob,Gift Card,Store C,37.07,2025-04-18,April,2025
+REG101054,2025-01-11,North,Tablet,16,332.19,4783.536,0.1,Save10,1,Retail,Eva,Credit Card,Store C,34.97,2025-01-19,January,2025
+REG101055,2024-07-13,Central,Printer,9,454.6,3886.83,0.05,No Promostion,0,Wholesale,Carlos,Debit Card,Store D,32.86,2024-07-20,July,2024
+REG101056,2025-01-04,West,Printer,6,540.54,3081.078,0.05,Save10,0,Retail,Carlos,Debit Card,Store A,19.77,2025-01-10,January,2025
+REG101057,2023-10-25,West,Desk,14,147.37,1753.703,0.15,Winter15,1,Wholesale,Frank,Debit Card,Store D,45.75,2023-10-31,October,2023
+REG101058,2023-09-30,South,Laptop,7,421.12,2505.664,0.15,No Promostion,0,Wholesale,Diana,Gift Card,Store D,44.49,2023-10-02,September,2023
+REG101059,2023-03-16,North,Phone,20,436.32,8726.4,0,Freeship,1,Retail,Diana,Credit Card,Store D,37.49,2023-03-26,March,2023
+REG101060,2023-07-26,North,Laptop,18,436.83,7076.646,0.1,Save10,0,Wholesale,Bob,Credit Card,Store A,28.8,2023-08-02,July,2023
+REG101061,2023-07-10,East,Monitor,2,327.57,622.383,0.05,No Promostion,0,Retail,Diana,Debit Card,Store A,19.49,2023-07-19,July,2023
+REG101062,2024-08-06,East,Printer,18,166.92,2854.332,0.05,Winter15,0,Wholesale,Alice,Gift Card,Store C,9.35,2024-08-16,August,2024
+REG101063,2024-07-16,Central,Phone,14,300.38,3784.788,0.1,No Promostion,0,Retail,Alice,Online,Store A,38.6,2024-07-19,July,2024
+REG101064,2024-01-31,North,Printer,5,232.29,1161.45,0,No Promostion,1,Wholesale,Alice,Online,Store A,42.38,2024-02-09,January,2024
+REG101065,2023-04-22,Central,Tablet,1,173.44,173.44,0,Freeship,0,Retail,Bob,Gift Card,Store A,32.83,2023-04-24,April,2023
+REG101066,2025-02-04,East,Phone,9,256.14,1959.471,0.15,Save10,1,Retail,Frank,Credit Card,Store A,5.21,2025-02-07,February,2025
+REG101067,2024-08-25,Central,Laptop,12,461.3,4705.26,0.15,Freeship,0,Wholesale,Diana,Gift Card,Store D,8.6,2024-09-03,August,2024
+REG101068,2023-08-30,East,Phone,1,193.08,183.426,0.05,Save10,0,Wholesale,Frank,Online,Store A,23.99,2023-09-05,August,2023
+REG101069,2023-09-06,West,Chair,3,312.97,891.9645,0.05,No Promostion,1,Retail,Eva,Credit Card,Store C,20.06,2023-09-12,September,2023
+REG101070,2025-05-13,South,Laptop,6,214.14,1220.598,0.05,Freeship,0,Wholesale,Diana,Cash,Store D,44.86,2025-05-21,May,2025
+REG101071,2023-10-29,North,Phone,4,59.8,215.28,0.1,Freeship,0,Retail,Frank,Online,Store D,42.59,2023-11-06,October,2023
+REG101072,2024-06-12,East,Laptop,9,418,3762,0,Winter15,0,Wholesale,Bob,Credit Card,Store C,30.45,2024-06-18,June,2024
+REG101073,2023-02-02,South,Chair,1,80.96,80.96,0,Freeship,0,Wholesale,Bob,Credit Card,Store A,48.07,2023-02-05,February,2023
+REG101074,2023-05-04,East,Phone,20,42.12,716.04,0.15,No Promostion,0,Wholesale,Alice,Credit Card,Store B,43.22,2023-05-12,May,2023
+REG101075,2023-05-24,West,Monitor,3,366.65,1099.95,0,Save10,0,Wholesale,Carlos,Credit Card,Store D,33.6,2023-05-31,May,2023
+REG101076,2023-02-03,West,Monitor,19,534.92,10163.48,0,No Promostion,0,Retail,Diana,Online,Store D,26.97,2023-02-13,February,2023
+REG101077,2023-12-25,East,Chair,1,494.52,494.52,0,No Promostion,0,Retail,Bob,Credit Card,Store D,43.02,2024-01-02,December,2023
+REG101078,2023-07-26,East,Monitor,6,344.67,1861.218,0.1,Save10,1,Wholesale,Diana,Online,Store D,31.13,2023-08-01,July,2023
+REG101079,2024-06-06,Central,Monitor,12,489.14,4989.228,0.15,Save10,0,Retail,Bob,Online,Store D,29.31,2024-06-15,June,2024
+REG101080,2024-10-13,South,Printer,18,256.23,4381.533,0.05,No Promostion,0,Wholesale,Eva,Debit Card,Store B,11.21,2024-10-18,October,2024
+REG101081,2024-11-03,North,Printer,17,99.76,1695.92,0,Freeship,1,Wholesale,Diana,Online,Store C,21.89,2024-11-13,November,2024
+REG101082,2024-02-03,North,Printer,14,575.66,7253.316,0.1,No Promostion,0,Wholesale,Frank,Credit Card,Store C,32.53,2024-02-11,February,2024
+REG101083,2023-01-10,East,Chair,6,176.52,900.252,0.15,Freeship,0,Wholesale,Alice,Online,Store D,16.98,2023-01-13,January,2023
+REG101084,2023-10-16,East,Tablet,6,485.66,2768.262,0.05,Freeship,0,Wholesale,Eva,Gift Card,Store D,30.62,2023-10-22,October,2023
+REG101085,2025-03-19,Central,Laptop,8,141.61,1019.592,0.1,Winter15,0,Retail,Bob,Gift Card,Store B,14.02,2025-03-24,March,2025
+REG101086,2024-12-16,West,Desk,9,215.29,1743.849,0.1,Winter15,0,Wholesale,Alice,Credit Card,Store C,5.84,2024-12-19,December,2024
+REG101087,2023-08-16,West,Laptop,18,497.22,8502.462,0.05,Winter15,0,Wholesale,Diana,Credit Card,Store B,17.39,2023-08-20,August,2023
+REG101088,2023-01-10,East,Desk,13,347.73,4294.4655,0.05,Freeship,1,Wholesale,Diana,Gift Card,Store B,31.81,2023-01-20,January,2023
+REG101089,2025-05-09,Central,Chair,3,371.21,1002.267,0.1,Save10,0,Wholesale,Eva,Gift Card,Store C,20.02,2025-05-18,May,2025
+REG101090,2024-04-08,East,Printer,12,434.33,4430.166,0.15,Freeship,0,Wholesale,Bob,Cash,Store A,15.33,2024-04-16,April,2024
+REG101091,2025-05-06,East,Monitor,16,426.65,6143.76,0.1,No Promostion,0,Retail,Diana,Gift Card,Store A,10.2,2025-05-15,May,2025
+REG101092,2023-05-21,West,Desk,6,294.97,1681.329,0.05,Winter15,0,Wholesale,Bob,Credit Card,Store A,48.08,2023-05-29,May,2023
+REG101093,2023-11-23,Central,Phone,12,130.9,1335.18,0.15,Save10,0,Retail,Alice,Debit Card,Store D,34.69,2023-11-30,November,2023
+REG101094,2024-03-26,North,Monitor,18,539.98,8261.694,0.15,Freeship,1,Retail,Eva,Cash,Store C,34.44,2024-04-05,March,2024
+REG101095,2024-09-25,South,Desk,12,149.37,1613.196,0.1,No Promostion,0,Retail,Bob,Credit Card,Store D,20.21,2024-10-02,September,2024
+REG101096,2023-04-06,East,Chair,5,411.24,1747.77,0.15,Winter15,1,Wholesale,Bob,Cash,Store A,5.35,2023-04-10,April,2023
+REG101097,2024-06-24,North,Chair,16,462.86,7035.472,0.05,No Promostion,1,Retail,Bob,Cash,Store D,17.43,2024-06-26,June,2024
+REG101098,2024-12-15,South,Laptop,17,506.38,8608.46,0,Winter15,1,Wholesale,Carlos,Cash,Store B,33.36,2024-12-23,December,2024
+REG101099,2024-10-03,North,Desk,19,25.61,486.59,0,No Promostion,0,Retail,Bob,Gift Card,Store B,30.32,2024-10-11,October,2024
+REG101100,2023-09-03,South,Desk,4,467.45,1776.31,0.05,Winter15,0,Wholesale,Frank,Gift Card,Store C,25.05,2023-09-13,September,2023
+REG101101,2023-01-29,North,Printer,10,140.5,1194.25,0.15,Freeship,0,Retail,Carlos,Online,Store B,43.81,2023-02-05,January,2023
+REG101102,2024-06-12,North,Phone,8,57.85,462.8,0,Winter15,1,Wholesale,Frank,Online,Store D,49.82,2024-06-20,June,2024
+REG101103,2024-11-24,North,Monitor,9,539.64,4128.246,0.15,No Promostion,0,Retail,Alice,Gift Card,Store A,16.08,2024-12-03,November,2024
+REG101104,2023-08-15,West,Monitor,18,476.32,8573.76,0,Save10,1,Wholesale,Diana,Credit Card,Store A,47.43,2023-08-20,August,2023
+REG101105,2024-08-21,Central,Tablet,11,143.85,1424.115,0.1,Freeship,0,Wholesale,Eva,Debit Card,Store A,6.85,2024-08-30,August,2024
+REG101106,2023-05-24,West,Monitor,4,323.63,1165.068,0.1,Freeship,0,Retail,Carlos,Credit Card,Store C,32.92,2023-06-01,May,2023
+REG101107,2023-04-27,West,Monitor,16,37.4,568.48,0.05,Freeship,0,Wholesale,Bob,Credit Card,Store A,49.55,2023-05-01,April,2023
+REG101108,2023-05-21,East,Tablet,1,418.98,377.082,0.1,Freeship,0,Retail,Carlos,Gift Card,Store B,43.72,2023-05-26,May,2023
+REG101109,2025-02-16,East,Monitor,12,108.35,1300.2,0,Freeship,0,Wholesale,Diana,Online,Store A,42.06,2025-02-25,February,2025
+REG101110,2023-08-24,East,Tablet,5,256.42,1282.1,0,Freeship,0,Retail,Alice,Gift Card,Store B,28.74,2023-08-29,August,2023
+REG101111,2024-03-14,East,Desk,16,544.91,7846.704,0.1,Freeship,0,Retail,Frank,Credit Card,Store B,39.26,2024-03-21,March,2024
+REG101112,2024-01-29,North,Desk,19,113.42,2154.98,0,Winter15,0,Retail,Eva,Debit Card,Store A,44.96,2024-02-07,January,2024
+REG101113,2024-08-09,South,Phone,10,522.73,4704.57,0.1,No Promostion,0,Retail,Bob,Credit Card,Store C,20.06,2024-08-15,August,2024
+REG101114,2024-07-08,North,Tablet,18,448.03,6854.859,0.15,Winter15,1,Retail,Frank,Cash,Store B,13.23,2024-07-17,July,2024
+REG101115,2024-08-20,North,Monitor,15,208.51,2971.2675,0.05,No Promostion,0,Retail,Carlos,Gift Card,Store A,37.81,2024-08-29,August,2024
+REG101116,2023-06-26,Central,Laptop,13,423.64,4956.588,0.1,No Promostion,1,Retail,Alice,Debit Card,Store C,23.31,2023-06-28,June,2023
+REG101117,2023-12-23,East,Chair,5,552.26,2347.105,0.15,Winter15,0,Wholesale,Alice,Debit Card,Store D,26.5,2023-12-25,December,2023
+REG101118,2023-08-20,Central,Desk,1,182.11,163.899,0.1,Winter15,0,Retail,Carlos,Credit Card,Store A,7.31,2023-08-27,August,2023
+REG101119,2024-10-28,West,Desk,7,466.36,3101.294,0.05,Save10,1,Wholesale,Bob,Online,Store D,11.45,2024-11-06,October,2024
+REG101120,2024-11-11,East,Printer,15,140.54,1897.29,0.1,Save10,0,Wholesale,Eva,Credit Card,Store A,49.91,2024-11-21,November,2024
+REG101121,2023-12-07,West,Desk,17,460.31,6651.4795,0.15,Winter15,0,Retail,Diana,Online,Store A,40.18,2023-12-15,December,2023
+REG101122,2024-03-23,West,Laptop,5,132.87,664.35,0,Winter15,0,Retail,Bob,Debit Card,Store B,37.91,2024-04-02,March,2024
+REG101123,2024-10-29,West,Tablet,12,209.86,2392.404,0.05,Winter15,0,Retail,Bob,Online,Store D,8.78,2024-11-02,October,2024
+REG101124,2025-06-17,East,Laptop,9,31.35,253.935,0.1,Save10,0,Retail,Diana,Cash,Store B,39.32,2025-06-22,June,2025
+REG101125,2023-03-18,North,Chair,11,335.11,3686.21,0,Freeship,0,Retail,Frank,Gift Card,Store C,29.95,2023-03-26,March,2023
+REG101126,2023-01-19,East,Phone,8,277.43,2219.44,0,Save10,0,Wholesale,Carlos,Online,Store D,36.38,2023-01-23,January,2023
+REG101127,2023-07-09,West,Desk,6,287.72,1640.004,0.05,Winter15,0,Retail,Bob,Debit Card,Store A,17.14,2023-07-14,July,2023
+REG101128,2025-03-16,East,Laptop,14,459.61,6112.813,0.05,No Promostion,1,Retail,Frank,Online,Store B,43.41,2025-03-26,March,2025
+REG101129,2025-02-08,North,Tablet,10,396.73,3570.57,0.1,Freeship,0,Retail,Eva,Online,Store B,18.13,2025-02-13,February,2025
+REG101130,2024-04-20,South,Printer,20,516.43,10328.6,0,Freeship,0,Retail,Bob,Online,Store B,36.23,2024-04-22,April,2024
+REG101131,2025-06-05,East,Laptop,1,299.66,269.694,0.1,Save10,0,Retail,Diana,Cash,Store A,38.94,2025-06-07,June,2025
+REG101132,2025-04-25,South,Chair,12,31.72,380.64,0,Save10,0,Retail,Alice,Debit Card,Store B,30.78,2025-05-03,April,2025
+REG101133,2023-09-06,Central,Phone,17,588.58,9505.567,0.05,Save10,1,Wholesale,Diana,Debit Card,Store D,25.31,2023-09-13,September,2023
+REG101134,2023-09-29,East,Laptop,11,203.15,2011.185,0.1,Freeship,0,Retail,Eva,Online,Store C,30.97,2023-10-02,September,2023
+REG101135,2024-05-21,Central,Monitor,18,139.14,2504.52,0,Freeship,1,Wholesale,Carlos,Online,Store A,10.56,2024-05-23,May,2024
+REG101136,2025-04-13,West,Monitor,2,158.99,317.98,0,No Promostion,0,Wholesale,Bob,Online,Store A,48.32,2025-04-19,April,2025
+REG101137,2024-11-16,East,Chair,3,387.63,1162.89,0,Winter15,0,Wholesale,Diana,Credit Card,Store A,30.08,2024-11-20,November,2024
+REG101138,2024-07-20,North,Desk,5,202.12,909.54,0.1,Freeship,1,Retail,Diana,Online,Store A,45.61,2024-07-28,July,2024
+REG101139,2023-05-20,North,Desk,4,334.57,1137.538,0.15,No Promostion,0,Retail,Carlos,Gift Card,Store C,11.49,2023-05-27,May,2023
+REG101140,2023-10-22,West,Phone,16,486.71,6619.256,0.15,Freeship,1,Wholesale,Carlos,Online,Store B,12.53,2023-10-26,October,2023
+REG101141,2025-05-18,North,Monitor,2,188.29,320.093,0.15,Save10,0,Wholesale,Bob,Credit Card,Store D,32.22,2025-05-21,May,2025
+REG101142,2024-03-03,South,Laptop,3,260.72,664.836,0.15,Winter15,0,Wholesale,Frank,Online,Store B,19.41,2024-03-06,March,2024
+REG101143,2023-07-23,East,Desk,6,358.27,1934.658,0.1,No Promostion,0,Retail,Frank,Gift Card,Store B,7.34,2023-08-02,July,2023
+REG101144,2025-02-09,North,Desk,13,492.66,5764.122,0.1,Freeship,0,Retail,Frank,Gift Card,Store B,46.21,2025-02-14,February,2025
+REG101145,2023-01-17,South,Chair,3,348.38,1045.14,0,Freeship,0,Wholesale,Carlos,Gift Card,Store B,26.25,2023-01-23,January,2023
+REG101146,2023-09-17,North,Phone,6,437.59,2494.263,0.05,Winter15,1,Wholesale,Diana,Gift Card,Store D,39.4,2023-09-26,September,2023
+REG101147,2025-02-15,North,Printer,19,118.09,2019.339,0.1,Save10,0,Wholesale,Alice,Online,Store D,10.77,2025-02-23,February,2025
+REG101148,2023-10-07,West,Tablet,15,188.57,2687.1225,0.05,Freeship,1,Wholesale,Bob,Credit Card,Store C,38.61,2023-10-09,October,2023
+REG101149,2023-08-08,West,Phone,8,200.74,1605.92,0,Save10,1,Wholesale,Diana,Gift Card,Store A,30.7,2023-08-10,August,2023
+REG101150,2023-08-21,East,Laptop,3,142.09,362.3295,0.15,Winter15,0,Wholesale,Frank,Gift Card,Store C,26.04,2023-08-27,August,2023
+REG101151,2024-07-07,North,Tablet,15,576.12,7777.62,0.1,Winter15,0,Retail,Alice,Online,Store D,29.31,2024-07-11,July,2024
+REG101152,2025-01-17,South,Desk,9,96.97,741.8205,0.15,Winter15,1,Retail,Bob,Credit Card,Store D,30.87,2025-01-24,January,2025
+REG101153,2023-12-06,North,Tablet,17,218.04,3150.678,0.15,No Promostion,0,Wholesale,Bob,Cash,Store D,16,2023-12-16,December,2023
+REG101154,2023-03-01,South,Desk,2,153.33,291.327,0.05,No Promostion,0,Wholesale,Carlos,Cash,Store C,31.55,2023-03-04,March,2023
+REG101155,2025-02-11,North,Printer,8,316.12,2276.064,0.1,Winter15,0,Wholesale,Diana,Gift Card,Store B,6.28,2025-02-15,February,2025
+REG101156,2023-06-20,Central,Printer,13,153.57,1896.5895,0.05,No Promostion,0,Wholesale,Carlos,Gift Card,Store B,27.98,2023-06-25,June,2023
+REG101157,2024-02-29,West,Printer,7,208.31,1385.2615,0.05,Save10,0,Wholesale,Frank,Online,Store C,26.57,2024-03-03,February,2024
+REG101158,2025-06-30,North,Chair,2,160.96,289.728,0.1,Winter15,0,Wholesale,Eva,Gift Card,Store C,44.97,2025-07-05,June,2025
+REG101159,2024-08-19,North,Monitor,3,373.77,1009.179,0.1,Winter15,1,Retail,Eva,Cash,Store B,17.62,2024-08-25,August,2024
+REG101160,2024-01-15,Central,Printer,20,200.7,3612.6,0.1,Freeship,0,Retail,Alice,Online,Store D,29.6,2024-01-19,January,2024
+REG101161,2024-08-08,Central,Desk,14,115.77,1377.663,0.15,Save10,1,Wholesale,Frank,Credit Card,Store B,20.12,2024-08-11,August,2024
+REG101162,2024-10-05,West,Phone,12,535.41,5782.428,0.1,No Promostion,0,Retail,Frank,Gift Card,Store C,27.82,2024-10-07,October,2024
+REG101163,2024-01-13,South,Desk,12,103.59,1118.772,0.1,Freeship,0,Retail,Frank,Debit Card,Store A,48.11,2024-01-21,January,2024
+REG101164,2023-03-29,West,Laptop,18,176.32,3015.072,0.05,No Promostion,0,Wholesale,Diana,Debit Card,Store B,36.35,2023-04-04,March,2023
+REG101165,2023-10-19,North,Printer,5,112.44,505.98,0.1,No Promostion,1,Retail,Bob,Credit Card,Store D,7.46,2023-10-23,October,2023
+REG101166,2023-10-23,West,Chair,20,19.3,386,0,Save10,0,Wholesale,Bob,Debit Card,Store C,47.23,2023-11-01,October,2023
+REG101167,2023-03-24,South,Phone,9,233.11,1993.0905,0.05,Winter15,0,Retail,Eva,Debit Card,Store B,31.43,2023-03-28,March,2023
+REG101168,2024-08-09,West,Printer,17,66.48,960.636,0.15,Winter15,1,Wholesale,Eva,Gift Card,Store C,10.79,2024-08-14,August,2024
+REG101169,2023-04-26,South,Laptop,17,504.63,7720.839,0.1,Winter15,1,Wholesale,Carlos,Online,Store A,48.33,2023-05-06,April,2023
+REG101170,2024-03-04,West,Tablet,11,97.84,1022.428,0.05,Save10,1,Retail,Alice,Debit Card,Store B,45.97,2024-03-12,March,2024
+REG101171,2023-02-14,East,Tablet,7,468.14,2785.433,0.15,Save10,0,Retail,Bob,Cash,Store A,47.56,2023-02-17,February,2023
+REG101172,2023-04-28,West,Tablet,20,476.69,9057.11,0.05,Winter15,0,Wholesale,Bob,Online,Store B,10.2,2023-05-03,April,2023
+REG101173,2024-03-03,North,Phone,2,160.73,273.241,0.15,Freeship,0,Wholesale,Frank,Cash,Store A,20.18,2024-03-11,March,2024
+REG101174,2024-09-04,West,Tablet,9,228.98,1751.697,0.15,Winter15,0,Retail,Frank,Online,Store D,45.79,2024-09-08,September,2024
+REG101175,2024-12-30,East,Tablet,19,336.5,6393.5,0,Winter15,0,Wholesale,Alice,Online,Store B,27.43,2025-01-07,December,2024
+REG101176,2024-02-10,East,Printer,18,411.59,7408.62,0,Winter15,0,Wholesale,Bob,Credit Card,Store A,9.62,2024-02-16,February,2024
+REG101177,2023-09-07,Central,Printer,1,431.49,366.7665,0.15,Save10,0,Wholesale,Alice,Cash,Store C,17.53,2023-09-15,September,2023
+REG101178,2023-08-11,East,Laptop,18,495.39,8917.02,0,Save10,0,Wholesale,Carlos,Gift Card,Store A,14.88,2023-08-15,August,2023
+REG101179,2023-03-12,West,Phone,4,149.3,537.48,0.1,Freeship,0,Wholesale,Diana,Debit Card,Store A,47.84,2023-03-16,March,2023
+REG101180,2023-03-29,Central,Desk,18,179.97,2915.514,0.1,Save10,0,Wholesale,Eva,Cash,Store C,22.15,2023-03-31,March,2023
+REG101181,2025-02-17,South,Chair,11,381.14,3982.913,0.05,Freeship,0,Retail,Frank,Gift Card,Store B,32.83,2025-02-27,February,2025
+REG101182,2024-01-07,North,Chair,5,454.62,2159.445,0.05,No Promostion,0,Wholesale,Diana,Gift Card,Store C,10.19,2024-01-15,January,2024
+REG101183,2023-01-14,East,Phone,17,226.56,3466.368,0.1,Winter15,1,Wholesale,Diana,Gift Card,Store A,36.89,2023-01-20,January,2023
+REG101184,2024-01-03,West,Laptop,2,132.91,265.82,0,Winter15,0,Wholesale,Bob,Debit Card,Store A,7.76,2024-01-12,January,2024
+REG101185,2023-08-25,South,Desk,2,35.69,71.38,0,Freeship,0,Retail,Eva,Debit Card,Store C,39.89,2023-08-28,August,2023
+REG101186,2025-05-16,North,Desk,6,451.93,2304.843,0.15,Winter15,1,Wholesale,Eva,Cash,Store A,49.37,2025-05-25,May,2025
+REG101187,2023-12-30,South,Laptop,7,270.47,1798.6255,0.05,Winter15,1,Wholesale,Diana,Credit Card,Store D,41.56,2024-01-03,December,2023
+REG101188,2024-10-06,South,Phone,13,55.46,684.931,0.05,Freeship,1,Retail,Bob,Credit Card,Store A,18.01,2024-10-09,October,2024
+REG101189,2023-03-12,Central,Tablet,17,515.12,7443.484,0.15,Save10,1,Wholesale,Bob,Credit Card,Store D,32.74,2023-03-22,March,2023
+REG101190,2024-04-06,North,Phone,1,256.63,256.63,0,Freeship,0,Wholesale,Carlos,Gift Card,Store D,12.97,2024-04-08,April,2024
+REG101191,2023-01-20,North,Tablet,4,423.99,1611.162,0.05,Freeship,0,Retail,Frank,Online,Store B,20.05,2023-01-25,January,2023
+REG101192,2024-07-08,West,Laptop,15,77.89,1109.9325,0.05,No Promostion,0,Wholesale,Diana,Credit Card,Store B,20.87,2024-07-12,July,2024
+REG101193,2023-10-06,North,Phone,12,11.95,136.23,0.05,No Promostion,0,Retail,Carlos,Online,Store A,26.66,2023-10-16,October,2023
+REG101194,2023-09-11,East,Desk,7,67.05,422.415,0.1,Freeship,0,Wholesale,Carlos,Cash,Store D,36.67,2023-09-18,September,2023
+REG101195,2023-09-14,North,Phone,19,118.15,1908.1225,0.15,Save10,0,Retail,Frank,Cash,Store C,12.95,2023-09-19,September,2023
+REG101196,2023-11-06,North,Printer,16,114.47,1556.792,0.15,No Promostion,0,Wholesale,Carlos,Online,Store B,43.85,2023-11-11,November,2023
+REG101197,2024-06-23,North,Monitor,9,36.21,277.0065,0.15,Freeship,0,Wholesale,Bob,Credit Card,Store C,6.71,2024-06-30,June,2024
+REG101198,2023-03-30,West,Printer,10,52.58,473.22,0.1,Winter15,0,Wholesale,Eva,Cash,Store B,14.01,2023-04-09,March,2023
+REG101199,2024-10-05,East,Phone,6,272.26,1470.204,0.1,Save10,0,Retail,Carlos,Debit Card,Store A,43.67,2024-10-15,October,2024
+REG101200,2023-03-19,Central,Chair,10,124.97,1062.245,0.15,Winter15,1,Retail,Eva,Gift Card,Store D,40.23,2023-03-29,March,2023
+REG101201,2025-03-17,North,Phone,9,228.62,1954.701,0.05,Save10,0,Retail,Eva,Gift Card,Store C,31.43,2025-03-21,March,2025
+REG101202,2024-12-18,Central,Laptop,20,282.91,4809.47,0.15,Freeship,0,Wholesale,Frank,Debit Card,Store A,8.19,2024-12-28,December,2024
+REG101203,2025-01-06,West,Tablet,17,129.62,1873.009,0.15,Freeship,0,Retail,Eva,Online,Store D,24.28,2025-01-08,January,2025
+REG101204,2025-01-14,Central,Monitor,6,162.35,925.395,0.05,Save10,1,Wholesale,Eva,Credit Card,Store B,19.18,2025-01-20,January,2025
+REG101205,2023-01-26,South,Printer,14,209.82,2937.48,0,Save10,0,Wholesale,Eva,Cash,Store B,36.11,2023-01-30,January,2023
+REG101206,2024-08-04,North,Laptop,16,293.44,4460.288,0.05,Save10,0,Wholesale,Diana,Gift Card,Store D,42.56,2024-08-14,August,2024
+REG101207,2024-02-13,North,Phone,11,185.52,1734.612,0.15,Winter15,0,Wholesale,Diana,Credit Card,Store D,38.53,2024-02-16,February,2024
+REG101208,2023-02-11,Central,Desk,18,268.38,4106.214,0.15,Freeship,0,Wholesale,Alice,Cash,Store D,48.38,2023-02-14,February,2023
+REG101209,2024-06-17,East,Printer,18,547.05,8862.21,0.1,Freeship,0,Wholesale,Carlos,Cash,Store C,10.99,2024-06-22,June,2024
+REG101210,2024-06-06,South,Laptop,1,354.21,301.0785,0.15,No Promostion,0,Wholesale,Carlos,Online,Store A,26.16,2024-06-12,June,2024
+REG101211,2023-11-26,South,Chair,18,250.93,4290.903,0.05,No Promostion,0,Wholesale,Bob,Gift Card,Store C,47.67,2023-12-02,November,2023
+REG101212,2024-04-07,West,Printer,18,587.25,8984.925,0.15,No Promostion,0,Wholesale,Carlos,Online,Store C,42.15,2024-04-09,April,2024
+REG101213,2023-02-03,West,Desk,2,438.06,876.12,0,Freeship,1,Retail,Frank,Online,Store B,12.9,2023-02-09,February,2023
+REG101214,2024-11-25,East,Chair,14,6.1,72.59,0.15,Freeship,1,Wholesale,Carlos,Online,Store C,10.18,2024-11-30,November,2024
+REG101215,2024-06-30,North,Laptop,2,80.14,160.28,0,Freeship,1,Wholesale,Carlos,Online,Store D,13.41,2024-07-03,June,2024
+REG101216,2023-08-02,South,Laptop,11,66.97,626.1695,0.15,Freeship,1,Retail,Bob,Gift Card,Store A,20.35,2023-08-11,August,2023
+REG101217,2024-02-22,South,Chair,6,181.34,1088.04,0,Freeship,0,Wholesale,Alice,Cash,Store A,27.65,2024-02-27,February,2024
+REG101218,2024-11-29,North,Monitor,15,570,8122.5,0.05,No Promostion,0,Wholesale,Frank,Gift Card,Store D,7.62,2024-12-09,November,2024
+REG101219,2023-07-21,North,Monitor,9,587.79,4496.5935,0.15,No Promostion,0,Wholesale,Bob,Online,Store D,24.64,2023-07-31,July,2023
+REG101220,2023-04-14,Central,Phone,6,196.31,1060.074,0.1,Winter15,0,Retail,Carlos,Online,Store C,38.65,2023-04-17,April,2023
+REG101221,2023-02-01,North,Phone,8,430.06,3268.456,0.05,Save10,0,Wholesale,Bob,Debit Card,Store B,38.45,2023-02-05,February,2023
+REG101222,2024-06-30,East,Monitor,14,429.72,5414.472,0.1,Save10,0,Retail,Eva,Cash,Store A,45.78,2024-07-05,June,2024
+REG101223,2023-10-18,Central,Phone,13,127.34,1655.42,0,Winter15,0,Wholesale,Alice,Credit Card,Store D,6.15,2023-10-21,October,2023
+REG101224,2024-07-04,East,Monitor,6,421.97,2405.229,0.05,Winter15,0,Wholesale,Bob,Cash,Store B,41.31,2024-07-13,July,2024
+REG101225,2024-07-04,East,Tablet,5,225.69,959.1825,0.15,Winter15,0,Wholesale,Carlos,Gift Card,Store A,47.6,2024-07-12,July,2024
+REG101226,2023-07-27,North,Monitor,10,322.11,2737.935,0.15,Winter15,0,Retail,Diana,Debit Card,Store A,28.72,2023-08-02,July,2023
+REG101227,2025-03-01,West,Desk,4,209.3,795.34,0.05,No Promostion,0,Retail,Alice,Gift Card,Store B,6.89,2025-03-06,March,2025
+REG101228,2023-02-23,Central,Desk,16,326.16,4696.704,0.1,No Promostion,0,Wholesale,Frank,Credit Card,Store C,44.3,2023-02-25,February,2023
+REG101229,2023-01-11,East,Monitor,13,515.42,6700.46,0,Freeship,0,Retail,Bob,Online,Store D,43.37,2023-01-20,January,2023
+REG101230,2024-04-16,West,Tablet,7,129.83,908.81,0,Winter15,0,Wholesale,Carlos,Gift Card,Store A,13.12,2024-04-20,April,2024
+REG101231,2024-03-09,Central,Monitor,17,376.15,6074.8225,0.05,Winter15,1,Retail,Diana,Gift Card,Store C,31.96,2024-03-12,March,2024
+REG101232,2024-10-07,South,Chair,8,385.46,3083.68,0,Save10,0,Wholesale,Bob,Cash,Store A,8.89,2024-10-11,October,2024
+REG101233,2023-10-06,West,Printer,2,474.13,948.26,0,Freeship,1,Wholesale,Carlos,Gift Card,Store D,14.41,2023-10-15,October,2023
+REG101234,2023-04-08,West,Monitor,15,506.17,7212.9225,0.05,No Promostion,0,Wholesale,Alice,Online,Store B,41.73,2023-04-13,April,2023
+REG101235,2024-02-20,South,Phone,1,67.38,57.273,0.15,Winter15,0,Retail,Alice,Credit Card,Store D,6.14,2024-02-27,February,2024
+REG101236,2023-01-30,West,Chair,15,274.3,3497.325,0.15,No Promostion,0,Retail,Frank,Credit Card,Store B,21.56,2023-02-08,January,2023
+REG101237,2023-05-12,South,Monitor,2,334.48,668.96,0,No Promostion,0,Wholesale,Alice,Debit Card,Store B,31.53,2023-05-20,May,2023
+REG101238,2024-01-08,South,Chair,7,562.6,3347.47,0.15,Winter15,0,Retail,Eva,Online,Store A,19.95,2024-01-12,January,2024
+REG101239,2024-06-05,North,Monitor,7,14.34,95.361,0.05,Winter15,0,Retail,Alice,Debit Card,Store D,19.45,2024-06-08,June,2024
+REG101240,2025-05-21,East,Phone,11,34.72,343.728,0.1,Freeship,0,Wholesale,Diana,Gift Card,Store B,9.31,2025-05-23,May,2025
+REG101241,2025-05-21,East,Chair,7,15.06,105.42,0,No Promostion,1,Retail,Alice,Cash,Store A,46.57,2025-05-26,May,2025
+REG101242,2023-03-05,East,Printer,11,488.17,5101.3765,0.05,Winter15,1,Wholesale,Bob,Cash,Store B,37.47,2023-03-11,March,2023
+REG101243,2024-10-27,South,Tablet,10,268.39,2549.705,0.05,Save10,0,Retail,Alice,Credit Card,Store B,25.86,2024-11-02,October,2024
+REG101244,2025-03-24,North,Tablet,5,64.18,288.81,0.1,Save10,0,Retail,Eva,Gift Card,Store C,21.17,2025-03-29,March,2025
+REG101245,2024-09-21,West,Phone,15,466.55,6648.3375,0.05,Save10,1,Retail,Alice,Cash,Store A,36.68,2024-09-27,September,2024
+REG101246,2025-05-18,North,Desk,8,505.34,3840.584,0.05,No Promostion,0,Retail,Bob,Debit Card,Store B,22.88,2025-05-27,May,2025
+REG101247,2024-07-11,East,Monitor,6,100.75,544.05,0.1,Freeship,0,Wholesale,Frank,Credit Card,Store A,12.98,2024-07-14,July,2024
+REG101248,2025-01-27,North,Tablet,8,352.72,2680.672,0.05,No Promostion,0,Retail,Carlos,Cash,Store C,30.8,2025-02-04,January,2025
+REG101249,2023-11-26,East,Laptop,9,526.26,4736.34,0,Freeship,0,Retail,Bob,Cash,Store B,15.47,2023-12-06,November,2023
+REG101250,2024-06-02,Central,Printer,18,519.42,7947.126,0.15,Winter15,0,Retail,Eva,Cash,Store C,32.96,2024-06-04,June,2024
+REG101251,2023-01-17,North,Chair,18,108.46,1854.666,0.05,Save10,0,Wholesale,Frank,Online,Store D,10.72,2023-01-24,January,2023
+REG101252,2025-05-03,North,Desk,13,420.68,5195.398,0.05,No Promostion,0,Wholesale,Frank,Online,Store D,24.51,2025-05-11,May,2025
+REG101253,2025-01-05,North,Printer,17,5.91,85.3995,0.15,Save10,0,Wholesale,Eva,Online,Store A,44.85,2025-01-13,January,2025
+REG101254,2024-02-20,East,Phone,4,452.77,1811.08,0,Save10,0,Retail,Diana,Debit Card,Store B,32.01,2024-03-01,February,2024
+REG101255,2023-12-26,North,Monitor,7,157,934.15,0.15,Save10,1,Wholesale,Alice,Online,Store A,39.72,2024-01-04,December,2023
+REG101256,2023-03-07,North,Printer,11,550.86,5453.514,0.1,Freeship,0,Retail,Bob,Online,Store C,21.82,2023-03-12,March,2023
+REG101257,2024-09-13,North,Chair,5,172.65,733.7625,0.15,Save10,0,Wholesale,Alice,Cash,Store C,28.3,2024-09-22,September,2024
+REG101258,2024-01-02,East,Tablet,16,145.3,2324.8,0,Freeship,1,Wholesale,Eva,Credit Card,Store B,29.64,2024-01-12,January,2024
+REG101259,2025-02-08,South,Printer,10,67.38,606.42,0.1,Freeship,1,Retail,Diana,Gift Card,Store C,20.58,2025-02-18,February,2025
+REG101260,2025-03-04,South,Printer,15,141.13,2116.95,0,Save10,0,Wholesale,Carlos,Cash,Store D,19.63,2025-03-12,March,2025
+REG101261,2024-03-12,Central,Tablet,1,534.61,507.8795,0.05,Save10,0,Retail,Frank,Online,Store D,22.68,2024-03-21,March,2024
+REG101262,2024-07-03,East,Phone,9,560.04,4788.342,0.05,Winter15,0,Retail,Carlos,Gift Card,Store D,22.81,2024-07-07,July,2024
+REG101263,2025-01-05,North,Laptop,8,275.32,1982.304,0.1,Save10,0,Retail,Diana,Cash,Store D,18.26,2025-01-13,January,2025
+REG101264,2024-03-21,East,Phone,3,105.73,301.3305,0.05,Freeship,1,Retail,Bob,Debit Card,Store D,12.12,2024-03-28,March,2024
+REG101265,2025-03-28,Central,Monitor,15,568.81,7678.935,0.1,No Promostion,0,Retail,Frank,Gift Card,Store D,8.54,2025-04-03,March,2025
+REG101266,2025-04-13,Central,Laptop,20,190.39,3427.02,0.1,Save10,0,Retail,Bob,Gift Card,Store B,49.93,2025-04-18,April,2025
+REG101267,2024-04-30,West,Chair,19,433.39,7822.6895,0.05,Winter15,0,Retail,Bob,Online,Store C,7.59,2024-05-09,April,2024
+REG101268,2025-02-15,South,Phone,1,92.72,78.812,0.15,Winter15,0,Wholesale,Eva,Debit Card,Store C,48.46,2025-02-19,February,2025
+REG101269,2025-02-18,West,Laptop,1,263.28,236.952,0.1,Save10,0,Wholesale,Eva,Credit Card,Store D,36.28,2025-02-23,February,2025
+REG101270,2023-09-08,West,Phone,11,358.59,3944.49,0,No Promostion,0,Wholesale,Frank,Credit Card,Store B,29.19,2023-09-10,September,2023
+REG101271,2024-02-04,Central,Tablet,18,595.53,10719.54,0,Winter15,0,Retail,Frank,Cash,Store B,42.91,2024-02-06,February,2024
+REG101272,2024-11-25,North,Monitor,14,574.32,6834.408,0.15,Save10,0,Wholesale,Diana,Credit Card,Store D,12.07,2024-12-05,November,2024
+REG101273,2024-12-30,North,Laptop,18,444.13,7994.34,0,Save10,0,Retail,Frank,Cash,Store D,5.41,2025-01-02,December,2024
+REG101274,2023-09-05,West,Tablet,19,431.47,7378.137,0.1,Winter15,0,Retail,Eva,Gift Card,Store A,49.23,2023-09-10,September,2023
+REG101275,2023-08-01,West,Printer,19,67.49,1282.31,0,Save10,0,Retail,Frank,Debit Card,Store C,32.04,2023-08-11,August,2023
+REG101276,2023-01-06,Central,Tablet,11,25.67,240.0145,0.15,Save10,0,Retail,Carlos,Credit Card,Store C,30.12,2023-01-08,January,2023
+REG101277,2025-05-02,Central,Phone,4,368.69,1474.76,0,Winter15,0,Wholesale,Diana,Gift Card,Store D,48.57,2025-05-06,May,2025
+REG101278,2023-12-21,West,Monitor,7,257.01,1709.1165,0.05,No Promostion,0,Retail,Eva,Credit Card,Store D,35.52,2023-12-28,December,2023
+REG101279,2024-09-10,East,Laptop,14,85.54,1197.56,0,Freeship,0,Wholesale,Frank,Gift Card,Store B,16.08,2024-09-14,September,2024
+REG101280,2024-04-05,Central,Chair,9,267.6,2047.14,0.15,Freeship,0,Retail,Eva,Credit Card,Store D,8.48,2024-04-10,April,2024
+REG101281,2023-07-26,East,Desk,15,261.85,3338.5875,0.15,Save10,0,Wholesale,Diana,Online,Store D,40.68,2023-07-31,July,2023
+REG101282,2023-11-12,East,Printer,11,199.57,2085.5065,0.05,Save10,0,Retail,Bob,Debit Card,Store A,48.94,2023-11-14,November,2023
+REG101283,2025-04-18,Central,Phone,5,504.96,2398.56,0.05,Freeship,0,Retail,Diana,Gift Card,Store C,22.12,2025-04-20,April,2025
+REG101284,2023-08-12,South,Chair,8,28.34,215.384,0.05,No Promostion,1,Wholesale,Alice,Cash,Store C,23.19,2023-08-19,August,2023
+REG101285,2024-12-12,West,Printer,17,495.13,7575.489,0.1,Freeship,1,Wholesale,Alice,Online,Store D,26.37,2024-12-21,December,2024
+REG101286,2025-05-07,West,Phone,14,142.05,1889.265,0.05,Save10,0,Retail,Frank,Gift Card,Store D,33.65,2025-05-13,May,2025
+REG101287,2025-03-10,East,Chair,16,504.36,8069.76,0,No Promostion,1,Wholesale,Bob,Debit Card,Store D,11.67,2025-03-13,March,2025
+REG101288,2025-06-01,East,Desk,7,122.2,855.4,0,No Promostion,0,Retail,Carlos,Credit Card,Store B,30.21,2025-06-10,June,2025
+REG101289,2025-05-19,West,Chair,7,338.42,2013.599,0.15,Freeship,0,Retail,Alice,Online,Store B,5.82,2025-05-21,May,2025
+REG101290,2023-02-08,East,Tablet,4,224.75,899,0,No Promostion,0,Wholesale,Frank,Debit Card,Store D,43.86,2023-02-16,February,2023
+REG101291,2025-04-24,Central,Desk,16,509.71,7339.824,0.1,No Promostion,0,Wholesale,Carlos,Cash,Store C,41.78,2025-05-03,April,2025
+REG101292,2024-09-01,North,Tablet,14,297.56,3749.256,0.1,Freeship,0,Wholesale,Diana,Debit Card,Store B,31.44,2024-09-08,September,2024
+REG101293,2024-11-07,Central,Printer,13,365.11,4509.1085,0.05,No Promostion,0,Retail,Diana,Online,Store C,13.97,2024-11-13,November,2024
+REG101294,2024-11-29,East,Chair,1,139.13,139.13,0,No Promostion,1,Wholesale,Carlos,Cash,Store C,35.92,2024-12-02,November,2024
+REG101295,2023-04-10,West,Chair,6,543.89,3263.34,0,No Promostion,1,Retail,Bob,Cash,Store C,13.19,2023-04-20,April,2023
+REG101296,2024-01-10,North,Printer,19,219.7,4174.3,0,Freeship,0,Retail,Alice,Cash,Store A,15.38,2024-01-16,January,2024
+REG101297,2025-05-17,South,Phone,6,94.34,537.738,0.05,Winter15,1,Retail,Alice,Cash,Store C,49.26,2025-05-23,May,2025
+REG101298,2024-07-26,Central,Laptop,9,486.58,3722.337,0.15,Freeship,0,Retail,Alice,Online,Store A,38.72,2024-07-30,July,2024
+REG101299,2024-12-26,South,Desk,12,578.86,5904.372,0.15,Freeship,0,Retail,Frank,Cash,Store D,25.84,2025-01-03,December,2024
+REG101300,2025-01-23,East,Tablet,7,196.88,1378.16,0,Save10,0,Retail,Diana,Debit Card,Store C,44.92,2025-01-31,January,2025
+REG101301,2024-03-25,South,Phone,7,446.32,2811.816,0.1,No Promostion,0,Wholesale,Alice,Debit Card,Store B,47.23,2024-04-01,March,2024
+REG101302,2025-03-04,Central,Tablet,11,447.38,4921.18,0,Save10,0,Wholesale,Alice,Gift Card,Store D,36.72,2025-03-11,March,2025
+REG101303,2023-10-20,South,Desk,14,275.34,3469.284,0.1,No Promostion,1,Retail,Carlos,Online,Store B,32.8,2023-10-24,October,2023
+REG101304,2024-09-19,Central,Desk,2,27.64,46.988,0.15,Freeship,0,Retail,Frank,Credit Card,Store B,21.73,2024-09-28,September,2024
+REG101305,2023-09-23,North,Monitor,17,439.3,7468.1,0,Freeship,0,Retail,Frank,Online,Store B,12.87,2023-09-26,September,2023
+REG101306,2024-12-31,East,Printer,15,573.81,8607.15,0,Save10,0,Retail,Alice,Gift Card,Store C,35.87,2025-01-02,December,2024
+REG101307,2024-01-23,North,Desk,19,360.06,6499.083,0.05,Freeship,0,Wholesale,Eva,Debit Card,Store C,33.19,2024-01-31,January,2024
+REG101308,2023-06-13,East,Laptop,7,535.2,3371.76,0.1,No Promostion,0,Retail,Frank,Debit Card,Store C,10.44,2023-06-23,June,2023
+REG101309,2023-07-01,East,Chair,19,161.13,3061.47,0,Freeship,0,Wholesale,Diana,Credit Card,Store A,5.46,2023-07-06,July,2023
+REG101310,2025-03-22,South,Laptop,11,29.6,276.76,0.15,Freeship,1,Retail,Carlos,Cash,Store D,34.96,2025-03-25,March,2025
+REG101311,2025-02-07,South,Laptop,16,172.89,2351.304,0.15,Freeship,1,Wholesale,Diana,Credit Card,Store B,41.87,2025-02-15,February,2025
+REG101312,2023-10-18,North,Phone,5,48.06,240.3,0,Freeship,0,Wholesale,Alice,Gift Card,Store A,19.17,2023-10-26,October,2023
+REG101313,2024-01-02,Central,Desk,7,55.76,351.288,0.1,No Promostion,0,Wholesale,Alice,Online,Store C,38.98,2024-01-11,January,2024
+REG101314,2025-03-08,South,Laptop,4,24.58,83.572,0.15,Winter15,0,Wholesale,Carlos,Debit Card,Store B,39.87,2025-03-17,March,2025
+REG101315,2023-07-03,West,Desk,2,504.82,1009.64,0,Freeship,0,Retail,Carlos,Debit Card,Store D,25.54,2023-07-08,July,2023
+REG101316,2023-11-15,North,Tablet,17,275.89,4221.117,0.1,Freeship,0,Wholesale,Bob,Gift Card,Store B,15.43,2023-11-22,November,2023
+REG101317,2024-02-10,West,Desk,9,130.57,1057.617,0.1,Winter15,0,Wholesale,Eva,Cash,Store C,37.14,2024-02-17,February,2024
+REG101318,2025-04-09,West,Monitor,12,312.72,3752.64,0,No Promostion,0,Retail,Eva,Gift Card,Store C,18.46,2025-04-19,April,2025
+REG101319,2023-09-09,West,Tablet,18,222.66,3807.486,0.05,Save10,0,Wholesale,Alice,Gift Card,Store C,12.91,2023-09-12,September,2023
+REG101320,2023-03-19,East,Phone,13,374.05,4619.5175,0.05,Freeship,0,Wholesale,Diana,Debit Card,Store D,26.32,2023-03-26,March,2023
+REG101321,2024-12-31,Central,Printer,11,331.29,3279.771,0.1,Winter15,0,Wholesale,Alice,Credit Card,Store B,6.22,2025-01-02,December,2024
+REG101322,2023-11-24,Central,Phone,5,533.52,2667.6,0,Freeship,1,Wholesale,Carlos,Credit Card,Store D,9.08,2023-11-26,November,2023
+REG101323,2025-05-15,East,Chair,10,492.24,4922.4,0,Winter15,0,Retail,Alice,Gift Card,Store A,38.89,2025-05-22,May,2025
+REG101324,2025-04-06,South,Tablet,9,543.57,4158.3105,0.15,Save10,0,Retail,Diana,Debit Card,Store D,7.54,2025-04-11,April,2025
+REG101325,2024-02-06,South,Desk,17,141.76,2168.928,0.1,Winter15,1,Wholesale,Bob,Cash,Store D,9.98,2024-02-14,February,2024
+REG101326,2025-05-14,North,Laptop,12,502.7,5429.16,0.1,Freeship,0,Wholesale,Alice,Credit Card,Store D,6.49,2025-05-20,May,2025
+REG101327,2023-01-13,East,Tablet,10,155.43,1476.585,0.05,Winter15,0,Wholesale,Frank,Gift Card,Store D,26.49,2023-01-18,January,2023
+REG101328,2024-02-19,North,Tablet,18,203.73,3667.14,0,Save10,1,Wholesale,Carlos,Gift Card,Store B,24.98,2024-02-28,February,2024
+REG101329,2023-10-07,South,Phone,3,464.11,1183.4805,0.15,No Promostion,0,Wholesale,Alice,Gift Card,Store B,27.45,2023-10-12,October,2023
+REG101330,2024-09-17,Central,Chair,2,442.03,751.451,0.15,Winter15,0,Retail,Carlos,Debit Card,Store B,28.71,2024-09-19,September,2024
+REG101331,2023-05-07,North,Phone,7,82.91,551.3515,0.05,Winter15,1,Retail,Eva,Debit Card,Store A,17.03,2023-05-17,May,2023
+REG101332,2023-12-12,North,Phone,13,468.16,5173.168,0.15,Save10,0,Retail,Alice,Cash,Store B,29.11,2023-12-21,December,2023
+REG101333,2025-03-11,Central,Tablet,3,11.32,32.262,0.05,Winter15,0,Retail,Eva,Online,Store C,16.39,2025-03-14,March,2025
+REG101334,2024-03-29,East,Chair,1,378.36,359.442,0.05,No Promostion,0,Retail,Eva,Cash,Store A,7.59,2024-04-07,March,2024
+REG101335,2024-07-28,West,Tablet,6,61.06,366.36,0,Save10,1,Wholesale,Bob,Debit Card,Store D,49.09,2024-08-05,July,2024
+REG101336,2024-07-11,South,Tablet,14,98.06,1235.556,0.1,Save10,1,Wholesale,Alice,Debit Card,Store A,10.34,2024-07-21,July,2024
+REG101337,2024-07-05,West,Laptop,16,123.86,1684.496,0.15,No Promostion,1,Wholesale,Alice,Gift Card,Store A,18.02,2024-07-14,July,2024
+REG101338,2024-03-19,East,Laptop,16,90.3,1372.56,0.05,Winter15,0,Wholesale,Diana,Online,Store C,25.25,2024-03-24,March,2024
+REG101339,2023-12-25,Central,Tablet,18,470.91,7628.742,0.1,Freeship,0,Wholesale,Eva,Gift Card,Store C,14.87,2023-12-29,December,2023
+REG101340,2024-12-03,South,Monitor,12,383.45,4601.4,0,Freeship,0,Retail,Bob,Debit Card,Store C,11.62,2024-12-05,December,2024
+REG101341,2023-09-08,East,Tablet,20,293.94,4996.98,0.15,Save10,0,Retail,Alice,Credit Card,Store B,9.29,2023-09-15,September,2023
+REG101342,2024-01-05,East,Desk,2,454.01,908.02,0,Winter15,0,Wholesale,Diana,Online,Store B,9.78,2024-01-07,January,2024
+REG101343,2023-08-03,South,Chair,5,163.55,776.8625,0.05,No Promostion,0,Retail,Frank,Cash,Store D,28.9,2023-08-10,August,2023
+REG101344,2025-02-11,North,Monitor,12,141.61,1699.32,0,Winter15,0,Wholesale,Frank,Credit Card,Store B,11.72,2025-02-21,February,2025
+REG101345,2023-06-17,South,Chair,6,332.18,1793.772,0.1,Winter15,0,Wholesale,Bob,Online,Store B,21.95,2023-06-21,June,2023
+REG101346,2024-02-05,Central,Monitor,14,463.96,5521.124,0.15,No Promostion,0,Retail,Diana,Gift Card,Store D,29.19,2024-02-14,February,2024
+REG101347,2024-03-17,South,Desk,10,68.27,580.295,0.15,No Promostion,0,Wholesale,Diana,Credit Card,Store A,24.33,2024-03-27,March,2024
+REG101348,2024-02-03,Central,Laptop,8,27.01,205.276,0.05,Freeship,1,Wholesale,Eva,Online,Store C,42.65,2024-02-09,February,2024
+REG101349,2023-03-31,North,Tablet,9,78.8,638.28,0.1,Freeship,0,Retail,Alice,Online,Store D,9.29,2023-04-10,March,2023
+REG101350,2023-08-18,West,Tablet,16,174.68,2375.648,0.15,No Promostion,0,Wholesale,Frank,Credit Card,Store B,45.99,2023-08-22,August,2023
+REG101351,2023-09-10,Central,Printer,4,306.06,1163.028,0.05,Save10,1,Wholesale,Carlos,Gift Card,Store C,32.75,2023-09-13,September,2023
+REG101352,2024-01-29,South,Tablet,12,164.22,1970.64,0,Freeship,0,Retail,Bob,Credit Card,Store C,21.46,2024-02-03,January,2024
+REG101353,2024-03-21,North,Tablet,20,336.29,6725.8,0,Freeship,0,Retail,Eva,Gift Card,Store C,25.02,2024-03-30,March,2024
+REG101354,2024-08-03,West,Tablet,7,180.25,1135.575,0.1,Winter15,0,Retail,Diana,Gift Card,Store D,36.79,2024-08-05,August,2024
+REG101355,2025-05-05,North,Monitor,1,21.75,21.75,0,Freeship,0,Retail,Alice,Cash,Store C,7.35,2025-05-14,May,2025
+REG101356,2023-02-08,West,Tablet,13,149.16,1745.172,0.1,No Promostion,1,Retail,Eva,Cash,Store C,20.9,2023-02-16,February,2023
+REG101357,2023-05-26,Central,Chair,7,220.9,1314.355,0.15,Freeship,0,Wholesale,Bob,Gift Card,Store A,15.25,2023-06-05,May,2023
+REG101358,2024-07-15,East,Chair,1,364.27,327.843,0.1,Winter15,0,Retail,Alice,Debit Card,Store A,8.91,2024-07-22,July,2024
+REG101359,2024-12-18,North,Monitor,9,306.42,2757.78,0,No Promostion,0,Wholesale,Bob,Online,Store C,15.81,2024-12-27,December,2024
+REG101360,2024-09-29,North,Tablet,18,589,9541.8,0.1,Winter15,0,Wholesale,Diana,Cash,Store B,37.78,2024-10-08,September,2024
+REG101361,2024-10-25,South,Desk,16,249.45,3592.08,0.1,Freeship,0,Wholesale,Alice,Cash,Store C,20.92,2024-11-01,October,2024
+REG101362,2025-01-06,North,Monitor,20,440.32,8366.08,0.05,Save10,1,Retail,Alice,Debit Card,Store C,6.17,2025-01-16,January,2025
+REG101363,2023-11-19,Central,Tablet,3,101.34,304.02,0,No Promostion,0,Wholesale,Carlos,Debit Card,Store A,23.15,2023-11-21,November,2023
+REG101364,2024-04-11,South,Phone,17,311.61,5032.5015,0.05,No Promostion,1,Retail,Eva,Online,Store A,29.9,2024-04-17,April,2024
+REG101365,2024-03-30,South,Monitor,2,441.18,750.006,0.15,No Promostion,1,Retail,Bob,Cash,Store B,23.07,2024-04-06,March,2024
+REG101366,2024-11-25,North,Chair,20,286.66,5159.88,0.1,Winter15,0,Retail,Carlos,Debit Card,Store D,15.54,2024-11-29,November,2024
+REG101367,2025-01-06,North,Printer,13,483.63,5972.8305,0.05,Freeship,0,Retail,Carlos,Cash,Store A,18.22,2025-01-15,January,2025
+REG101368,2023-04-15,West,Tablet,8,304.15,2311.54,0.05,No Promostion,0,Wholesale,Carlos,Debit Card,Store B,41.73,2023-04-18,April,2023
+REG101369,2024-02-07,East,Printer,10,452.21,4069.89,0.1,Winter15,0,Retail,Eva,Cash,Store A,15.87,2024-02-17,February,2024
+REG101370,2023-06-02,East,Printer,4,248.16,893.376,0.1,No Promostion,1,Retail,Diana,Credit Card,Store B,45.11,2023-06-05,June,2023
+REG101371,2023-08-24,East,Laptop,4,520,2080,0,Winter15,0,Retail,Eva,Credit Card,Store A,18.25,2023-09-02,August,2023
+REG101372,2024-12-06,South,Chair,11,571.07,6281.77,0,Save10,0,Retail,Frank,Gift Card,Store A,12.6,2024-12-11,December,2024
+REG101373,2023-12-08,East,Tablet,11,65.57,649.143,0.1,Save10,1,Retail,Diana,Debit Card,Store D,30.43,2023-12-14,December,2023
+REG101374,2023-05-12,South,Tablet,4,397.02,1588.08,0,Freeship,0,Wholesale,Frank,Cash,Store A,23.25,2023-05-20,May,2023
+REG101375,2025-04-24,West,Laptop,10,169.35,1608.825,0.05,Winter15,0,Retail,Alice,Credit Card,Store B,44.91,2025-04-27,April,2025
+REG101376,2023-04-23,Central,Tablet,9,340.44,2910.762,0.05,Freeship,1,Retail,Carlos,Debit Card,Store D,36.68,2023-05-03,April,2023
+REG101377,2023-01-18,North,Monitor,1,120.2,114.19,0.05,Winter15,0,Retail,Carlos,Online,Store D,44.99,2023-01-21,January,2023
+REG101378,2025-05-11,North,Phone,13,169.39,1871.7595,0.15,No Promostion,0,Wholesale,Diana,Credit Card,Store B,6.81,2025-05-21,May,2025
+REG101379,2024-12-23,West,Tablet,10,170.72,1621.84,0.05,Freeship,0,Wholesale,Frank,Online,Store A,29.18,2025-01-02,December,2024
+REG101380,2023-08-20,West,Desk,9,323.77,2476.8405,0.15,No Promostion,0,Wholesale,Carlos,Debit Card,Store A,6.36,2023-08-28,August,2023
+REG101381,2025-03-18,Central,Chair,4,481.86,1927.44,0,Freeship,0,Wholesale,Bob,Online,Store B,21.92,2025-03-23,March,2025
+REG101382,2024-01-16,Central,Phone,4,78.05,312.2,0,No Promostion,0,Retail,Carlos,Credit Card,Store A,14.03,2024-01-24,January,2024
+REG101383,2024-05-29,East,Tablet,6,57.4,309.96,0.1,Freeship,0,Wholesale,Eva,Debit Card,Store C,26.42,2024-06-08,May,2024
+REG101384,2025-03-25,South,Laptop,9,454.98,3480.597,0.15,No Promostion,0,Wholesale,Eva,Credit Card,Store B,40.76,2025-03-27,March,2025
+REG101385,2025-03-22,Central,Desk,11,365.75,3822.0875,0.05,Freeship,1,Wholesale,Bob,Debit Card,Store D,8.37,2025-03-27,March,2025
+REG101386,2024-08-17,East,Phone,7,106.88,710.752,0.05,Winter15,1,Retail,Diana,Cash,Store C,26.12,2024-08-24,August,2024
+REG101387,2024-06-02,South,Printer,2,250.98,451.764,0.1,Winter15,0,Wholesale,Eva,Online,Store B,18.8,2024-06-12,June,2024
+REG101388,2023-03-31,South,Monitor,8,591.29,4257.288,0.1,No Promostion,1,Retail,Diana,Credit Card,Store C,45.14,2023-04-10,March,2023
+REG101389,2024-05-19,West,Monitor,18,369.79,6323.409,0.05,Freeship,1,Wholesale,Eva,Cash,Store A,16.4,2024-05-23,May,2024
+REG101390,2023-03-02,West,Desk,15,166.24,2244.24,0.1,Save10,0,Wholesale,Diana,Debit Card,Store D,9.86,2023-03-05,March,2023
+REG101391,2023-03-13,North,Printer,12,260.76,2659.752,0.15,No Promostion,0,Wholesale,Carlos,Online,Store C,20.92,2023-03-22,March,2023
+REG101392,2025-04-16,West,Laptop,10,348.63,3311.985,0.05,No Promostion,1,Wholesale,Diana,Credit Card,Store D,42.79,2025-04-18,April,2025
+REG101393,2024-06-05,North,Chair,5,473.28,2366.4,0,Save10,1,Retail,Diana,Credit Card,Store A,30.69,2024-06-15,June,2024
+REG101394,2024-09-01,North,Chair,16,401.83,6429.28,0,Freeship,0,Retail,Eva,Cash,Store B,21.54,2024-09-05,September,2024
+REG101395,2024-09-21,North,Phone,10,269.29,2692.9,0,Save10,0,Retail,Eva,Debit Card,Store C,14.09,2024-09-30,September,2024
+REG101396,2025-01-11,North,Desk,4,323.02,1227.476,0.05,No Promostion,0,Retail,Diana,Cash,Store C,19.53,2025-01-16,January,2025
+REG101397,2023-01-04,West,Monitor,15,439.89,5608.5975,0.15,Freeship,0,Retail,Diana,Online,Store D,49.71,2023-01-08,January,2023
+REG101398,2023-05-02,West,Monitor,16,483.09,7342.968,0.05,No Promostion,1,Wholesale,Alice,Debit Card,Store C,37.66,2023-05-05,May,2023
+REG101399,2023-07-09,East,Phone,13,27.39,302.6595,0.15,No Promostion,0,Retail,Frank,Cash,Store B,22.95,2023-07-14,July,2023
+REG101400,2025-02-27,East,Monitor,18,432.52,7396.092,0.05,Save10,1,Retail,Bob,Credit Card,Store D,34.19,2025-03-04,February,2025
+REG101401,2024-09-23,West,Printer,3,360.93,920.3715,0.15,Winter15,0,Wholesale,Diana,Debit Card,Store B,35.61,2024-09-29,September,2024
+REG101402,2025-06-22,East,Tablet,5,414.58,1865.61,0.1,No Promostion,0,Retail,Diana,Gift Card,Store B,14.98,2025-07-01,June,2025
+REG101403,2025-01-19,Central,Tablet,4,68.04,272.16,0,Freeship,0,Wholesale,Bob,Online,Store C,18.72,2025-01-28,January,2025
+REG101404,2025-02-03,East,Phone,10,407.99,3467.915,0.15,No Promostion,0,Retail,Eva,Cash,Store C,49.59,2025-02-08,February,2025
+REG101405,2023-11-11,East,Tablet,15,274.77,4121.55,0,No Promostion,1,Retail,Eva,Cash,Store D,19.37,2023-11-17,November,2023
+REG101406,2024-05-08,East,Desk,15,31.81,405.5775,0.15,Save10,0,Wholesale,Eva,Cash,Store C,23.61,2024-05-10,May,2024
+REG101407,2023-09-18,South,Printer,14,268.32,3756.48,0,Winter15,0,Retail,Frank,Online,Store D,43.14,2023-09-27,September,2023
+REG101408,2025-04-05,Central,Tablet,19,350.12,6319.666,0.05,Freeship,0,Retail,Alice,Credit Card,Store D,48.98,2025-04-13,April,2025
+REG101409,2023-09-13,Central,Desk,9,329.15,2814.2325,0.05,Freeship,0,Retail,Diana,Gift Card,Store A,29.41,2023-09-15,September,2023
+REG101410,2024-06-28,East,Monitor,1,577.07,548.2165,0.05,Winter15,0,Wholesale,Frank,Online,Store C,22.97,2024-07-06,June,2024
+REG101411,2023-04-06,Central,Chair,6,544.33,2939.382,0.1,No Promostion,0,Wholesale,Carlos,Cash,Store B,11.52,2023-04-08,April,2023
+REG101412,2023-05-13,South,Laptop,18,331.45,5071.185,0.15,Winter15,1,Retail,Alice,Cash,Store D,32.92,2023-05-18,May,2023
+REG101413,2025-05-07,East,Laptop,1,421.26,379.134,0.1,Freeship,0,Retail,Eva,Debit Card,Store D,36.34,2025-05-15,May,2025
+REG101414,2025-03-22,North,Tablet,4,555.02,1998.072,0.1,Save10,0,Retail,Diana,Cash,Store B,45.25,2025-03-27,March,2025
+REG101415,2024-06-24,South,Laptop,19,254.03,4826.57,0,Save10,1,Wholesale,Frank,Online,Store C,11.21,2024-07-02,June,2024
+REG101416,2025-06-29,West,Tablet,9,533.93,4084.5645,0.15,No Promostion,0,Retail,Frank,Gift Card,Store D,34.76,2025-07-03,June,2025
+REG101417,2024-04-01,West,Desk,7,241.35,1520.505,0.1,Save10,0,Wholesale,Diana,Credit Card,Store B,42.43,2024-04-10,April,2024
+REG101418,2024-06-04,North,Tablet,11,160.37,1675.8665,0.05,No Promostion,0,Wholesale,Carlos,Cash,Store B,36.05,2024-06-14,June,2024
+REG101419,2023-03-30,East,Tablet,1,419.1,377.19,0.1,Save10,1,Wholesale,Carlos,Gift Card,Store B,38.81,2023-04-06,March,2023
+REG101420,2025-03-26,East,Laptop,13,138.72,1532.856,0.15,Winter15,1,Wholesale,Carlos,Cash,Store D,17.89,2025-03-28,March,2025
+REG101421,2023-08-22,West,Monitor,8,461.04,3688.32,0,Freeship,0,Retail,Alice,Online,Store B,13.62,2023-08-24,August,2023
+REG101422,2024-04-16,South,Phone,6,524.19,2673.369,0.15,Winter15,0,Retail,Frank,Cash,Store D,31.04,2024-04-20,April,2024
+REG101423,2025-05-11,Central,Chair,16,305.21,4395.024,0.1,Save10,0,Wholesale,Alice,Debit Card,Store A,33.37,2025-05-19,May,2025
+REG101424,2023-12-11,North,Printer,16,438.71,7019.36,0,No Promostion,0,Retail,Alice,Online,Store C,6.53,2023-12-21,December,2023
+REG101425,2023-01-16,North,Printer,10,193.96,1745.64,0.1,No Promostion,0,Wholesale,Alice,Gift Card,Store D,41.3,2023-01-21,January,2023
+REG101426,2023-05-10,East,Phone,18,580.42,9925.182,0.05,Save10,0,Wholesale,Bob,Online,Store A,37.81,2023-05-17,May,2023
+REG101427,2024-06-22,Central,Monitor,18,91.55,1483.11,0.1,Freeship,0,Retail,Alice,Debit Card,Store C,32.54,2024-06-29,June,2024
+REG101428,2025-03-29,West,Tablet,13,113.78,1331.226,0.1,Freeship,0,Wholesale,Eva,Online,Store C,28.07,2025-04-07,March,2025
+REG101429,2023-04-18,North,Tablet,16,477.91,7646.56,0,Winter15,0,Wholesale,Carlos,Credit Card,Store A,21.89,2023-04-23,April,2023
+REG101430,2023-02-07,Central,Laptop,14,306.39,3860.514,0.1,Winter15,0,Retail,Eva,Cash,Store A,38.73,2023-02-09,February,2023
+REG101431,2025-01-22,East,Tablet,17,8.33,134.5295,0.05,No Promostion,0,Retail,Eva,Cash,Store A,43.29,2025-01-25,January,2025
+REG101432,2023-07-04,East,Phone,6,346.86,1977.102,0.05,Freeship,0,Retail,Eva,Gift Card,Store C,29.18,2023-07-12,July,2023
+REG101433,2023-07-31,Central,Desk,14,223.26,2813.076,0.1,Winter15,0,Wholesale,Alice,Credit Card,Store B,12.88,2023-08-03,July,2023
+REG101434,2023-04-20,North,Desk,6,529.1,3174.6,0,Winter15,0,Wholesale,Eva,Debit Card,Store D,5.13,2023-04-27,April,2023
+REG101435,2024-10-08,Central,Tablet,11,97.34,963.666,0.1,Save10,0,Wholesale,Carlos,Debit Card,Store D,10.61,2024-10-11,October,2024
+REG101436,2024-01-25,East,Chair,11,422.89,4186.611,0.1,Save10,0,Retail,Frank,Credit Card,Store B,45.89,2024-01-27,January,2024
+REG101437,2024-12-16,South,Monitor,4,557.17,2117.246,0.05,No Promostion,0,Wholesale,Frank,Credit Card,Store C,32.16,2024-12-25,December,2024
+REG101438,2024-10-24,Central,Printer,9,459.65,3723.165,0.1,Winter15,1,Retail,Bob,Gift Card,Store B,22.24,2024-11-01,October,2024
+REG101439,2023-11-16,West,Monitor,8,493.35,3552.12,0.1,Freeship,1,Retail,Alice,Cash,Store A,12.86,2023-11-20,November,2023
+REG101440,2024-03-31,South,Laptop,13,428.59,5571.67,0,Freeship,0,Retail,Bob,Cash,Store D,23.89,2024-04-08,March,2024
+REG101441,2023-02-13,East,Laptop,7,242.11,1610.0315,0.05,Winter15,0,Wholesale,Eva,Debit Card,Store C,47.19,2023-02-18,February,2023
+REG101442,2023-09-20,South,Tablet,17,477.38,7709.687,0.05,Freeship,0,Retail,Alice,Gift Card,Store C,35.28,2023-09-27,September,2023
+REG101443,2023-06-27,South,Chair,3,261.6,745.56,0.05,Winter15,0,Retail,Diana,Cash,Store D,42.11,2023-07-07,June,2023
+REG101444,2025-04-02,Central,Laptop,6,416.2,2372.34,0.05,Winter15,1,Wholesale,Alice,Cash,Store A,44.14,2025-04-06,April,2025
+REG101445,2025-04-16,North,Printer,15,99.66,1494.9,0,Freeship,0,Wholesale,Eva,Cash,Store A,27.55,2025-04-26,April,2025
+REG101446,2024-07-09,Central,Laptop,16,55.56,755.616,0.15,No Promostion,1,Wholesale,Frank,Cash,Store D,17.81,2024-07-17,July,2024
+REG101447,2025-06-23,East,Phone,20,243.47,4625.93,0.05,Freeship,1,Wholesale,Alice,Gift Card,Store A,32.28,2025-07-03,June,2025
+REG101448,2024-06-09,East,Tablet,11,185.59,1837.341,0.1,No Promostion,0,Retail,Carlos,Gift Card,Store B,45.19,2024-06-18,June,2024
+REG101449,2023-12-01,Central,Desk,11,347.38,3630.121,0.05,Freeship,0,Wholesale,Eva,Credit Card,Store C,24.8,2023-12-03,December,2023
+REG101450,2024-07-24,West,Tablet,15,318.03,4531.9275,0.05,Winter15,1,Retail,Diana,Gift Card,Store D,24.38,2024-07-30,July,2024
+REG101451,2023-04-12,West,Chair,15,242.35,3089.9625,0.15,Winter15,1,Wholesale,Diana,Cash,Store D,14.92,2023-04-19,April,2023
+REG101452,2024-12-17,North,Desk,3,82.09,209.3295,0.15,Winter15,1,Retail,Eva,Gift Card,Store B,12.63,2024-12-26,December,2024
+REG101453,2024-08-08,South,Monitor,10,285.73,2428.705,0.15,Winter15,1,Wholesale,Eva,Cash,Store D,26.68,2024-08-14,August,2024
+REG101454,2024-09-15,East,Laptop,17,341.52,5225.256,0.1,Freeship,0,Wholesale,Eva,Credit Card,Store C,16.67,2024-09-22,September,2024
+REG101455,2023-10-08,South,Tablet,14,216.4,2726.64,0.1,Winter15,0,Wholesale,Diana,Debit Card,Store D,40.74,2023-10-10,October,2023
+REG101456,2025-05-23,South,Phone,16,231.76,3151.936,0.15,Winter15,1,Retail,Bob,Online,Store B,9.42,2025-05-27,May,2025
+REG101457,2023-01-02,South,Laptop,7,61.47,365.7465,0.15,Freeship,0,Retail,Eva,Online,Store C,14.44,2023-01-12,January,2023
+REG101458,2023-10-19,North,Desk,15,434.44,6516.6,0,No Promostion,1,Wholesale,Bob,Debit Card,Store B,33.86,2023-10-28,October,2023
+REG101459,2025-04-25,West,Chair,16,484.01,7744.16,0,Save10,1,Wholesale,Alice,Online,Store A,9.65,2025-05-01,April,2025
+REG101460,2024-03-31,Central,Desk,2,55.08,110.16,0,Freeship,0,Wholesale,Frank,Credit Card,Store C,9.85,2024-04-04,March,2024
+REG101461,2025-01-31,North,Printer,13,223.44,2469.012,0.15,No Promostion,1,Retail,Carlos,Credit Card,Store B,38.46,2025-02-07,January,2025
+REG101462,2025-03-27,East,Phone,11,548.08,5727.436,0.05,No Promostion,0,Wholesale,Eva,Cash,Store D,25.82,2025-04-06,March,2025
+REG101463,2025-01-19,Central,Desk,11,133.64,1470.04,0,No Promostion,1,Wholesale,Diana,Debit Card,Store D,30.18,2025-01-24,January,2025
+REG101464,2024-05-16,North,Chair,19,368.85,6307.335,0.1,Freeship,0,Retail,Bob,Gift Card,Store C,35.37,2024-05-21,May,2024
+REG101465,2023-09-04,Central,Chair,14,115.98,1623.72,0,No Promostion,0,Wholesale,Bob,Debit Card,Store A,31.85,2023-09-06,September,2023
+REG101466,2023-12-17,South,Monitor,9,55.04,421.056,0.15,No Promostion,0,Retail,Alice,Online,Store B,31.09,2023-12-23,December,2023
+REG101467,2024-01-15,Central,Monitor,4,159.54,606.252,0.05,Freeship,0,Wholesale,Alice,Credit Card,Store A,32.36,2024-01-21,January,2024
+REG101468,2024-12-19,Central,Laptop,15,150.15,2252.25,0,Winter15,0,Retail,Frank,Online,Store C,35.94,2024-12-29,December,2024
+REG101469,2023-12-16,North,Chair,9,57.93,521.37,0,Freeship,1,Wholesale,Bob,Gift Card,Store C,28.73,2023-12-18,December,2023
+REG101470,2025-05-14,Central,Laptop,4,438.58,1666.604,0.05,Winter15,0,Retail,Alice,Online,Store D,5.1,2025-05-18,May,2025
+REG101471,2023-06-30,South,Monitor,6,536.24,3217.44,0,Winter15,0,Retail,Diana,Cash,Store D,35.32,2023-07-02,June,2023
+REG101472,2025-06-30,South,Phone,20,444.77,8005.86,0.1,No Promostion,1,Wholesale,Diana,Online,Store B,20.05,2025-07-07,June,2025
+REG101473,2025-03-14,Central,Printer,10,212.1,1802.85,0.15,Winter15,0,Retail,Eva,Gift Card,Store B,47.93,2025-03-22,March,2025
+REG101474,2023-04-18,South,Phone,9,509.44,3897.216,0.15,Save10,0,Retail,Eva,Credit Card,Store B,13,2023-04-27,April,2023
+REG101475,2024-09-11,West,Monitor,8,236.17,1605.956,0.15,Winter15,0,Wholesale,Frank,Cash,Store C,22.88,2024-09-19,September,2024
+REG101476,2023-11-21,Central,Printer,1,147.4,147.4,0,Save10,1,Retail,Carlos,Cash,Store D,40.47,2023-11-28,November,2023
+REG101477,2024-02-29,West,Tablet,8,279.74,2126.024,0.05,Freeship,0,Retail,Alice,Gift Card,Store B,33.1,2024-03-07,February,2024
+REG101478,2023-05-11,West,Laptop,3,304.61,868.1385,0.05,Save10,0,Wholesale,Bob,Cash,Store B,47.14,2023-05-15,May,2023
+REG101479,2024-09-11,South,Tablet,9,238.32,2144.88,0,Winter15,1,Retail,Diana,Cash,Store C,8.5,2024-09-20,September,2024
+REG101480,2024-08-16,West,Printer,16,483.37,6960.528,0.1,No Promostion,0,Retail,Alice,Debit Card,Store B,42.52,2024-08-22,August,2024
+REG101481,2025-05-30,North,Monitor,6,159.53,909.321,0.05,No Promostion,0,Retail,Bob,Gift Card,Store A,48.6,2025-06-07,May,2025
+REG101482,2023-08-22,East,Desk,19,280.6,4798.26,0.1,Freeship,0,Wholesale,Frank,Gift Card,Store A,35.94,2023-08-28,August,2023
+REG101483,2024-01-23,East,Tablet,2,389.98,740.962,0.05,Save10,1,Wholesale,Carlos,Debit Card,Store D,24.55,2024-01-25,January,2024
+REG101484,2023-03-16,North,Monitor,17,485.3,7012.585,0.15,Winter15,0,Retail,Diana,Cash,Store D,37.94,2023-03-23,March,2023
+REG101485,2025-05-16,South,Laptop,4,472.24,1888.96,0,Freeship,1,Retail,Alice,Gift Card,Store D,6.78,2025-05-21,May,2025
+REG101486,2023-05-23,East,Monitor,8,143.53,1148.24,0,Winter15,0,Wholesale,Alice,Cash,Store D,9.1,2023-05-29,May,2023
+REG101487,2024-06-16,North,Chair,5,159.92,799.6,0,Save10,0,Wholesale,Carlos,Cash,Store B,10.86,2024-06-23,June,2024
+REG101488,2025-01-28,Central,Monitor,13,447.34,5524.649,0.05,Save10,0,Wholesale,Frank,Cash,Store A,38.93,2025-02-04,January,2025
+REG101489,2024-11-27,South,Phone,13,196.8,2302.56,0.1,No Promostion,0,Retail,Diana,Cash,Store B,10.12,2024-12-07,November,2024
+REG101490,2023-10-09,Central,Chair,3,485.81,1311.687,0.1,Save10,0,Wholesale,Eva,Debit Card,Store A,19.46,2023-10-11,October,2023
+REG101491,2024-07-21,West,Phone,16,183.62,2791.024,0.05,Winter15,0,Wholesale,Bob,Gift Card,Store A,6.56,2024-07-31,July,2024
+REG101492,2024-07-03,East,Monitor,2,373.07,708.833,0.05,Freeship,0,Retail,Diana,Credit Card,Store A,26.9,2024-07-07,July,2024
+REG101493,2024-09-24,West,Monitor,17,527.68,8970.56,0,Freeship,0,Wholesale,Diana,Gift Card,Store B,29.19,2024-10-02,September,2024
+REG101494,2025-01-14,East,Tablet,5,201.29,1006.45,0,Freeship,0,Wholesale,Carlos,Online,Store D,49.13,2025-01-21,January,2025
+REG101495,2025-02-17,West,Desk,13,134.56,1661.816,0.05,Winter15,0,Retail,Carlos,Credit Card,Store D,35.63,2025-02-22,February,2025
+REG101496,2024-01-11,South,Chair,18,209.75,3209.175,0.15,Freeship,0,Wholesale,Frank,Debit Card,Store C,45.93,2024-01-17,January,2024
+REG101497,2024-07-27,East,Desk,1,272.5,272.5,0,Winter15,0,Wholesale,Eva,Gift Card,Store A,35.56,2024-08-03,July,2024
+REG101498,2024-12-03,Central,Monitor,14,262.67,3493.511,0.05,Save10,0,Retail,Carlos,Gift Card,Store A,24.53,2024-12-10,December,2024
+REG101499,2025-05-09,West,Chair,13,221.39,2878.07,0,Freeship,1,Wholesale,Frank,Debit Card,Store D,21.05,2025-05-13,May,2025
