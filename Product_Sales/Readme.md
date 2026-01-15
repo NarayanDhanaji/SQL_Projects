@@ -49,7 +49,7 @@ and promotion effectiveness, impacting decision-making.
  # Files in This Repository:
  Product Sales  : [Dataset Link](https://github.com/NarayanDhanaji/SQL_Projects/blob/main/Product_Sales/Product_sales_dataset.csv) 
  
- SQL Anaysis    : [Sql_queries]()
+ SQL Anaysis    : [Sql_queries](https://github.com/NarayanDhanaji/SQL_Projects/blob/main/Product_Sales/Product_sales_queries.sql)
  
  Excel Analysis : [Excel_dashboard]() 
  
