@@ -72,13 +72,13 @@ using SQL, Excel, and Power BI.
 
 # Files in This Repository
 
- - HR Employee  : [Dataset Link](https://github.com/Mahadevkempe/SQL_Projects/blob/main/HR%20Analysis/HR%20Empoyee.csv) 
+ - HR Employee  : [Dataset Link](https://github.com/NarayanDhanaji/SQL_Projects/blob/main/HR_Analytics/HR%20Empoyee.csv) 
  
- - SQL Anaysis    : [Sql_Queries](https://github.com/Mahadevkempe/SQL_Projects/blob/main/HR%20Analysis/Sql_queries.sql)
+ - SQL Anaysis    : [Sql_Queries]()
  
- - Power BI Analysis : [Power BI_Dashboard](https://github.com/Mahadevkempe/SQL_Projects/blob/main/HR%20Analysis/Dashboard.png) 
+ - Power BI Analysis : [Power BI_Dashboard]() 
  
- - Project Report : [HR Analytics – Employee Attrition Analysis](https://github.com/Mahadevkempe/SQL_Projects/blob/main/HR%20Analysis/Project%20Report.pdf)
+ - Project Report : [HR Analytics – Employee Attrition Analysis]()
    
 
 ## Conclusion
