@@ -74,7 +74,7 @@ using SQL, Excel, and Power BI.
 
  - HR Employee  : [Dataset Link](https://github.com/NarayanDhanaji/SQL_Projects/blob/main/HR_Analytics/HR%20Empoyee.csv) 
  
- - SQL Anaysis    : [Sql_Queries]()
+ - SQL Anaysis    : [Sql_Queries](https://github.com/NarayanDhanaji/SQL_Projects/blob/main/HR_Analytics/Sql_queries.sql)
  
  - Power BI Analysis : [Power BI_Dashboard]() 
  
