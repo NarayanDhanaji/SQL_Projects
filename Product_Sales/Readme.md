@@ -53,7 +53,7 @@ and promotion effectiveness, impacting decision-making.
  
  Excel Analysis : [Excel_dashboard](https://github.com/NarayanDhanaji/SQL_Projects/blob/main/Product_Sales/Dashboard.png) 
  
- Project Report : [Product Sales Performance Analysis Report]() 
+ Project Report : [Product Sales Performance Analysis Report](https://github.com/NarayanDhanaji/SQL_Projects/blob/main/Product_Sales/Product%20Sales%20Performance%20Analysis%20Report.pdf) 
 
 
 ##  Conclusion :
